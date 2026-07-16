@@ -1,0 +1,1 @@
+﻿risk_event_id,geo_type,geo_id,event_start,event_end,forecast_run_utc,forecast_24h_mm,forecast_48h_mm,forecast_72h_mm,rainfall_warning_class,malaria_prone_days,sentinel1_waterlogging_status,waterlogging_area_ha,route_disruption_status,field_verification_status,risk_stage,evidence_grade

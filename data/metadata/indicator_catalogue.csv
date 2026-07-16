@@ -1,0 +1,26 @@
+﻿indicator_code,official_name,population_group,unit,numerator_definition,denominator_definition,reporting_frequency,public_aggregation,notes
+ANC1,Pregnant women attending first ANC visit,Pregnant women,count,Number of first ANC visits,Eligible pregnancy target,Monthly,Catchment/LGA,Visits may differ from unique women
+ANC_ATTENDANCE,Total ANC attendance,Pregnant women,count,All ANC attendances,Not applicable,Monthly,Catchment/LGA,Report as contacts and avoid assuming unique women
+PW_FEVER_RDT_TESTED,Pregnant women with fever tested by RDT,Pregnant women,count,Pregnant women tested by RDT,Pregnant women presenting with fever,Monthly,Facility/catchment,
+PW_FEVER_MICROSCOPY_TESTED,Pregnant women with fever tested by microscopy,Pregnant women,count,Pregnant women tested by microscopy,Pregnant women presenting with fever,Monthly,Facility/catchment,
+PW_UNCOMPLICATED_MALARIA_CONFIRMED,Confirmed uncomplicated malaria in pregnant women,Pregnant women,count,Confirmed uncomplicated cases,Pregnant women tested,Monthly,Facility/catchment,Keep test method metadata where possible
+PW_UNCOMPLICATED_MALARIA_ACT_TREATED,Confirmed uncomplicated malaria in pregnant women treated with ACT,Pregnant women,count,Confirmed cases treated according to approved protocol,Confirmed uncomplicated cases,Monthly,Facility/catchment,Clinical interpretation remains with authorized personnel
+IPT1P,Pregnant women receiving IPT1p,Pregnant women,count,Women receiving IPT1p,Eligible pregnancy target,Monthly,Catchment/LGA,Use official national eligibility definition
+IPT2P,Pregnant women receiving IPT2p,Pregnant women,count,Women receiving IPT2p,Eligible pregnancy target,Monthly,Catchment/LGA,
+IPT3P,Pregnant women receiving IPT3p,Pregnant women,count,Women receiving IPT3p,Eligible pregnancy target,Monthly,Catchment/LGA,
+IPT4PLUS,Pregnant women receiving four or more IPTp doses,Pregnant women,count,Women receiving IPT4+,Eligible pregnancy target,Monthly,Catchment/LGA,
+PW_LLIN_RECEIVED,Pregnant women receiving LLIN,Pregnant women,count,Pregnant women receiving LLIN,Eligible pregnancy target,Monthly,Catchment/LGA,
+U5_FEVER,Children under five presenting with fever,Children under five,count,U5 fever presentations,Preferred U5 denominator,Monthly,Facility/catchment,
+U5_RDT_TESTED,Children under five tested by RDT,Children under five,count,U5 RDT tests,U5 fever presentations,Monthly,Facility/catchment,
+U5_MICROSCOPY_TESTED,Children under five tested by microscopy,Children under five,count,U5 microscopy tests,U5 fever presentations,Monthly,Facility/catchment,
+U5_RDT_POSITIVE,Children under five testing positive by RDT,Children under five,count,Positive U5 RDT tests,U5 RDT tests,Monthly,Facility/catchment,
+U5_MICROSCOPY_POSITIVE,Children under five testing positive by microscopy,Children under five,count,Positive U5 microscopy tests,U5 microscopy tests,Monthly,Facility/catchment,
+U5_UNCOMPLICATED_MALARIA_CONFIRMED,Confirmed uncomplicated malaria in children under five,Children under five,count,Confirmed uncomplicated U5 cases,Preferred U5 denominator,Monthly,Facility/catchment,
+U5_UNCOMPLICATED_MALARIA_ACT_TREATED,Confirmed uncomplicated malaria treated with ACT in children under five,Children under five,count,Confirmed U5 cases treated with ACT,Confirmed uncomplicated U5 cases,Monthly,Facility/catchment,
+U5_SEVERE_MALARIA,Severe malaria cases in children under five,Children under five,count,Severe U5 cases,Preferred U5 denominator,Monthly,Facility/catchment,
+U5_SEVERE_ARTESUNATE_TREATED,Severe malaria treated with injectable artesunate in children under five,Children under five,count,Severe U5 cases receiving injectable artesunate,Severe U5 cases,Monthly,Facility/catchment,
+U5_SEVERE_ORAL_ACT,Severe malaria given oral ACT in children under five,Children under five,count,Severe U5 cases given oral ACT,Severe U5 cases,Monthly,Facility/catchment,Interpret as a service-quality/safety signal under approved clinical governance
+U5_DEATHS,Deaths among children under five,Children under five,count,Deaths among U5 children,Preferred U5 denominator,Monthly,Catchment/LGA,Cause attribution must be specified separately
+SP_STOCKOUT_7D,SP stock-out for at least seven consecutive days,Facility readiness,binary,sp_stockout_days >= 7,Not applicable,Monthly,Facility/catchment,Derived from stock-out days
+RDT_STOCKOUT_7D,RDT stock-out for at least seven consecutive days,Facility readiness,binary,rdt_stockout_days >= 7,Not applicable,Monthly,Facility/catchment,Derived from stock-out days
+ACT_STOCKOUT_7D,ACT stock-out for at least seven consecutive days,Facility readiness,binary,act_stockout_days >= 7,Not applicable,Monthly,Facility/catchment,Derived from stock-out days

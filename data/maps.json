@@ -1,0 +1,606 @@
+[
+  {
+    "id": "reference",
+    "title": "Reference geography: LGAs, wards and settlements",
+    "caption": "Public reference geography for selecting pilot communities and aggregating evidence. Settlement polygons or generalized points should use stable IDs and approved names.",
+    "evidence_grade": "E0",
+    "validation_status": "Upload approved Bayelsa, LGA, ward and settlement records",
+    "source_url": "",
+    "layers": [
+      {
+        "file": "data/reference/lga_boundaries.geojson",
+        "style": "boundary",
+        "popup_fields": [
+          {
+            "key": "lga_name",
+            "label": "LGA"
+          },
+          {
+            "key": "source",
+            "label": "Source"
+          },
+          {
+            "key": "source_date",
+            "label": "Source date"
+          },
+          {
+            "key": "evidence_grade",
+            "label": "Evidence"
+          }
+        ]
+      },
+      {
+        "file": "data/reference/ward_boundaries.geojson",
+        "style": "boundary",
+        "popup_fields": [
+          {
+            "key": "ward_name",
+            "label": "Ward"
+          },
+          {
+            "key": "lga_name",
+            "label": "LGA"
+          },
+          {
+            "key": "source",
+            "label": "Source"
+          },
+          {
+            "key": "evidence_grade",
+            "label": "Evidence"
+          }
+        ]
+      },
+      {
+        "file": "data/reference/settlements.geojson",
+        "style": "settlement",
+        "popup_fields": [
+          {
+            "key": "settlement_name",
+            "label": "Settlement"
+          },
+          {
+            "key": "lga_name",
+            "label": "LGA"
+          },
+          {
+            "key": "settlement_type",
+            "label": "Type"
+          },
+          {
+            "key": "building_count",
+            "label": "Detected buildings"
+          },
+          {
+            "key": "primary_transport_mode",
+            "label": "Primary mode"
+          },
+          {
+            "key": "evidence_grade",
+            "label": "Evidence"
+          }
+        ]
+      }
+    ],
+    "legend": [
+      {
+        "label": "Administrative boundary",
+        "color": "#526a73"
+      },
+      {
+        "label": "Settlement",
+        "color": "#c97808"
+      }
+    ]
+  },
+  {
+    "id": "facilities",
+    "title": "Health facilities and catchment assignments",
+    "caption": "Shows public facility locations and settlement-to-facility catchment assignments. Time-varying readiness and confidential operational records are stored separately.",
+    "evidence_grade": "E0",
+    "validation_status": "Registry import and facility verification pending",
+    "source_url": "",
+    "layers": [
+      {
+        "file": "data/reference/facility_catchments.geojson",
+        "style": "catchment",
+        "popup_fields": [
+          {
+            "key": "catchment_name",
+            "label": "Catchment"
+          },
+          {
+            "key": "facility_id",
+            "label": "Facility ID"
+          },
+          {
+            "key": "assignment_method",
+            "label": "Assignment method"
+          },
+          {
+            "key": "catchment_status",
+            "label": "Status"
+          },
+          {
+            "key": "evidence_grade",
+            "label": "Evidence"
+          }
+        ]
+      },
+      {
+        "file": "data/reference/health_facilities.geojson",
+        "style": "facility",
+        "popup_fields": [
+          {
+            "key": "facility_name",
+            "label": "Facility"
+          },
+          {
+            "key": "facility_type",
+            "label": "Type"
+          },
+          {
+            "key": "ownership",
+            "label": "Ownership"
+          },
+          {
+            "key": "verified_status",
+            "label": "Verified status"
+          },
+          {
+            "key": "road_access",
+            "label": "Road access"
+          },
+          {
+            "key": "boat_access",
+            "label": "Boat access"
+          },
+          {
+            "key": "evidence_grade",
+            "label": "Evidence"
+          }
+        ]
+      }
+    ],
+    "legend": [
+      {
+        "label": "Facility catchment",
+        "color": "#7255b7"
+      },
+      {
+        "label": "Health facility",
+        "color": "#007d68"
+      }
+    ]
+  },
+  {
+    "id": "population",
+    "title": "Government, WorldPop and survey population evidence",
+    "caption": "Displays settlement- or catchment-level target populations only. Government, WorldPop age–sex estimates, surveyed values and the preferred operational denominator remain separate and traceable.",
+    "evidence_grade": "E0",
+    "validation_status": "Population evidence template ready; baseline verification pending",
+    "source_url": "",
+    "layers": [
+      {
+        "file": "data/outputs/settlement_summary.geojson",
+        "style": "settlement",
+        "popup_fields": [
+          {
+            "key": "settlement_name",
+            "label": "Settlement"
+          },
+          {
+            "key": "government_u5",
+            "label": "Government U5"
+          },
+          {
+            "key": "worldpop_u5",
+            "label": "WorldPop U5"
+          },
+          {
+            "key": "surveyed_u5",
+            "label": "Surveyed U5"
+          },
+          {
+            "key": "preferred_u5",
+            "label": "Preferred U5"
+          },
+          {
+            "key": "registered_pregnant",
+            "label": "Registered pregnant"
+          },
+          {
+            "key": "preferred_pregnancy_target",
+            "label": "Preferred pregnancy target"
+          },
+          {
+            "key": "evidence_confidence",
+            "label": "Evidence confidence"
+          }
+        ]
+      }
+    ],
+    "legend": [
+      {
+        "label": "Settlement population summary",
+        "color": "#c97808"
+      }
+    ]
+  },
+  {
+    "id": "access",
+    "title": "Normal and climate-disrupted healthcare access",
+    "caption": "Compares normal and disrupted travel time from settlements to functioning facilities using road, walking and boat modes. GPS observations remain separate from modelled travel time.",
+    "evidence_grade": "E3",
+    "validation_status": "Published baseline available; dynamic event validation pending",
+    "source_url": "",
+    "layers": [
+      {
+        "file": "data/outputs/accessibility_summary.geojson",
+        "style": "access",
+        "popup_fields": [
+          {
+            "key": "settlement_name",
+            "label": "Settlement"
+          },
+          {
+            "key": "facility_name",
+            "label": "Assigned facility"
+          },
+          {
+            "key": "scenario",
+            "label": "Scenario"
+          },
+          {
+            "key": "modelled_travel_min",
+            "label": "Modelled time",
+            "unit": "min"
+          },
+          {
+            "key": "surveyed_travel_min",
+            "label": "Surveyed time",
+            "unit": "min"
+          },
+          {
+            "key": "corrected_travel_min",
+            "label": "Operational time",
+            "unit": "min"
+          },
+          {
+            "key": "route_status",
+            "label": "Route status"
+          },
+          {
+            "key": "alternative_facility_name",
+            "label": "Alternative facility"
+          },
+          {
+            "key": "evidence_grade",
+            "label": "Evidence"
+          }
+        ]
+      },
+      {
+        "file": "data/reference/health_facilities.geojson",
+        "style": "facility",
+        "popup_fields": [
+          {
+            "key": "facility_name",
+            "label": "Facility"
+          },
+          {
+            "key": "facility_type",
+            "label": "Type"
+          },
+          {
+            "key": "verified_status",
+            "label": "Status"
+          }
+        ]
+      }
+    ],
+    "legend": [
+      {
+        "label": "Access summary",
+        "color": "#2d6cdf"
+      },
+      {
+        "label": "Health facility",
+        "color": "#007d68"
+      }
+    ]
+  },
+  {
+    "id": "services",
+    "title": "Aggregated malaria and pregnancy service continuity",
+    "caption": "Shows approved settlement- or catchment-level service indicators. Routine government records, modelled burden and survey observations are compared but not averaged into one case count.",
+    "evidence_grade": "E0",
+    "validation_status": "Government permissions and baseline data pending",
+    "source_url": "",
+    "layers": [
+      {
+        "file": "data/outputs/service_continuity_summary.geojson",
+        "style": "service",
+        "popup_fields": [
+          {
+            "key": "geo_name",
+            "label": "Area"
+          },
+          {
+            "key": "period",
+            "label": "Period"
+          },
+          {
+            "key": "u5_testing_completion_pct",
+            "label": "U5 testing completion",
+            "unit": "%"
+          },
+          {
+            "key": "u5_act_treatment_completion_pct",
+            "label": "U5 ACT treatment completion",
+            "unit": "%"
+          },
+          {
+            "key": "pw_testing_completion_pct",
+            "label": "Pregnancy testing completion",
+            "unit": "%"
+          },
+          {
+            "key": "ipt3p_coverage_pct",
+            "label": "IPT3p coverage",
+            "unit": "%"
+          },
+          {
+            "key": "timely_service_contact_pct",
+            "label": "Timely service contact",
+            "unit": "%"
+          },
+          {
+            "key": "evidence_grade",
+            "label": "Evidence"
+          }
+        ]
+      }
+    ],
+    "legend": [
+      {
+        "label": "Service-continuity summary",
+        "color": "#a3497f"
+      }
+    ]
+  },
+  {
+    "id": "readiness",
+    "title": "Facility readiness and climate-sensitive service gaps",
+    "caption": "Displays public, aggregated readiness summaries: operational status, testing availability, stock-out risk, outreach capacity and climate-related isolation.",
+    "evidence_grade": "E0",
+    "validation_status": "Facility audit and monthly readiness reporting pending",
+    "source_url": "",
+    "layers": [
+      {
+        "file": "data/outputs/facility_readiness_summary.geojson",
+        "style": "readiness",
+        "popup_fields": [
+          {
+            "key": "facility_name",
+            "label": "Facility"
+          },
+          {
+            "key": "period",
+            "label": "Period"
+          },
+          {
+            "key": "operational_status",
+            "label": "Operational status"
+          },
+          {
+            "key": "malaria_testing_available",
+            "label": "Testing available"
+          },
+          {
+            "key": "sp_stockout_7d",
+            "label": "SP stock-out ≥7 d"
+          },
+          {
+            "key": "rdt_stockout_7d",
+            "label": "RDT stock-out ≥7 d"
+          },
+          {
+            "key": "act_stockout_7d",
+            "label": "ACT stock-out ≥7 d"
+          },
+          {
+            "key": "facility_isolated",
+            "label": "Climate isolated"
+          },
+          {
+            "key": "evidence_grade",
+            "label": "Evidence"
+          }
+        ]
+      }
+    ],
+    "legend": [
+      {
+        "label": "Facility readiness",
+        "color": "#39804a"
+      }
+    ]
+  },
+  {
+    "id": "hotspots",
+    "title": "Climate–malaria service priority hotspots",
+    "caption": "A transparent settlement/catchment prioritization output combining climate hazard, access disruption, exposed target populations, malaria-service burden and facility readiness. Weights remain provisional until stakeholder and outcome calibration.",
+    "evidence_grade": "E1",
+    "validation_status": "Priority domains defined; weights and thresholds not yet validated",
+    "source_url": "",
+    "layers": [
+      {
+        "file": "data/outputs/hotspot_scores.geojson",
+        "style": "hotspot",
+        "popup_fields": [
+          {
+            "key": "geo_name",
+            "label": "Area"
+          },
+          {
+            "key": "period",
+            "label": "Period"
+          },
+          {
+            "key": "priority_score",
+            "label": "Priority score",
+            "unit": "/100"
+          },
+          {
+            "key": "priority_class",
+            "label": "Priority class"
+          },
+          {
+            "key": "climate_score",
+            "label": "Climate"
+          },
+          {
+            "key": "access_score",
+            "label": "Access"
+          },
+          {
+            "key": "u5_malaria_score",
+            "label": "U5 malaria"
+          },
+          {
+            "key": "maternal_gap_score",
+            "label": "Maternal gap"
+          },
+          {
+            "key": "readiness_gap_score",
+            "label": "Readiness gap"
+          },
+          {
+            "key": "evidence_confidence",
+            "label": "Evidence confidence"
+          },
+          {
+            "key": "recommended_action",
+            "label": "Recommended action"
+          }
+        ]
+      }
+    ],
+    "legend": [
+      {
+        "label": "Priority hotspot",
+        "color": "#b94335"
+      }
+    ]
+  },
+  {
+    "id": "validation",
+    "title": "Field validation and evidence confidence",
+    "caption": "Generalized validation observations for routes, facilities, waterlogging and service access. No household or individual health locations are permitted in this public layer.",
+    "evidence_grade": "E3",
+    "validation_status": "Template ready; PoC observations pending",
+    "source_url": "",
+    "layers": [
+      {
+        "file": "data/outputs/validation_points.geojson",
+        "style": "validation",
+        "popup_fields": [
+          {
+            "key": "validation_type",
+            "label": "Validation type"
+          },
+          {
+            "key": "observation_date",
+            "label": "Date"
+          },
+          {
+            "key": "model_value",
+            "label": "Model value"
+          },
+          {
+            "key": "observed_value",
+            "label": "Observed value"
+          },
+          {
+            "key": "agreement_status",
+            "label": "Agreement"
+          },
+          {
+            "key": "qa_status",
+            "label": "QA status"
+          },
+          {
+            "key": "evidence_grade",
+            "label": "Evidence"
+          }
+        ]
+      }
+    ],
+    "legend": [
+      {
+        "label": "Generalized validation record",
+        "color": "#8a4aa0"
+      }
+    ]
+  },
+  {
+    "id": "actions",
+    "title": "Implemented climate-responsive actions and outcomes",
+    "caption": "Shows only authorized, aggregated actions after a trigger, human decision and implementation record exist. This is the evidence chain the PoC is designed to create.",
+    "evidence_grade": "E5",
+    "validation_status": "No outcome-linked PoC records yet",
+    "source_url": "",
+    "layers": [
+      {
+        "file": "data/outputs/action_locations.geojson",
+        "style": "action",
+        "popup_fields": [
+          {
+            "key": "action_date",
+            "label": "Action date"
+          },
+          {
+            "key": "action_type",
+            "label": "Action"
+          },
+          {
+            "key": "trigger",
+            "label": "Trigger"
+          },
+          {
+            "key": "u5_reached",
+            "label": "U5 reached"
+          },
+          {
+            "key": "pregnant_reached",
+            "label": "Pregnant women reached"
+          },
+          {
+            "key": "timely_service_contacts",
+            "label": "Timely contacts"
+          },
+          {
+            "key": "cost_ngn",
+            "label": "Cost",
+            "unit": "NGN"
+          },
+          {
+            "key": "result_summary",
+            "label": "Result"
+          },
+          {
+            "key": "evidence_grade",
+            "label": "Evidence"
+          }
+        ]
+      }
+    ],
+    "legend": [
+      {
+        "label": "Verified implemented action",
+        "color": "#b94335"
+      }
+    ]
+  }
+]

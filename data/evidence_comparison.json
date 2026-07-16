@@ -1,0 +1,62 @@
+[
+  {
+    "indicator": "Under-five population",
+    "unit": "persons",
+    "government_evidence": "Administrative target or programme denominator",
+    "modelled_evidence": "WorldPop age 0–4 aggregated to settlement/catchment",
+    "surveyed_evidence": "Baseline enumeration or calibrated sample",
+    "operational_use": "Select the preferred denominator using a documented evidence hierarchy; preserve every source and uncertainty.",
+    "status": "template",
+    "status_label": "Baseline pending"
+  },
+  {
+    "indicator": "Pregnancy service target",
+    "unit": "persons",
+    "government_evidence": "ANC registers and programme estimates",
+    "modelled_evidence": "Expected pregnancies derived from demographic assumptions and women aged 15–49",
+    "surveyed_evidence": "Consent-based pregnancy/ANC verification",
+    "operational_use": "Use registered and surveyed pregnancy targets; WorldPop supports the age–sex denominator but does not identify pregnancy directly.",
+    "status": "restricted",
+    "status_label": "Protected source records"
+  },
+  {
+    "indicator": "Malaria burden and service use",
+    "unit": "counts / rates",
+    "government_evidence": "DHIS2/RHIS and facility registers",
+    "modelled_evidence": "MAP or other burden surfaces used as contextual priors",
+    "surveyed_evidence": "Register audit, household/service-use survey and verified testing information",
+    "operational_use": "Compare reported, expected and surveyed evidence; do not average them into one corrected case count.",
+    "status": "restricted",
+    "status_label": "Permission required"
+  },
+  {
+    "indicator": "Travel time to functioning service",
+    "unit": "minutes",
+    "government_evidence": "Official catchment assignment where available",
+    "modelled_evidence": "Published static multimodal accessibility baseline",
+    "surveyed_evidence": "GPS journey, waiting and transfer-time observations",
+    "operational_use": "Use scenario-specific corrected travel time and retain model error and route-status evidence.",
+    "status": "published",
+    "status_label": "Baseline available"
+  },
+  {
+    "indicator": "Facility readiness",
+    "unit": "status / days",
+    "government_evidence": "NHFR and routine stock/service reporting",
+    "modelled_evidence": "Nearest or assigned service availability",
+    "surveyed_evidence": "Facility audit and event status confirmation",
+    "operational_use": "Use a dated readiness event record, not a permanent readiness attribute.",
+    "status": "template",
+    "status_label": "Audit pending"
+  },
+  {
+    "indicator": "Climate-related access disruption",
+    "unit": "risk stage",
+    "government_evidence": "Approved rainfall, flood or emergency reports where available",
+    "modelled_evidence": "GFS rainfall signal and Sentinel-1 probable inundation",
+    "surveyed_evidence": "Community route report, GPS observation and facility confirmation",
+    "operational_use": "Human-confirmed watch, alert, disruption, service activation or recovery stage.",
+    "status": "template",
+    "status_label": "Calibration pending"
+  }
+]

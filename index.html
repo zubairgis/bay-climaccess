@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#073f48" />
+  <title>BAY-CLIMACCESS Evidence Observatory</title>
+  <meta name="description" content="Public settlement- and health-facility-catchment evidence for a climate-triggered malaria service-delivery Proof of Concept in Bayelsa State, Nigeria." />
+  <link rel="preconnect" href="https://unpkg.com" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#mainContent">Skip to main content</a>
+
+  <div class="notice-bar">
+    <div><strong>Pre-PoC reviewer portal</strong> — live analytical apps are separated from uploaded settlement/catchment evidence, verified actions and measured outcomes.</div>
+    <span class="privacy-chip">Aggregated public data only</span>
+  </div>
+
+  <header class="topbar">
+    <div class="brand-wrap">
+      <div class="brand-mark" aria-hidden="true">BC</div>
+      <div>
+        <p class="eyebrow" id="organisationName">Hensard University · Bayelsa State, Nigeria</p>
+        <h1 id="portalName">BAY-CLIMACCESS Evidence Observatory</h1>
+        <p class="subtitle" id="portalSubtitle">Public evidence and accountability interface for a climate-triggered malaria service-delivery Proof of Concept.</p>
+      </div>
+    </div>
+    <div class="status-block" aria-label="Portal status">
+      <span class="status-dot"></span>
+      <div><strong id="portalStatus">Pre-PoC reviewer prototype</strong><small id="portalUpdated">Loading version information…</small></div>
+    </div>
+  </header>
+
+  <nav class="site-nav" aria-label="Portal sections">
+    <a href="#overview" class="active">Overview</a>
+    <a href="#apps">Live analytics</a>
+    <a href="#poc">PoC pathway</a>
+    <a href="#evidence">Evidence</a>
+    <a href="#briefs">Operational briefs</a>
+    <a href="#actions">Action tracker</a>
+    <a href="#catalog">Data catalogue</a>
+    <a href="#methods">Methods & governance</a>
+  </nav>
+
+  <main id="mainContent">
+    <section id="overview" class="section overview-section">
+      <div class="section-heading">
+        <div><p class="eyebrow">Reviewer-facing evidence overview</p><h2>What exists now, what remains to be tested</h2></div>
+        <div class="toolbar-inline"><button id="refreshData" type="button" class="secondary">Refresh data</button><button id="openEditor" type="button">Add operational brief</button></div>
+      </div>
+      <div id="metricGrid" class="metric-grid" aria-live="polite"></div>
+
+      <div class="overview-grid">
+        <article class="map-card card">
+          <div class="card-head map-toolbar">
+            <div><p class="eyebrow">Uploaded settlement & catchment evidence map</p><h3 id="moduleTitle">Loading map module…</h3></div>
+            <div class="map-controls"><label for="moduleSelect">Module</label><select id="moduleSelect"></select><button id="resetMap" type="button" class="secondary">Reset view</button></div>
+          </div>
+          <div class="module-meta"><span id="moduleEvidence" class="evidence-badge">E0</span><span id="moduleValidation" class="validation-chip">Validation status</span><a id="moduleSourceLink" class="source-link" href="#" target="_blank" rel="noopener" hidden>Open source ↗</a></div>
+          <div id="map" role="application" aria-label="BAY-CLIMACCESS uploaded public evidence map"></div>
+          <div id="mapEmpty" class="map-empty" hidden><strong>No public spatial records uploaded for this module.</strong><span>Replace the relevant template in the <code>data/reference</code> or <code>data/outputs</code> folder. The map will load it automatically.</span></div>
+          <div class="map-caption"><p id="moduleCaption"></p><div id="legend" class="legend"></div></div>
+        </article>
+
+        <aside class="evidence-side">
+          <article class="card evidence-status-card">
+            <div class="card-head"><div><p class="eyebrow">Evidence maturity</p><h3>What the portal can claim now</h3></div><span class="stage-badge" id="maturityLabel">E2</span></div>
+            <div id="claimList" class="claim-list"></div>
+          </article>
+          <article class="card chain-card">
+            <div class="card-head"><div><p class="eyebrow">Core proof chain</p><h3>Climate signal to health-service outcome</h3></div></div>
+            <ol class="evidence-chain">
+              <li><span>1</span><div><strong>Climate signal</strong><small>Rainfall forecast, malaria suitability and probable inundation</small></div></li>
+              <li><span>2</span><div><strong>Human verification</strong><small>Route, facility and community confirmation with uncertainty</small></div></li>
+              <li><span>3</span><div><strong>Operational trigger</strong><small>Watch, alert, confirmed disruption or recovery</small></div></li>
+              <li><span>4</span><div><strong>Adaptive service action</strong><small>Pre-position, reschedule, reroute, outreach, boat-mobile team or temporary point</small></div></li>
+              <li><span>5</span><div><strong>Timely service contact</strong><small>Malaria prevention, testing, treatment or referral completed</small></div></li>
+              <li><span>6</span><div><strong>Outcome, cost and learning</strong><small>Compare with current practice and document adoption, equity and affordability</small></div></li>
+            </ol>
+          </article>
+        </aside>
+      </div>
+    </section>
+
+    <section id="apps" class="section">
+      <div class="section-heading"><div><p class="eyebrow">Existing technical assets</p><h2>Live geospatial analytics</h2><p class="section-intro">These Earth Engine applications demonstrate technical readiness. They remain preliminary signals until locally calibrated and connected to verified service actions.</p></div></div>
+      <div id="appGrid" class="app-grid"></div>
+    </section>
+
+    <section id="poc" class="section alt-section">
+      <div class="section-heading"><div><p class="eyebrow">Tuned to the funding objective</p><h2>Climate-responsive patient-care Proof of Concept</h2><p class="section-intro">The innovation is not the database or map alone. It is a locally governed service-delivery model that turns verified climate disruption into an accountable malaria-care action.</p></div></div>
+      <div class="fit-grid">
+        <article class="card fit-card"><span>Primary Nexa focus</span><h3>Climate-responsive patient-care delivery</h3><p>Early warning enables the response; timely malaria-service continuity is the outcome.</p></article>
+        <article class="card fit-card"><span>Priority populations</span><h3>Children under five and pregnant women</h3><p>Frontline PHC/ANC teams and community focal persons are the direct system users.</p></article>
+        <article class="card fit-card"><span>Primary evaluation outcome</span><h3>Timely malaria-service contact</h3><p>Measured during climate-related access disruption and compared with current planning.</p></article>
+        <article class="card fit-card"><span>PoC decision</span><h3>Feasible, acceptable and affordable?</h3><p>Technical accuracy alone is insufficient without action completion, user demand and cost evidence.</p></article>
+      </div>
+      <div class="pathway-grid" aria-label="BAY-CLIMACCESS Proof-of-Concept pathway">
+        <div><b>01</b><strong>Detect</strong><span>Forecast or probable disruption</span></div>
+        <div><b>02</b><strong>Verify</strong><span>Community, route and facility status</span></div>
+        <div><b>03</b><strong>Decide</strong><span>Human-confirmed response rule</span></div>
+        <div><b>04</b><strong>Deliver</strong><span>Adapted malaria service</span></div>
+        <div><b>05</b><strong>Measure</strong><span>Timeliness, reach, safety and cost</span></div>
+        <div><b>06</b><strong>Learn</strong><span>Improve rules and government scale plan</span></div>
+      </div>
+      <article class="card trigger-card">
+        <div class="card-head"><div><p class="eyebrow">Human-confirmed trigger protocol</p><h3>Signals do not automatically make clinical decisions</h3></div></div>
+        <div class="table-wrap"><table><thead><tr><th>Stage</th><th>Minimum evidence</th><th>Operational purpose</th><th>Typical response</th></tr></thead><tbody>
+          <tr><td><strong>Watch</strong></td><td>Forecast threshold or repeated warning signal</td><td>Preparedness review</td><td>Check routes, facility readiness, staff and commodities</td></tr>
+          <tr><td><strong>Alert</strong></td><td>Elevated forecast confidence or credible community report</td><td>Pre-activation</td><td>Contact focal persons, verify alternatives and pre-position where justified</td></tr>
+          <tr><td><strong>Confirmed disruption</strong></td><td>Route/facility confirmation or validated waterlogging evidence</td><td>Change delivery plan</td><td>Reroute, reschedule, boat-mobile outreach, alternative facility or temporary service point</td></tr>
+          <tr><td><strong>Service activation</strong></td><td>Confirmed disruption plus target-population/service risk</td><td>Deliver care</td><td>Authorized malaria prevention, testing, treatment and referral actions</td></tr>
+          <tr><td><strong>Recovery</strong></td><td>Access restored and response closed</td><td>Resume routine delivery and learn</td><td>Record outcomes, costs, failures and revisions</td></tr>
+        </tbody></table></div>
+      </article>
+    </section>
+
+    <section id="evidence" class="section">
+      <div class="section-heading"><div><p class="eyebrow">Baseline evidence and correction framework</p><h2>Government, modelled and surveyed evidence remain separate</h2></div></div>
+      <div class="evidence-layout">
+        <article class="card published-card">
+          <div class="card-head"><div><p class="eyebrow">Published Bayelsa baseline</p><h3>Healthcare-accessibility starting evidence</h3></div><span class="evidence-badge grade-e3">E3 · Published</span></div>
+          <div id="publishedMetrics" class="published-metrics"></div><div id="publishedBars" class="published-bars"></div><div id="publicationCitation" class="citation-box"></div>
+        </article>
+        <article class="card comparison-card">
+          <div class="card-head"><div><p class="eyebrow">Source comparison</p><h3>Evidence is compared before an operational value is selected</h3></div></div>
+          <div class="table-wrap"><table><thead><tr><th>Indicator</th><th>Government evidence</th><th>Modelled evidence</th><th>Surveyed evidence</th><th>Operational use</th><th>Status</th></tr></thead><tbody id="comparisonBody"></tbody></table></div>
+          <p class="table-note">Government cases, modelled burden and survey observations are not averaged into one “corrected case” count. Each source answers a different question and retains its provenance.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="briefs" class="section alt-section">
+      <div class="section-heading"><div><p class="eyebrow">Version-controlled communication</p><h2>Living operational brief</h2><p class="section-intro">Dated notes document evidence, verification, service implications, decisions, limitations and learning.</p></div>
+        <div class="brief-tools"><select id="briefFilter" aria-label="Filter operational briefs"><option value="all">All categories</option><option value="forecast">Forecast</option><option value="waterlogging">Waterlogging</option><option value="children">Children</option><option value="pregnancy">Pregnancy / ANC</option><option value="operations">Operations</option><option value="evidence">Evidence</option><option value="stakeholder">Stakeholder decision</option></select><input id="briefSearch" type="search" placeholder="Search briefs…" aria-label="Search operational briefs" /></div>
+      </div><div id="briefGrid" class="brief-grid"></div>
+    </section>
+
+    <section id="actions" class="section">
+      <div class="section-heading"><div><p class="eyebrow">Operational accountability</p><h2>Alert-to-action tracker</h2><p class="section-intro">A record is published only after an evidence trigger, human decision, implementation status and authorized aggregate outcome are available.</p></div></div>
+      <div class="card table-card"><div class="table-wrap"><table><thead><tr><th>Alert date</th><th>Geography</th><th>Trigger</th><th>Recommendation</th><th>Decision</th><th>Implementation</th><th>People reached</th><th>Evidence</th></tr></thead><tbody id="actionBody"></tbody></table></div><div id="actionEmpty" class="empty-state" hidden>No verified PoC actions have been published. Add authorized aggregate records to <code>data/action_tracker.json</code> after implementation.</div></div>
+    </section>
+
+    <section id="catalog" class="section alt-section">
+      <div class="section-heading"><div><p class="eyebrow">Meaningful minimum database</p><h2>Public data catalogue</h2><p class="section-intro">The database uses settlements and health-facility catchments as the principal units. Raw personal contacts, pregnancy records, household records, calls and clinical records never belong in GitHub.</p></div>
+        <div class="brief-tools"><select id="catalogFilter" aria-label="Filter data catalogue"><option value="all">All statuses</option><option value="linked">Linked external source</option><option value="published">Published evidence</option><option value="template">Template ready</option><option value="uploaded">Uploaded</option><option value="restricted">Restricted / not public</option></select><input id="catalogSearch" type="search" placeholder="Search datasets…" aria-label="Search data catalogue" /></div>
+      </div>
+      <div class="card table-card"><div class="table-wrap catalogue-wrap"><table><thead><tr><th>Dataset</th><th>Purpose</th><th>Format</th><th>Source</th><th>Evidence stage</th><th>Public status</th><th>File</th></tr></thead><tbody id="catalogBody"></tbody></table></div></div>
+    </section>
+
+    <section id="methods" class="section">
+      <div class="section-heading"><div><p class="eyebrow">Methods, ethics and reproducibility</p><h2>How to interpret this portal</h2></div></div>
+      <div class="methods-grid">
+        <article class="card method-card"><span class="method-icon">01</span><h3>Decision units</h3><p>The operational database is organized by settlement, health-facility catchment and climate event/month. Building footprints are summarized and are never treated automatically as households.</p></article>
+        <article class="card method-card"><span class="method-icon">02</span><h3>Source separation</h3><p>Government, WorldPop/modelled, survey, sensor-observed and preferred operational values remain separate, versioned and auditable.</p></article>
+        <article class="card method-card"><span class="method-icon">03</span><h3>Evidence grades</h3><p><strong>E0</strong> source, <strong>E1</strong> derived, <strong>E2</strong> internally checked, <strong>E3</strong> validated/published, <strong>E4</strong> survey corrected and <strong>E5</strong> action/outcome linked.</p></article>
+        <article class="card method-card"><span class="method-icon">04</span><h3>Privacy and clinical governance</h3><p>Public files contain approved aggregates only. Contacts, individual health records, calls and referrals require a secure role-based system. The portal does not diagnose or prescribe.</p></article>
+      </div>
+      <div class="download-row"><a class="button-link" href="DATA_UPLOAD_GUIDE.md">Open data upload guide</a><a class="button-link secondary-link" href="data/data_dictionary.csv" download>Download data dictionary</a><a class="button-link secondary-link" href="data/metadata/indicator_catalogue.csv" download>Download indicator catalogue</a><a class="button-link secondary-link" href="README.md">Deployment instructions</a></div>
+    </section>
+  </main>
+
+  <section id="editorPanel" class="editor-drawer" hidden aria-label="Operational brief editor">
+    <div class="drawer-backdrop" id="closeEditorBackdrop"></div><div class="drawer-content">
+      <div class="drawer-head"><div><p class="eyebrow">Static-site content editor</p><h2>Add an operational brief</h2><p>Add the entry to the preview, download the revised JSON and replace <code>data/updates.json</code> in GitHub.</p></div><button id="closeEditor" type="button" class="secondary">Close</button></div>
+      <form id="updateForm">
+        <label>Category<select id="editCategory" required><option value="forecast">Forecast</option><option value="waterlogging">Waterlogging</option><option value="children">Children</option><option value="pregnancy">Pregnancy / ANC</option><option value="operations">Operations</option><option value="evidence">Evidence</option><option value="stakeholder">Stakeholder decision</option></select></label>
+        <label>Status<select id="editStatus" required><option value="information">Information</option><option value="watch">Watch</option><option value="alert">Alert</option><option value="action">Action</option><option value="completed">Completed</option></select></label>
+        <label>Evidence grade<select id="editGrade" required><option value="E0">E0 · Source</option><option value="E1">E1 · Derived</option><option value="E2">E2 · Internally checked</option><option value="E3">E3 · Validated / published</option><option value="E4">E4 · Survey corrected</option><option value="E5">E5 · Outcome linked</option></select></label>
+        <label>Issue date<input id="editDate" type="date" required /></label><label>Valid from<input id="editValidFrom" type="date" /></label><label>Valid to<input id="editValidTo" type="date" /></label>
+        <label class="span-2">Geography<input id="editGeography" type="text" placeholder="Bayelsa State / LGA / settlement / catchment" required /></label><label class="span-2">Author or source<input id="editAuthor" type="text" value="BAY-CLIMACCESS Team" required /></label>
+        <label class="wide">Title<input id="editTitle" type="text" maxlength="140" required /></label><label class="wide">Summary<input id="editSummary" type="text" maxlength="260" required /></label>
+        <label class="wide">Evidence and interpretation<textarea id="editBody" rows="4" required></textarea></label><label class="wide">Operational recommendation<textarea id="editRecommendation" rows="3"></textarea></label><label class="wide">Uncertainty / limitations<textarea id="editUncertainty" rows="2"></textarea></label>
+        <label class="span-2">Source URL<input id="editSourceUrl" type="url" placeholder="https://…" /></label><label class="span-2">Tags<input id="editTags" type="text" placeholder="Sagbama, GFS, route, ANC" /></label>
+        <div class="editor-actions wide"><button type="submit">Add to preview</button><button id="downloadJson" type="button" class="secondary">Download updated JSON</button><button id="reloadJson" type="button" class="ghost">Reload published JSON</button></div>
+      </form>
+    </div>
+  </section>
+
+  <footer><div><strong>BAY-CLIMACCESS Evidence Observatory</strong><p>Locally led by Hensard University, Toru-Orua, Bayelsa State, Nigeria.</p></div><p><strong>Clinical, privacy and evidence notice:</strong> This public prototype supports planning and Proof-of-Concept evaluation. It does not diagnose, prescribe, prove health impact or replace ethics approval, data-protection requirements, clinical governance or approved Nigerian malaria and antenatal-care protocols.</p></footer>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script><script src="fallback-data.js"></script><script src="app.js"></script>
+</body>
+</html>

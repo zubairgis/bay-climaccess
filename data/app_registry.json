@@ -1,0 +1,41 @@
+[
+  {
+    "id": "rainfall_app",
+    "title": "Rainfall Forecast and Flood Warning (0–72 h)",
+    "platform": "Google Earth Engine App",
+    "purpose": "Visualizes forecast rainfall accumulation in classes of 0–25, 25–50, 50–75 and >75 mm to support early preparedness.",
+    "url": "https://zubair-1300.projects.earthengine.app/view/fwn",
+    "geographic_coverage": "Nigeria",
+    "evidence_grade": "E1",
+    "validation_status": "Working app; Bayelsa impact-threshold calibration pending",
+    "operational_use": "Start a preparedness watch, review routes and facilities, and consider commodity pre-positioning.",
+    "limitations": "The >75 mm class is a preliminary warning signal, not a locally validated prediction of access disruption or health impact.",
+    "status": "Live"
+  },
+  {
+    "id": "mpd_app",
+    "title": "Nigeria Malaria-Prone Days (ERA5-Land)",
+    "platform": "Google Earth Engine App",
+    "purpose": "Identifies days and periods with climate conditions potentially favourable for malaria transmission.",
+    "url": "https://zubair-1300.projects.earthengine.app/view/mpd",
+    "geographic_coverage": "Nigeria",
+    "evidence_grade": "E1",
+    "validation_status": "Working app; comparison with routine and survey health evidence pending",
+    "operational_use": "Support seasonal readiness and interpretation of malaria vulnerability, not case diagnosis.",
+    "limitations": "Climate suitability is not observed incidence and must not be treated as a confirmed case count.",
+    "status": "Live"
+  },
+  {
+    "id": "flood_app",
+    "title": "Nigeria Flood Detection (Sentinel-1 ΔVV with σ threshold)",
+    "platform": "Google Earth Engine App",
+    "purpose": "Detects probable flood-related radar-backscatter change using Sentinel-1 and a statistical threshold.",
+    "url": "https://zubair-1300.projects.earthengine.app/view/nfm",
+    "geographic_coverage": "Nigeria; Bayelsa PoC adaptation planned",
+    "evidence_grade": "E1",
+    "validation_status": "Working app; same-period baseline and GPS-referenced Bayelsa validation pending",
+    "operational_use": "Support verification of probable inundation and prompt community or route-status confirmation.",
+    "limitations": "Permanent water, seasonal wetlands, vegetation and acquisition gaps require human confirmation and uncertainty reporting.",
+    "status": "Live"
+  }
+]

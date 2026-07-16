@@ -1,0 +1,36 @@
+{
+  "portal_name": "BAY-CLIMACCESS Evidence Observatory",
+  "subtitle": "Public evidence and accountability interface for a climate-triggered malaria service-delivery Proof of Concept in flood-prone Bayelsa communities.",
+  "organisation": "Hensard University · Toru-Orua, Bayelsa State, Nigeria",
+  "status": "Pre-PoC reviewer prototype",
+  "version": "3.0",
+  "updated": "2026-07-15",
+  "map_center": [
+    5.12,
+    6.05
+  ],
+  "map_zoom": 9,
+  "evidence_maturity": "E2 · Internally checked",
+  "claims": [
+    {
+      "status": "yes",
+      "text": "Three live Google Earth Engine applications demonstrate technical readiness for rainfall warning, malaria-prone days and Sentinel-1 flood detection."
+    },
+    {
+      "status": "yes",
+      "text": "A published Bayelsa healthcare-accessibility baseline provides the starting evidence for settlement and facility-catchment planning."
+    },
+    {
+      "status": "yes",
+      "text": "The redesigned public database uses settlements and health-facility catchments as the operational units and keeps government, modelled and surveyed evidence separate."
+    },
+    {
+      "status": "pending",
+      "text": "Pilot catchments, local action thresholds, route states, facility readiness and target-population denominators still require government confirmation and PoC field validation."
+    },
+    {
+      "status": "no",
+      "text": "The portal does not yet demonstrate improved malaria-service continuity, clinical outcomes or cost-effectiveness; these are the outcomes to be tested."
+    }
+  ]
+}

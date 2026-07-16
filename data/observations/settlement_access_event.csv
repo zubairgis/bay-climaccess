@@ -1,0 +1,1 @@
+﻿access_id,settlement_id,facility_id,period_or_event_id,scenario,route_status,primary_mode,distance_km,modelled_travel_min,surveyed_travel_min,corrected_travel_min,waiting_time_min,transfer_time_min,transport_cost_ngn,alternative_facility_id,alternative_route_available,source_type,evidence_grade

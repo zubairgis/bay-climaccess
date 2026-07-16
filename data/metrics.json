@@ -1,0 +1,68 @@
+[
+  {
+    "id": "apps",
+    "label": "Live analytical applications",
+    "value": 3,
+    "unit": "apps",
+    "theme": "forecast",
+    "period": "Rainfall · malaria-prone days · flood detection",
+    "source": "Google Earth Engine",
+    "evidence_grade": "E1",
+    "status": "Working technical assets"
+  },
+  {
+    "id": "units",
+    "label": "Operational decision units",
+    "value": "Settlement + catchment",
+    "unit": "",
+    "theme": "access",
+    "period": "No household health attributes in the public map",
+    "source": "Redesigned PoC database",
+    "evidence_grade": "E2",
+    "status": "Database architecture defined"
+  },
+  {
+    "id": "focus",
+    "label": "Primary funding focus",
+    "value": "Patient-care delivery",
+    "unit": "",
+    "theme": "pregnancy",
+    "period": "Early warning is the enabling component",
+    "source": "BAY-CLIMACCESS PoC design",
+    "evidence_grade": "E2",
+    "status": "Climate-responsive malaria services"
+  },
+  {
+    "id": "targets",
+    "label": "Priority populations",
+    "value": "U5 + pregnant women",
+    "unit": "",
+    "theme": "children",
+    "period": "Final denominators pending baseline verification",
+    "source": "Government · WorldPop · survey evidence",
+    "evidence_grade": "E0",
+    "status": "No public target count claimed"
+  },
+  {
+    "id": "actions",
+    "label": "Verified alert-to-action records",
+    "value": 0,
+    "unit": "records",
+    "theme": "water",
+    "period": "Pre-PoC prototype",
+    "source": "Action tracker",
+    "evidence_grade": "E0",
+    "status": "No outcome-linked action published"
+  },
+  {
+    "id": "outcome",
+    "label": "Primary PoC outcome",
+    "value": "Timely service contact",
+    "unit": "",
+    "theme": "evidence",
+    "period": "During climate-related access disruption",
+    "source": "Matched controlled evaluation",
+    "evidence_grade": "E0",
+    "status": "To be measured during the PoC"
+  }
+]

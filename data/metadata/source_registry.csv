@@ -1,0 +1,7 @@
+﻿source_type,meaning,examples,use_rule
+GOVERNMENT,Government routine or administrative evidence,"DHIS2/RHIS, NHFR, programme targets or approved reports",Preserve original values and completeness metadata
+MODELLED,Modelled or gridded evidence,"WorldPop, MAP, accessibility models",Use as prior/context; never present as observed truth
+SURVEYED,Primary survey or audit evidence,"Enumeration, GPS, facility audit, service-use survey","Use consent, QA and sampling/coverage metadata"
+SENSOR_OBSERVED,Earth-observation or gauge evidence,"Sentinel-1, observed rainfall","Report date, method, validation and uncertainty"
+FORECAST,Forward-looking climate signal,GFS/GEFS,Do not label as observed flooding
+PREFERRED_OPERATIONAL,Human-approved operational value,Documented evidence hierarchy or calibration,Retain all source records and the selection rationale

@@ -1,0 +1,45 @@
+﻿dataset,field,data_type,analytical_level,public_use,description
+settlements.geojson,settlement_id,text,settlement,yes,Stable unique settlement identifier
+settlements.geojson,settlement_name,text,settlement,yes,Approved settlement name
+settlements.geojson,lga_id,text,settlement,yes,Parent LGA identifier
+settlements.geojson,ward_id,text,settlement,yes,Parent ward identifier where available
+settlements.geojson,settlement_type,category,settlement,yes,"Urban, peri-urban, rural, riverine or island"
+settlements.geojson,area_km2,number,settlement,yes,Settlement area
+settlements.geojson,building_count,integer,settlement,yes,"Count of detected building footprints, not households"
+settlements.geojson,built_footprint_area_m2,number,settlement,yes,Total detected building footprint area
+settlements.geojson,building_density_km2,number,settlement,yes,Detected buildings per square kilometre
+settlements.geojson,mean_open_buildings_confidence,number,settlement,yes,Mean detection confidence
+settlements.geojson,primary_transport_mode,category,settlement,yes,"Road, walk, boat or multimodal"
+settlements.geojson,primary_facility_id,text,settlement,yes,Assigned primary facility
+settlements.geojson,last_verified,date,settlement,yes,Most recent public verification date
+settlements.geojson,evidence_grade,category,settlement,yes,E0 to E5 evidence grade
+settlements.geojson,public_display,boolean,settlement,yes,Public map display flag
+population_evidence.csv,population_record_id,text,settlement/catchment,no raw personal data,Unique observation record
+population_evidence.csv,geo_type,category,settlement/catchment,yes,Geographic unit
+population_evidence.csv,geo_id,text,settlement/catchment,yes,Geographic identifier
+population_evidence.csv,reference_period,date/year,settlement/catchment,yes,Reference year or period
+population_evidence.csv,population_group,category,settlement/catchment,yes,"TOTAL, UNDER_FIVE, FEMALE_15_49, ESTIMATED_PREGNANCIES, REGISTERED_PREGNANT or SURVEYED_PREGNANT"
+population_evidence.csv,source_type,category,settlement/catchment,yes,"Government, modelled, surveyed or preferred operational"
+population_evidence.csv,value,number,settlement/catchment,yes aggregated,Population estimate
+population_evidence.csv,lower_bound,number,settlement/catchment,yes aggregated,Uncertainty lower bound
+population_evidence.csv,upper_bound,number,settlement/catchment,yes aggregated,Uncertainty upper bound
+population_evidence.csv,method,text,settlement/catchment,yes,"Aggregation, estimation or reconciliation method"
+population_evidence.csv,evidence_grade,category,settlement/catchment,yes,E0 to E5
+health_indicator_observations.csv,indicator_code,text,facility/catchment/settlement,yes aggregated only,Code from indicator catalogue
+health_indicator_observations.csv,period,year-month,facility/catchment/settlement,yes aggregated only,Reporting month
+health_indicator_observations.csv,value,number,facility/catchment/settlement,yes aggregated only,Observation
+health_indicator_observations.csv,source_type,category,facility/catchment/settlement,yes aggregated only,"Government, survey or modelled context"
+health_indicator_observations.csv,numerator,number,facility/catchment/settlement,yes aggregated only,Numerator where applicable
+health_indicator_observations.csv,denominator,number,facility/catchment/settlement,yes aggregated only,Denominator where applicable
+health_indicator_observations.csv,completeness_percent,number,facility/catchment/settlement,yes aggregated only,Reporting completeness
+health_indicator_observations.csv,quality_flag,category,facility/catchment/settlement,yes aggregated only,"Valid, incomplete, outlier or missing"
+health_indicator_observations.csv,evidence_grade,category,facility/catchment/settlement,yes,E0 to E5
+hotspot_scores.geojson,priority_score,number,settlement/catchment,yes,Provisional 0–100 priority score
+hotspot_scores.geojson,priority_class,category,settlement/catchment,yes,"Lower, moderate, high, very high or critical"
+hotspot_scores.geojson,climate_score,number,settlement/catchment,yes,Climate-hazard domain
+hotspot_scores.geojson,access_score,number,settlement/catchment,yes,Access-disruption domain
+hotspot_scores.geojson,u5_malaria_score,number,settlement/catchment,yes,Under-five malaria domain
+hotspot_scores.geojson,maternal_gap_score,number,settlement/catchment,yes,Pregnancy malaria/service-continuity domain
+hotspot_scores.geojson,readiness_gap_score,number,settlement/catchment,yes,Facility-readiness domain
+hotspot_scores.geojson,evidence_confidence,number,settlement/catchment,yes,Separate evidence-confidence score
+hotspot_scores.geojson,recommended_action,text,settlement/catchment,yes,Human-reviewed operational recommendation

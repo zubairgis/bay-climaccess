@@ -1,0 +1,75 @@
+{
+  "version": "3.0",
+  "updated": "2026-07-15",
+  "updates": [
+    {
+      "id": "redesign-20260715",
+      "category": "evidence",
+      "status": "completed",
+      "evidence_grade": "E2",
+      "date": "2026-07-15",
+      "valid_from": "",
+      "valid_to": "",
+      "geography": "Bayelsa State",
+      "author": "BAY-CLIMACCESS Team",
+      "title": "Portal redesigned around the Nexa Proof-of-Concept pathway",
+      "summary": "The database and reviewer portal now prioritize settlements, health-facility catchments, transparent triggers, adaptive malaria-service actions and measurable outcomes.",
+      "body": "Live forecast and satellite applications are separated from the uploaded public evidence map. Government, modelled and surveyed observations are stored separately, while confidential contacts and individual health records remain outside GitHub.",
+      "recommendation": "Use the portal to demonstrate technical readiness and the proposed signal-to-action-to-outcome pathway; do not claim health impact before the controlled PoC evaluation.",
+      "uncertainty": "Pilot catchments, local thresholds, target denominators and action effectiveness remain to be confirmed.",
+      "source_url": "",
+      "tags": [
+        "Nexa",
+        "database redesign",
+        "settlement",
+        "facility catchment",
+        "service continuity"
+      ]
+    },
+    {
+      "id": "apps-registered-20260715",
+      "category": "forecast",
+      "status": "information",
+      "evidence_grade": "E1",
+      "date": "2026-07-15",
+      "valid_from": "",
+      "valid_to": "",
+      "geography": "Nigeria with Bayelsa PoC focus",
+      "author": "Climate Analytics Workstream",
+      "title": "Three live Earth Engine applications registered",
+      "summary": "Rainfall warning, malaria-prone days and Sentinel-1 flood-detection applications are linked as working technical assets.",
+      "body": "The apps generate preliminary climate and earth-observation signals. They do not directly provide verified service disruption or health outcomes.",
+      "recommendation": "Calibrate local thresholds and use community, route and facility confirmation before activating a service response.",
+      "uncertainty": "Bayelsa-specific technical and operational validation is pending.",
+      "source_url": "https://zubair-1300.projects.earthengine.app/view/fwn",
+      "tags": [
+        "GFS",
+        "ERA5-Land",
+        "Sentinel-1",
+        "Earth Engine"
+      ]
+    },
+    {
+      "id": "published-access-2025",
+      "category": "evidence",
+      "status": "completed",
+      "evidence_grade": "E3",
+      "date": "2025-12-04",
+      "valid_from": "",
+      "valid_to": "",
+      "geography": "Bayelsa State",
+      "author": "Islam et al.",
+      "title": "Published healthcare-accessibility baseline retained as starting evidence",
+      "summary": "The published framework analysed 175,352 building footprints and identified localized barrier and remote-access patterns.",
+      "body": "For the PoC, these building-level results will be summarized to settlements and facility catchments rather than treated as household records.",
+      "recommendation": "Update travel time with field-observed route state, waiting time, boat availability, facility readiness and climate disruption.",
+      "uncertainty": "Static travel speeds, current waterlogging, tides and service capacity were not represented in the baseline.",
+      "source_url": "",
+      "tags": [
+        "published baseline",
+        "accessibility",
+        "settlement aggregation"
+      ]
+    }
+  ]
+}

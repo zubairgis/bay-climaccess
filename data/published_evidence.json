@@ -1,0 +1,68 @@
+{
+  "citation": "Islam, Z., Umoru, K., Tobirov, O., & Jabborov, A. (2025). Geospatial Analysis of Access from Buildings to Health Facilities in Bayelsa, Nigeria. Hensard Journal of Environment, 1(1).",
+  "limitations": "The published study is a static baseline. Building footprints are not households, and the PoC must aggregate them to settlements/catchments and update travel time using route state, tides, facility readiness and field observations.",
+  "headline_metrics": [
+    {
+      "label": "Buildings analysed",
+      "value": 175352,
+      "unit": ""
+    },
+    {
+      "label": "Barrier-hotspot buildings",
+      "value": 3080,
+      "unit": ""
+    },
+    {
+      "label": "Remote buildings",
+      "value": 1438,
+      "unit": ""
+    },
+    {
+      "label": "No-estimate buildings",
+      "value": 2431,
+      "unit": ""
+    },
+    {
+      "label": "Spatial resolution",
+      "value": 100,
+      "unit": "m"
+    },
+    {
+      "label": "Access threshold used",
+      "value": 60,
+      "unit": "min"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Well-connected",
+      "buildings": 115148,
+      "share_pct": 65.7
+    },
+    {
+      "category": "Typical",
+      "buildings": 51322,
+      "share_pct": 29.3
+    },
+    {
+      "category": "Barrier hotspot",
+      "buildings": 3080,
+      "share_pct": 1.8
+    },
+    {
+      "category": "Heterogeneous",
+      "buildings": 1933,
+      "share_pct": 1.1
+    },
+    {
+      "category": "Remote",
+      "buildings": 1438,
+      "share_pct": 0.8
+    },
+    {
+      "category": "No estimate",
+      "buildings": 2431,
+      "share_pct": 1.4
+    }
+  ]
+}
