@@ -244,3 +244,37 @@ footer p { margin: .2rem 0; }
 .trigger-card td:first-child { white-space: nowrap; }
 @media (max-width: 1280px) { .fit-grid { grid-template-columns: repeat(2, 1fr); } .pathway-grid { grid-template-columns: repeat(3, 1fr); } .pathway-grid > div:nth-child(3)::after { display: none; } }
 @media (max-width: 780px) { .fit-grid, .pathway-grid { grid-template-columns: 1fr; } .pathway-grid > div::after { display: none !important; } }
+/* Cascading LGA, ward and settlement selector */
+
+.geography-grid {
+  display: grid;
+  grid-template-columns:
+    repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+  width: 100%;
+}
+
+.geography-grid label {
+  min-width: 0;
+}
+
+#editGeography[readonly] {
+  background: #f3f7f8;
+  color: var(--brand-deep);
+  font-weight: 800;
+  cursor: default;
+}
+
+#editWard:disabled,
+#editSettlement:disabled {
+  background: #edf2f3;
+  color: #73858b;
+  cursor: not-allowed;
+  opacity: 0.8;
+}
+
+@media (max-width: 780px) {
+  .geography-grid {
+    grid-template-columns: 1fr;
+  }
+}
