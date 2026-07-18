@@ -1,0 +1,31 @@
+BAY-CLIMACCESS PORTAL DATA PACKAGE
+Created: 2026-07-17
+
+Upload the contents of the data folder into the
+existing data folder in the GitHub repository.
+
+REFERENCE FILES
+data/reference/lga_boundaries.geojson
+data/reference/ward_boundaries.geojson
+data/reference/settlements.geojson
+data/reference/settlement_name_points.geojson
+data/reference/health_facilities.geojson
+data/reference/facility_catchments.geojson
+
+OUTPUT FILES
+data/outputs/settlement_summary.geojson
+data/outputs/facility_readiness_summary.geojson
+data/outputs/accessibility_summary.geojson
+data/outputs/service_continuity_summary.geojson
+data/outputs/hotspot_scores.geojson
+data/outputs/validation_points.geojson
+data/outputs/action_locations.geojson
+
+IMPORTANT EVIDENCE NOTES
+- Settlement populations are WorldPop 2025 ward totals allocated to GRID3 settlement polygons.
+- They are not household enumeration results.
+- Candidate catchments are derived from wards and Secondary facilities within each LGA.
+- They are not official health-service catchments.
+- Government, survey, service, validation and outcome values remain empty where evidence was not supplied.
+
+Review all files in data/metadata before public upload.
