@@ -1,5 +1,24 @@
 const FALLBACK = window.BAY_FALLBACK || {};
-const state = { config: {}, metrics: [], maps: [], updates: [], apps: [], catalog: [], evidence: {}, comparison: [], actions: [], briefFilter: 'all', briefSearch: '', catalogFilter: 'all', catalogSearch: '', activeLayers: [] };
+const state = {
+  config: {},
+  metrics: [],
+  maps: [],
+  updates: [],
+  apps: [],
+  catalog: [],
+  evidence: {},
+  comparison: [],
+  actions: [],
+
+  wards: [],
+  settlements: [],
+
+  briefFilter: "all",
+  briefSearch: "",
+  catalogFilter: "all",
+  catalogSearch: "",
+  activeLayers: []
+};
 const gradeNames = { E0: 'Source', E1: 'Derived', E2: 'Internally checked', E3: 'Validated / published', E4: 'Survey corrected', E5: 'Outcome linked' };
 const map = L.map('map', { zoomControl: true, preferCanvas: true }).setView([5.12, 6.05], 9);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; OpenStreetMap contributors' }).addTo(map);
