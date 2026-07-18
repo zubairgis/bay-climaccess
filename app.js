@@ -47,25 +47,189 @@ function gradeClass(grade = 'E0') { return `grade-${String(grade).toLowerCase()}
 function gradeLabel(grade = 'E0') { return `${grade} · ${gradeNames[grade] || 'Evidence'}`; }
 
 async function loadAll() {
-  const [config, metrics, maps, updatesPayload, apps, catalog, evidence, comparison, actions] = await Promise.all([
-    safeJson('data/portal_config.json', FALLBACK.config || {}),
-    safeJson('data/metrics.json', FALLBACK.metrics || []),
-    safeJson('data/maps.json', FALLBACK.maps || []),
-    safeJson('data/updates.json', { version: '0.0', updated: '', updates: FALLBACK.updates || [] }),
-    safeJson('data/app_registry.json', FALLBACK.apps || []),
-    safeJson('data/data_catalog.json', FALLBACK.catalog || []),
-    safeJson('data/published_evidence.json', FALLBACK.evidence || {}),
-    safeJson('data/evidence_comparison.json', FALLBACK.comparison || []),
-    safeJson('data/action_tracker.json', FALLBACK.actions || [])
+  const [
+    config,
+    metrics,
+    maps,
+    updatesPayload,
+    apps,
+    catalog,
+    evidence,
+    comparison,
+    actions,
+    wardGeoJson,
+    settlementGeoJson
+  ] = await Promise.all([
+
+    safeJson(
+      "data/portal_config.json",
+      FALLBACK.config || {}
+    ),
+
+    safeJson(
+      "data/metrics.json",
+      FALLBACK.metrics || []
+    ),
+
+    safeJson(
+      "data/maps.json",
+      FALLBACK.maps || []
+    ),
+
+    safeJson(
+      "data/updates.json",
+      {
+        version: "0.0",
+        updated: "",
+        updates: FALLBACK.updates || []
+      }
+    ),
+
+    safeJson(
+      "data/app_registry.json",
+      FALLBACK.apps || []
+    ),
+
+    safeJson(
+      "data/data_catalog.json",
+      FALLBACK.catalog || []
+    ),
+
+    safeJson(
+      "data/published_evidence.json",
+      FALLBACK.evidence || {}
+    ),
+
+    safeJson(
+      "data/evidence_comparison.json",
+      FALLBACK.comparison || []
+    ),
+
+    safeJson(
+      "data/action_tracker.json",
+      FALLBACK.actions || []
+    ),
+
+    safeJson(
+      "data/reference/ward_boundaries.geojson",
+      {
+        type: "FeatureCollection",
+        features: []
+      }
+    ),
+
+    safeJson(
+      "data/reference/settlements.geojson",
+      {
+        type: "FeatureCollection",
+        features: []
+      }
+    )
   ]);
-  Object.assign(state, { config, metrics, maps, updates: updatesPayload.updates || [], apps, catalog, evidence, comparison, actions });
-  state.updateMeta = { version: updatesPayload.version || config.version, updated: updatesPayload.updated || config.updated };
+
+  Object.assign(state, {
+    config,
+    metrics,
+    maps,
+    updates: updatesPayload.updates || [],
+    apps,
+    catalog,
+    evidence,
+    comparison,
+    actions
+  });
+
+  state.wards = (
+    wardGeoJson.features || []
+  )
+    .map(feature => {
+      const properties =
+        feature.properties || {};
+
+      return {
+        ward_id: String(
+          properties.ward_id ?? ""
+        ).trim(),
+
+        ward_name: String(
+          properties.ward_name ?? ""
+        ).trim(),
+
+        lga_name: String(
+          properties.lga_name ?? ""
+        ).trim()
+      };
+    })
+    .filter(record => {
+      return (
+        record.ward_name &&
+        record.lga_name
+      );
+    });
+
+  state.settlements = (
+    settlementGeoJson.features || []
+  )
+    .map(feature => {
+      const properties =
+        feature.properties || {};
+
+      return {
+        settlement_id: String(
+          properties.settlement_id ?? ""
+        ).trim(),
+
+        settlement_name: String(
+          properties.settlement_name ?? ""
+        ).trim(),
+
+        ward_name: String(
+          properties.ward_name ?? ""
+        ).trim(),
+
+        lga_name: String(
+          properties.lga_name ?? ""
+        ).trim()
+      };
+    })
+    .filter(record => {
+      return (
+        record.settlement_id &&
+        record.settlement_name &&
+        record.ward_name &&
+        record.lga_name
+      );
+    });
+
+  state.updateMeta = {
+    version:
+      updatesPayload.version ||
+      config.version,
+
+    updated:
+      updatesPayload.updated ||
+      config.updated
+  };
+
   renderAll();
 }
 
 function renderAll() {
-  renderConfig(); renderMetrics(); renderClaims(); renderApps(); renderPublishedEvidence(); renderComparison(); renderBriefs(); renderActions(); renderCatalog(); setupMapModules();
-  if (location.protocol === 'file:') showFileNotice();
+  renderConfig();
+  renderMetrics();
+  renderClaims();
+  renderApps();
+  renderPublishedEvidence();
+  renderComparison();
+  renderBriefs();
+  renderActions();
+  renderCatalog();
+  setupMapModules();
+  setupGeographySelectors();
+
+  if (location.protocol === "file:") {
+    showFileNotice();
+  }
 }
 
 function renderConfig() {
@@ -221,7 +385,395 @@ function renderLegend(items) {
 function showFileNotice() {
   const note = document.createElement('div'); note.className = 'file-notice'; note.textContent = 'Local preview mode: JSON fallbacks are active. For full data loading, open index.html with VS Code Live Server or publish with GitHub Pages.'; document.body.appendChild(note); setTimeout(() => note.remove(), 9000);
 }
+// ==========================================================
+// CASCADING GEOGRAPHY SELECTORS
+// LGA -> Ward -> Settlement
+// ==========================================================
 
+function geographyText(value) {
+  return String(
+    value ?? ""
+  ).trim();
+}
+
+
+function sortGeographyNames(a, b) {
+  return a.localeCompare(
+    b,
+    undefined,
+    {
+      sensitivity: "base",
+      numeric: true
+    }
+  );
+}
+
+
+function uniqueGeographyValues(values) {
+  return [
+    ...new Set(
+      values
+        .map(geographyText)
+        .filter(Boolean)
+    )
+  ].sort(sortGeographyNames);
+}
+
+
+function resetGeographySelect(
+  selectElement,
+  placeholder,
+  disabled = true
+) {
+  selectElement.innerHTML = "";
+
+  const option =
+    document.createElement("option");
+
+  option.value = "";
+  option.textContent = placeholder;
+
+  selectElement.appendChild(option);
+  selectElement.disabled = disabled;
+}
+
+
+function addGeographyOption(
+  selectElement,
+  value,
+  label,
+  additionalData = {}
+) {
+  const option =
+    document.createElement("option");
+
+  option.value = value;
+  option.textContent = label;
+
+  Object.entries(
+    additionalData
+  ).forEach(([key, dataValue]) => {
+    option.dataset[key] = dataValue;
+  });
+
+  selectElement.appendChild(option);
+}
+
+
+function getSelectedSettlementName() {
+  const settlementSelect =
+    document.getElementById(
+      "editSettlement"
+    );
+
+  const selectedOption =
+    settlementSelect.options[
+      settlementSelect.selectedIndex
+    ];
+
+  if (
+    !selectedOption ||
+    !settlementSelect.value
+  ) {
+    return "";
+  }
+
+  return geographyText(
+    selectedOption.dataset.name ||
+    selectedOption.textContent
+  );
+}
+
+
+function updateGeneratedGeography() {
+  const lgaName =
+    geographyText(
+      document.getElementById(
+        "editLga"
+      ).value
+    );
+
+  const wardName =
+    geographyText(
+      document.getElementById(
+        "editWard"
+      ).value
+    );
+
+  const settlementName =
+    getSelectedSettlementName();
+
+  const geographyInput =
+    document.getElementById(
+      "editGeography"
+    );
+
+  let generatedGeography =
+    "Bayelsa State";
+
+  if (lgaName) {
+    generatedGeography =
+      `${lgaName} LGA, Bayelsa State`;
+  }
+
+  if (lgaName && wardName) {
+    generatedGeography =
+      `${wardName} Ward, ` +
+      `${lgaName} LGA, Bayelsa State`;
+  }
+
+  if (
+    lgaName &&
+    wardName &&
+    settlementName
+  ) {
+    generatedGeography =
+      `${settlementName}, ` +
+      `${wardName} Ward, ` +
+      `${lgaName} LGA, Bayelsa State`;
+  }
+
+  geographyInput.value =
+    generatedGeography;
+}
+
+
+function populateWardSelector() {
+  const lgaSelect =
+    document.getElementById(
+      "editLga"
+    );
+
+  const wardSelect =
+    document.getElementById(
+      "editWard"
+    );
+
+  const settlementSelect =
+    document.getElementById(
+      "editSettlement"
+    );
+
+  const selectedLga =
+    geographyText(
+      lgaSelect.value
+    );
+
+  resetGeographySelect(
+    settlementSelect,
+    "Choose settlement",
+    true
+  );
+
+  if (!selectedLga) {
+    resetGeographySelect(
+      wardSelect,
+      "Choose ward",
+      true
+    );
+
+    updateGeneratedGeography();
+    return;
+  }
+
+  resetGeographySelect(
+    wardSelect,
+    "Entire LGA / choose ward",
+    false
+  );
+
+  const wardNames =
+    uniqueGeographyValues(
+      state.wards
+        .filter(record => {
+          return (
+            record.lga_name ===
+            selectedLga
+          );
+        })
+        .map(record => {
+          return record.ward_name;
+        })
+    );
+
+  wardNames.forEach(wardName => {
+    addGeographyOption(
+      wardSelect,
+      wardName,
+      wardName
+    );
+  });
+
+  updateGeneratedGeography();
+}
+
+
+function populateSettlementSelector() {
+  const lgaName =
+    geographyText(
+      document.getElementById(
+        "editLga"
+      ).value
+    );
+
+  const wardName =
+    geographyText(
+      document.getElementById(
+        "editWard"
+      ).value
+    );
+
+  const settlementSelect =
+    document.getElementById(
+      "editSettlement"
+    );
+
+  if (!lgaName || !wardName) {
+    resetGeographySelect(
+      settlementSelect,
+      "Choose settlement",
+      true
+    );
+
+    updateGeneratedGeography();
+    return;
+  }
+
+  const matchingSettlements =
+    state.settlements
+      .filter(record => {
+        return (
+          record.lga_name === lgaName &&
+          record.ward_name === wardName &&
+          !record.settlement_name
+            .toLowerCase()
+            .startsWith(
+              "unnamed grid3 settlement"
+            )
+        );
+      })
+      .sort((a, b) => {
+        return sortGeographyNames(
+          a.settlement_name,
+          b.settlement_name
+        );
+      });
+
+  const uniqueSettlements =
+    new Map();
+
+  matchingSettlements.forEach(
+    record => {
+      if (
+        !uniqueSettlements.has(
+          record.settlement_id
+        )
+      ) {
+        uniqueSettlements.set(
+          record.settlement_id,
+          record
+        );
+      }
+    }
+  );
+
+  resetGeographySelect(
+    settlementSelect,
+    uniqueSettlements.size
+      ? "Entire ward / choose settlement"
+      : "No named settlements available",
+    uniqueSettlements.size === 0
+  );
+
+  uniqueSettlements.forEach(
+    record => {
+      addGeographyOption(
+        settlementSelect,
+        record.settlement_id,
+        record.settlement_name,
+        {
+          name:
+            record.settlement_name
+        }
+      );
+    }
+  );
+
+  updateGeneratedGeography();
+}
+
+
+function setupGeographySelectors() {
+  const lgaSelect =
+    document.getElementById(
+      "editLga"
+    );
+
+  const wardSelect =
+    document.getElementById(
+      "editWard"
+    );
+
+  const settlementSelect =
+    document.getElementById(
+      "editSettlement"
+    );
+
+  if (
+    !lgaSelect ||
+    !wardSelect ||
+    !settlementSelect
+  ) {
+    return;
+  }
+
+  resetGeographySelect(
+    lgaSelect,
+    "Choose LGA",
+    false
+  );
+
+  resetGeographySelect(
+    wardSelect,
+    "Choose ward",
+    true
+  );
+
+  resetGeographySelect(
+    settlementSelect,
+    "Choose settlement",
+    true
+  );
+
+  const lgaNames =
+    uniqueGeographyValues(
+      state.wards.map(
+        record => record.lga_name
+      )
+    );
+
+  lgaNames.forEach(lgaName => {
+    addGeographyOption(
+      lgaSelect,
+      lgaName,
+      lgaName
+    );
+  });
+
+  lgaSelect.onchange = () => {
+    populateWardSelector();
+  };
+
+  wardSelect.onchange = () => {
+    populateSettlementSelector();
+  };
+
+  settlementSelect.onchange = () => {
+    updateGeneratedGeography();
+  };
+
+  updateGeneratedGeography();
+}
 function openEditor() { document.getElementById('editorPanel').hidden = false; document.getElementById('editDate').value = new Date().toISOString().slice(0,10); }
 function closeEditor() { document.getElementById('editorPanel').hidden = true; }
 document.getElementById('openEditor').addEventListener('click', openEditor);
@@ -234,11 +786,163 @@ document.getElementById('briefSearch').addEventListener('input', e => { state.br
 document.getElementById('catalogFilter').addEventListener('change', e => { state.catalogFilter = e.target.value; renderCatalog(); });
 document.getElementById('catalogSearch').addEventListener('input', e => { state.catalogSearch = e.target.value; renderCatalog(); });
 
-document.getElementById('updateForm').addEventListener('submit', event => {
-  event.preventDefault();
-  const entry = { id: `${document.getElementById('editCategory').value}-${Date.now()}`, category: document.getElementById('editCategory').value, status: document.getElementById('editStatus').value, evidence_grade: document.getElementById('editGrade').value, date: document.getElementById('editDate').value, valid_from: document.getElementById('editValidFrom').value, valid_to: document.getElementById('editValidTo').value, geography: document.getElementById('editGeography').value.trim(), author: document.getElementById('editAuthor').value.trim(), title: document.getElementById('editTitle').value.trim(), summary: document.getElementById('editSummary').value.trim(), body: document.getElementById('editBody').value.trim(), recommendation: document.getElementById('editRecommendation').value.trim(), uncertainty: document.getElementById('editUncertainty').value.trim(), source_url: document.getElementById('editSourceUrl').value.trim(), tags: document.getElementById('editTags').value.split(',').map(v => v.trim()).filter(Boolean) };
-  state.updates.unshift(entry); state.briefFilter = 'all'; document.getElementById('briefFilter').value = 'all'; renderBriefs(); event.target.reset(); document.getElementById('editDate').value = new Date().toISOString().slice(0,10); alert('Brief added to the preview. Download the revised JSON to publish it through GitHub.');
-});
+document
+  .getElementById("updateForm")
+  .addEventListener(
+    "submit",
+    event => {
+      event.preventDefault();
+
+      const lgaSelect =
+        document.getElementById(
+          "editLga"
+        );
+
+      const wardSelect =
+        document.getElementById(
+          "editWard"
+        );
+
+      const settlementSelect =
+        document.getElementById(
+          "editSettlement"
+        );
+
+      const settlementOption =
+        settlementSelect.options[
+          settlementSelect.selectedIndex
+        ];
+
+      const entry = {
+        id:
+          `${document.getElementById("editCategory").value}-` +
+          `${Date.now()}`,
+
+        category:
+          document.getElementById(
+            "editCategory"
+          ).value,
+
+        status:
+          document.getElementById(
+            "editStatus"
+          ).value,
+
+        evidence_grade:
+          document.getElementById(
+            "editGrade"
+          ).value,
+
+        date:
+          document.getElementById(
+            "editDate"
+          ).value,
+
+        valid_from:
+          document.getElementById(
+            "editValidFrom"
+          ).value,
+
+        valid_to:
+          document.getElementById(
+            "editValidTo"
+          ).value,
+
+        geography:
+          document.getElementById(
+            "editGeography"
+          ).value.trim(),
+
+        lga_name:
+          lgaSelect.value,
+
+        ward_name:
+          wardSelect.value,
+
+        settlement_id:
+          settlementSelect.value,
+
+        settlement_name:
+          settlementOption &&
+          settlementSelect.value
+            ? geographyText(
+                settlementOption.dataset.name ||
+                settlementOption.textContent
+              )
+            : "",
+
+        author:
+          document.getElementById(
+            "editAuthor"
+          ).value.trim(),
+
+        title:
+          document.getElementById(
+            "editTitle"
+          ).value.trim(),
+
+        summary:
+          document.getElementById(
+            "editSummary"
+          ).value.trim(),
+
+        body:
+          document.getElementById(
+            "editBody"
+          ).value.trim(),
+
+        recommendation:
+          document.getElementById(
+            "editRecommendation"
+          ).value.trim(),
+
+        uncertainty:
+          document.getElementById(
+            "editUncertainty"
+          ).value.trim(),
+
+        source_url:
+          document.getElementById(
+            "editSourceUrl"
+          ).value.trim(),
+
+        tags:
+          document.getElementById(
+            "editTags"
+          )
+            .value
+            .split(",")
+            .map(value => value.trim())
+            .filter(Boolean)
+      };
+
+      state.updates.unshift(entry);
+
+      state.briefFilter = "all";
+
+      document.getElementById(
+        "briefFilter"
+      ).value = "all";
+
+      renderBriefs();
+
+      event.target.reset();
+
+      setupGeographySelectors();
+
+      document.getElementById(
+        "editDate"
+      ).value =
+        new Date()
+          .toISOString()
+          .slice(0, 10);
+
+      alert(
+        "Brief added to the preview. " +
+        "Download the revised JSON to publish it through GitHub."
+      );
+    }
+  );
 document.getElementById('downloadJson').addEventListener('click', () => {
   const payload = { version: incrementVersion(state.updateMeta?.version || state.config.version || '1.0'), updated: new Date().toISOString().slice(0,10), updates: state.updates };
   const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' }); const url = URL.createObjectURL(blob); const a = document.createElement('a'); a.href = url; a.download = 'updates.json'; a.click(); URL.revokeObjectURL(url);
