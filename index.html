@@ -170,7 +170,52 @@
         <label>Status<select id="editStatus" required><option value="information">Information</option><option value="watch">Watch</option><option value="alert">Alert</option><option value="action">Action</option><option value="completed">Completed</option></select></label>
         <label>Evidence grade<select id="editGrade" required><option value="E0">E0 · Source</option><option value="E1">E1 · Derived</option><option value="E2">E2 · Internally checked</option><option value="E3">E3 · Validated / published</option><option value="E4">E4 · Survey corrected</option><option value="E5">E5 · Outcome linked</option></select></label>
         <label>Issue date<input id="editDate" type="date" required /></label><label>Valid from<input id="editValidFrom" type="date" /></label><label>Valid to<input id="editValidTo" type="date" /></label>
-        <label class="span-2">Geography<input id="editGeography" type="text" placeholder="Bayelsa State / LGA / settlement / catchment" required /></label><label class="span-2">Author or source<input id="editAuthor" type="text" value="BAY-CLIMACCESS Team" required /></label>
+<div class="geography-grid wide">
+
+  <label>
+    LGA
+    <select id="editLga" required>
+      <option value="">Choose LGA</option>
+    </select>
+  </label>
+
+  <label>
+    Ward
+    <select id="editWard" disabled>
+      <option value="">Choose ward</option>
+    </select>
+  </label>
+
+  <label>
+    Settlement
+    <select id="editSettlement" disabled>
+      <option value="">Choose settlement</option>
+    </select>
+  </label>
+
+</div>
+
+<label class="wide">
+  Selected geography
+  <input
+    id="editGeography"
+    type="text"
+    value="Bayelsa State"
+    readonly
+    required
+  />
+</label>
+
+<label class="wide">
+  Author or source
+  <input
+    id="editAuthor"
+    type="text"
+    value="BAY-CLIMACCESS Team"
+    required
+  />
+</label>      
+        
         <label class="wide">Title<input id="editTitle" type="text" maxlength="140" required /></label><label class="wide">Summary<input id="editSummary" type="text" maxlength="260" required /></label>
         <label class="wide">Evidence and interpretation<textarea id="editBody" rows="4" required></textarea></label><label class="wide">Operational recommendation<textarea id="editRecommendation" rows="3"></textarea></label><label class="wide">Uncertainty / limitations<textarea id="editUncertainty" rows="2"></textarea></label>
         <label class="span-2">Source URL<input id="editSourceUrl" type="url" placeholder="https://…" /></label><label class="span-2">Tags<input id="editTags" type="text" placeholder="Sagbama, GFS, route, ANC" /></label>
