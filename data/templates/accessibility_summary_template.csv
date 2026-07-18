@@ -1,0 +1,1 @@
+settlement_id,settlement_name,facility_id,facility_name,scenario,modelled_travel_min,surveyed_travel_min,corrected_travel_min,route_status,alternative_facility_name,evidence_grade,validation_status,triangulation_status,longitude,latitude
