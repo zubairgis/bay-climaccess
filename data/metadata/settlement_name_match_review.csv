@@ -1,0 +1,858 @@
+settlement_id,settlement_name,ward_name,lga_name,name_point_id,name_assignment_method,name_assignment_distance_m,name_validation_status,evidence_grade
+SET_SET_428,Sukeme Gbene,Ward_78,Sagbama,SETNAME_12025462,Nearest GRID3 settlement-name point in same ward,4977.345424,Nearest-name assignment; manual review required,E0
+SET_SET_1568,Ebiama Zion,Ward_34,Ekeremor,SETNAME_12236618,Nearest GRID3 settlement-name point in same ward,4929.477972,Nearest-name assignment; manual review required,E0
+SET_SET_1589,Brimola Gbene I,Ward_23,Ekeremor,SETNAME_12083795,Nearest GRID3 settlement-name point in same ward,4928.836127,Nearest-name assignment; manual review required,E0
+SET_SET_1745,Ayama Ebene,Ward_96,Sagbama,SETNAME_12133116,Nearest GRID3 settlement-name point in same ward,4916.85393,Nearest-name assignment; manual review required,E0
+SET_SET_2176,Alesegbene,Ward_25,Ekeremor,SETNAME_12233612,Nearest GRID3 settlement-name point in same ward,4898.507463,Nearest-name assignment; manual review required,E0
+SET_SET_2345,Finfiasa Gbene,Ward_25,Ekeremor,SETNAME_12056333,Nearest GRID3 settlement-name point in same ward,4886.884538,Nearest-name assignment; manual review required,E0
+SET_SET_8,Ayanmapou,Ward_86,Sagbama,SETNAME_12083220,Nearest GRID3 settlement-name point in same ward,4850.036803,Nearest-name assignment; manual review required,E0
+SET_SET_55,Sampou Ama,Ward_80,Sagbama,SETNAME_12019327,Nearest GRID3 settlement-name point in same ward,4817.002734,Nearest-name assignment; manual review required,E0
+SET_SET_4,Kekende Gbene,Ward_86,Sagbama,SETNAME_12083147,Nearest GRID3 settlement-name point in same ward,4779.059138,Nearest-name assignment; manual review required,E0
+SET_SET_2467,Ebiama Zion,Ward_34,Ekeremor,SETNAME_12236618,Nearest GRID3 settlement-name point in same ward,4773.158676,Nearest-name assignment; manual review required,E0
+SET_SET_2246,Peretoru Gbene,Ward_26,Ekeremor,SETNAME_12188058,Nearest GRID3 settlement-name point in same ward,4736.229105,Nearest-name assignment; manual review required,E0
+SET_SET_5,Orupougbene,Ward_86,Sagbama,SETNAME_12027817,Nearest GRID3 settlement-name point in same ward,4714.04318,Nearest-name assignment; manual review required,E0
+SET_SET_425,Tubolayefa Gbene,Ward_78,Sagbama,SETNAME_11999928,Nearest GRID3 settlement-name point in same ward,4686.80601,Nearest-name assignment; manual review required,E0
+SET_SET_1752,Bolouama Gbene,Ward_96,Sagbama,SETNAME_12070865,Nearest GRID3 settlement-name point in same ward,4660.703808,Nearest-name assignment; manual review required,E0
+SET_SET_56,Sampou Ama,Ward_80,Sagbama,SETNAME_12019327,Nearest GRID3 settlement-name point in same ward,4651.106663,Nearest-name assignment; manual review required,E0
+SET_SET_1746,Ayama Ebene,Ward_96,Sagbama,SETNAME_12133116,Nearest GRID3 settlement-name point in same ward,4619.335387,Nearest-name assignment; manual review required,E0
+SET_SET_311,Peter Gbene,Ward_60,Sagbama,SETNAME_12276198,Nearest GRID3 settlement-name point in same ward,4613.685739,Nearest-name assignment; manual review required,E0
+SET_SET_1583,Ebiama Zion,Ward_34,Ekeremor,SETNAME_12236618,Nearest GRID3 settlement-name point in same ward,4587.512319,Nearest-name assignment; manual review required,E0
+SET_SET_2283,Dinefieama Gbene,Ward_25,Ekeremor,SETNAME_12152141,Nearest GRID3 settlement-name point in same ward,4580.783537,Nearest-name assignment; manual review required,E0
+SET_SET_2466,Ebiama Zion,Ward_34,Ekeremor,SETNAME_12236618,Nearest GRID3 settlement-name point in same ward,4569.693227,Nearest-name assignment; manual review required,E0
+SET_SET_427,Tubolayefa Gbene,Ward_78,Sagbama,SETNAME_11999928,Nearest GRID3 settlement-name point in same ward,4544.47989,Nearest-name assignment; manual review required,E0
+SET_SET_7,Ayanmapou,Ward_86,Sagbama,SETNAME_12083220,Nearest GRID3 settlement-name point in same ward,4538.881368,Nearest-name assignment; manual review required,E0
+SET_SET_2486,Bouperegha Gbene,Ward_25,Ekeremor,SETNAME_12220689,Nearest GRID3 settlement-name point in same ward,4474.724696,Nearest-name assignment; manual review required,E0
+SET_SET_2135,Peretoru Gbene,Ward_26,Ekeremor,SETNAME_12188058,Nearest GRID3 settlement-name point in same ward,4473.528453,Nearest-name assignment; manual review required,E0
+SET_SET_2284,Dinefieama Gbene,Ward_25,Ekeremor,SETNAME_12152141,Nearest GRID3 settlement-name point in same ward,4454.4116,Nearest-name assignment; manual review required,E0
+SET_SET_1641,Ebipade Gbene,Ward_30,Ekeremor,SETNAME_12152792,Nearest GRID3 settlement-name point in same ward,4406.344486,Nearest-name assignment; manual review required,E0
+SET_SET_328,Aban Gbene,Ward_60,Sagbama,SETNAME_12017924,Nearest GRID3 settlement-name point in same ward,4400.300022,Nearest-name assignment; manual review required,E0
+SET_SET_312,Aban Gbene,Ward_60,Sagbama,SETNAME_12017924,Nearest GRID3 settlement-name point in same ward,4393.09088,Nearest-name assignment; manual review required,E0
+SET_SET_335,Pouta Gbene,Ward_60,Sagbama,SETNAME_12210359,Nearest GRID3 settlement-name point in same ward,4387.709418,Nearest-name assignment; manual review required,E0
+SET_SET_421,Tubolayefa Gbene,Ward_78,Sagbama,SETNAME_11999928,Nearest GRID3 settlement-name point in same ward,4378.149516,Nearest-name assignment; manual review required,E0
+SET_SET_1567,Ebiama Zion,Ward_34,Ekeremor,SETNAME_12236618,Nearest GRID3 settlement-name point in same ward,4296.319527,Nearest-name assignment; manual review required,E0
+SET_SET_138,Sukeme Gbene,Ward_78,Sagbama,SETNAME_12025462,Nearest GRID3 settlement-name point in same ward,4251.886337,Nearest-name assignment; manual review required,E0
+SET_SET_1747,Ayama Ebene,Ward_96,Sagbama,SETNAME_12133116,Nearest GRID3 settlement-name point in same ward,4240.577205,Nearest-name assignment; manual review required,E0
+SET_SET_2173,Alesegbene,Ward_25,Ekeremor,SETNAME_12233612,Nearest GRID3 settlement-name point in same ward,4233.680494,Nearest-name assignment; manual review required,E0
+SET_SET_208,Erifador Gbene Ii,Ward_86,Sagbama,SETNAME_12087815,Nearest GRID3 settlement-name point in same ward,4223.586275,Nearest-name assignment; manual review required,E0
+SET_SET_2473,Bouperegha Gbene,Ward_25,Ekeremor,SETNAME_12220689,Nearest GRID3 settlement-name point in same ward,4198.805795,Nearest-name assignment; manual review required,E0
+SET_SET_2497,Odorubo,Ward_65,Sagbama,SETNAME_12160388,Nearest GRID3 settlement-name point in same ward,4159.491251,Nearest-name assignment; manual review required,E0
+SET_SET_1687,Aleibiri,Ward_29,Ekeremor,SETNAME_12069586,Nearest GRID3 settlement-name point in same ward,3997.695156,Nearest-name assignment; manual review required,E0
+SET_SET_1684,Aleibiri,Ward_29,Ekeremor,SETNAME_12069586,Nearest GRID3 settlement-name point in same ward,3960.416314,Nearest-name assignment; manual review required,E0
+SET_SET_452,Akpoebie James Camp,Ward_97,Sagbama,SETNAME_12026775,Nearest GRID3 settlement-name point in same ward,3936.950472,Nearest-name assignment; manual review required,E0
+SET_SET_330,Pouta Gbene,Ward_60,Sagbama,SETNAME_12210359,Nearest GRID3 settlement-name point in same ward,3903.038131,Nearest-name assignment; manual review required,E0
+SET_SET_466,Odorubo,Ward_65,Sagbama,SETNAME_12160388,Nearest GRID3 settlement-name point in same ward,3892.718666,Nearest-name assignment; manual review required,E0
+SET_SET_1580,Brimola Gbene I,Ward_23,Ekeremor,SETNAME_12083795,Nearest GRID3 settlement-name point in same ward,3857.152724,Nearest-name assignment; manual review required,E0
+SET_SET_416,Oruseri Gha Gbene,Ward_64,Sagbama,SETNAME_12279854,Nearest GRID3 settlement-name point in same ward,3849.580479,Nearest-name assignment; manual review required,E0
+SET_SET_1909,Paikegha Gbene,Ward_25,Ekeremor,SETNAME_12108608,Nearest GRID3 settlement-name point in same ward,3837.775343,Nearest-name assignment; manual review required,E0
+SET_SET_1749,Ayama Ebene,Ward_96,Sagbama,SETNAME_12133116,Nearest GRID3 settlement-name point in same ward,3747.35507,Nearest-name assignment; manual review required,E0
+SET_SET_467,Odorubo,Ward_65,Sagbama,SETNAME_12160388,Nearest GRID3 settlement-name point in same ward,3740.991173,Nearest-name assignment; manual review required,E0
+SET_SET_1631,Tarela Zion,Ward_30,Ekeremor,SETNAME_12202258,Nearest GRID3 settlement-name point in same ward,3727.288963,Nearest-name assignment; manual review required,E0
+SET_SET_1642,Ebipade Gbene,Ward_30,Ekeremor,SETNAME_12152792,Nearest GRID3 settlement-name point in same ward,3714.125003,Nearest-name assignment; manual review required,E0
+SET_SET_1685,Aleibiri,Ward_29,Ekeremor,SETNAME_12069586,Nearest GRID3 settlement-name point in same ward,3678.093452,Nearest-name assignment; manual review required,E0
+SET_SET_2137,Gbagha Enikpoene,Ward_30,Ekeremor,SETNAME_12090568,Nearest GRID3 settlement-name point in same ward,3651.572953,Nearest-name assignment; manual review required,E0
+SET_SET_101,Sukeme Gbene,Ward_78,Sagbama,SETNAME_12025462,Nearest GRID3 settlement-name point in same ward,3633.806028,Nearest-name assignment; manual review required,E0
+SET_SET_329,Pouta Gbene,Ward_60,Sagbama,SETNAME_12210359,Nearest GRID3 settlement-name point in same ward,3583.300859,Nearest-name assignment; manual review required,E0
+SET_SET_468,Odorubo,Ward_65,Sagbama,SETNAME_12160388,Nearest GRID3 settlement-name point in same ward,3566.357371,Nearest-name assignment; manual review required,E0
+SET_SET_1863,Oniyegbene,Ward_25,Ekeremor,SETNAME_12191111,Nearest GRID3 settlement-name point in same ward,3523.116045,Nearest-name assignment; manual review required,E0
+SET_SET_2382,Abicon Gbene,Ward_25,Ekeremor,SETNAME_12238052,Nearest GRID3 settlement-name point in same ward,3508.289445,Nearest-name assignment; manual review required,E0
+SET_SET_215,Yeri Farm Camp,Ward_86,Sagbama,SETNAME_12214844,Nearest GRID3 settlement-name point in same ward,3495.845468,Nearest-name assignment; manual review required,E0
+SET_SET_2380,Lagos Gbene,Ward_5,Ekeremor,SETNAME_12067478,Nearest GRID3 settlement-name point in same ward,3485.666659,Nearest-name assignment; manual review required,E0
+SET_SET_327,Pouta Gbene,Ward_60,Sagbama,SETNAME_12210359,Nearest GRID3 settlement-name point in same ward,3463.163215,Nearest-name assignment; manual review required,E0
+SET_SET_2279,Benbiri New Year,Ward_25,Ekeremor,SETNAME_12017837,Nearest GRID3 settlement-name point in same ward,3456.181341,Nearest-name assignment; manual review required,E0
+SET_SET_332,Aban Gbene,Ward_60,Sagbama,SETNAME_12017924,Nearest GRID3 settlement-name point in same ward,3436.474926,Nearest-name assignment; manual review required,E0
+SET_SET_2133,Gbagha Enikpoene,Ward_30,Ekeremor,SETNAME_12090568,Nearest GRID3 settlement-name point in same ward,3424.686462,Nearest-name assignment; manual review required,E0
+SET_SET_71,Denis Camp,Ward_86,Sagbama,SETNAME_12066666,Nearest GRID3 settlement-name point in same ward,3423.553327,Nearest-name assignment; manual review required,E0
+SET_SET_322,Apeis Gbene,Ward_57,Sagbama,SETNAME_12225627,Nearest GRID3 settlement-name point in same ward,3419.703774,Nearest-name assignment; manual review required,E0
+SET_SET_1810,Atasisi Gbene Tubu,Ward_25,Ekeremor,SETNAME_12119315,Nearest GRID3 settlement-name point in same ward,3409.191925,Nearest-name assignment; manual review required,E0
+SET_SET_326,Pouta Gbene,Ward_60,Sagbama,SETNAME_12210359,Nearest GRID3 settlement-name point in same ward,3408.4327,Nearest-name assignment; manual review required,E0
+SET_SET_1757,Bulou Adagbabiri,Ward_34,Ekeremor,SETNAME_12174401,Nearest GRID3 settlement-name point in same ward,3404.185784,Nearest-name assignment; manual review required,E0
+SET_SET_2286,Dinefieama Gbene,Ward_25,Ekeremor,SETNAME_12152141,Nearest GRID3 settlement-name point in same ward,3399.345816,Nearest-name assignment; manual review required,E0
+SET_SET_331,Pouta Gbene,Ward_60,Sagbama,SETNAME_12210359,Nearest GRID3 settlement-name point in same ward,3371.154576,Nearest-name assignment; manual review required,E0
+SET_SET_2139,Gbagha Enikpoene,Ward_30,Ekeremor,SETNAME_12090568,Nearest GRID3 settlement-name point in same ward,3366.304802,Nearest-name assignment; manual review required,E0
+SET_SET_1908,Oniyegbene,Ward_25,Ekeremor,SETNAME_12191111,Nearest GRID3 settlement-name point in same ward,3330.923204,Nearest-name assignment; manual review required,E0
+SET_SET_453,Akpoebie James Camp,Ward_97,Sagbama,SETNAME_12026775,Nearest GRID3 settlement-name point in same ward,3320.657745,Nearest-name assignment; manual review required,E0
+SET_SET_13,Ayanmapou,Ward_86,Sagbama,SETNAME_12083220,Nearest GRID3 settlement-name point in same ward,3316.71535,Nearest-name assignment; manual review required,E0
+SET_SET_1753,Bolouama Gbene,Ward_96,Sagbama,SETNAME_12070865,Nearest GRID3 settlement-name point in same ward,3280.546255,Nearest-name assignment; manual review required,E0
+SET_SET_2489,Ebipade Gbene,Ward_30,Ekeremor,SETNAME_12152792,Nearest GRID3 settlement-name point in same ward,3269.736111,Nearest-name assignment; manual review required,E0
+SET_SET_1170,Apeis Gbene,Ward_57,Sagbama,SETNAME_12225627,Nearest GRID3 settlement-name point in same ward,3267.718306,Nearest-name assignment; manual review required,E0
+SET_SET_1090,Tungbabiri,Ward_93,Sagbama,SETNAME_12254637,Nearest GRID3 settlement-name point in same ward,3263.600983,Nearest-name assignment; manual review required,E0
+SET_SET_1671,Ebiama Zion,Ward_34,Ekeremor,SETNAME_12236618,Nearest GRID3 settlement-name point in same ward,3250.979172,Nearest-name assignment; manual review required,E0
+SET_SET_12,Ayanmapou,Ward_86,Sagbama,SETNAME_12083220,Nearest GRID3 settlement-name point in same ward,3244.471031,Nearest-name assignment; manual review required,E0
+SET_SET_1864,Paikegha Gbene,Ward_25,Ekeremor,SETNAME_12108608,Nearest GRID3 settlement-name point in same ward,3216.795317,Nearest-name assignment; manual review required,E0
+SET_SET_2381,Abicon Gbene,Ward_25,Ekeremor,SETNAME_12238052,Nearest GRID3 settlement-name point in same ward,3210.067752,Nearest-name assignment; manual review required,E0
+SET_SET_1834,Egbemo Angalabiri,Ward_25,Ekeremor,SETNAME_12028751,Nearest GRID3 settlement-name point in same ward,3150.536837,Nearest-name assignment; manual review required,E0
+SET_SET_1106,Ayama Ebene,Ward_96,Sagbama,SETNAME_12133116,Nearest GRID3 settlement-name point in same ward,3135.977208,Nearest-name assignment; manual review required,E0
+SET_SET_324,Akele Gbene,Ward_57,Sagbama,SETNAME_12152173,Nearest GRID3 settlement-name point in same ward,3125.380708,Nearest-name assignment; manual review required,E0
+SET_SET_2431,Atasisi Gbene Tubu,Ward_25,Ekeremor,SETNAME_12119315,Nearest GRID3 settlement-name point in same ward,3063.552994,Nearest-name assignment; manual review required,E0
+SET_SET_2389,Lagos Gbene,Ward_5,Ekeremor,SETNAME_12067478,Nearest GRID3 settlement-name point in same ward,3056.20039,Nearest-name assignment; manual review required,E0
+SET_SET_2,Ariware,Ward_86,Sagbama,SETNAME_12118555,Nearest GRID3 settlement-name point in same ward,3053.426601,Nearest-name assignment; manual review required,E0
+SET_SET_1812,Atasisi Gbene Tubu,Ward_25,Ekeremor,SETNAME_12119315,Nearest GRID3 settlement-name point in same ward,3023.249448,Nearest-name assignment; manual review required,E0
+SET_SET_2281,Dinefieama Gbene,Ward_25,Ekeremor,SETNAME_12152141,Nearest GRID3 settlement-name point in same ward,2996.548102,Nearest-name assignment; manual review required,E0
+SET_SET_2162,Rechael Gbene,Ward_25,Ekeremor,SETNAME_12017379,Nearest GRID3 settlement-name point in same ward,2983.641704,Nearest-name assignment; manual review required,E0
+SET_SET_229,Tubolayefa Gbene,Ward_78,Sagbama,SETNAME_11999928,Nearest GRID3 settlement-name point in same ward,2945.074117,Nearest-name assignment; manual review required,E0
+SET_SET_1793,Bonukuon Gbene Ii,Ward_32,Ekeremor,SETNAME_12137292,Nearest GRID3 settlement-name point in same ward,2933.154805,Nearest-name assignment; manual review required,E0
+SET_SET_1630,Tarela Zion,Ward_30,Ekeremor,SETNAME_12202258,Nearest GRID3 settlement-name point in same ward,2875.760102,Nearest-name assignment; manual review required,E0
+SET_SET_148,Ogudumugudumu Camp,Ward_93,Sagbama,SETNAME_11999574,Nearest GRID3 settlement-name point in same ward,2858.740006,Nearest-name assignment; manual review required,E0
+SET_SET_1743,Bulou Adagbabiri,Ward_34,Ekeremor,SETNAME_12174401,Nearest GRID3 settlement-name point in same ward,2845.397916,Nearest-name assignment; manual review required,E0
+SET_SET_1579,Brimola Gbene I,Ward_23,Ekeremor,SETNAME_12083795,Nearest GRID3 settlement-name point in same ward,2818.660762,Nearest-name assignment; manual review required,E0
+SET_SET_90,Sukeme Gbene,Ward_78,Sagbama,SETNAME_12025462,Nearest GRID3 settlement-name point in same ward,2812.941088,Nearest-name assignment; manual review required,E0
+SET_SET_1635,Ogbotobo,Ward_25,Ekeremor,SETNAME_12081605,Nearest GRID3 settlement-name point in same ward,2782.866766,Nearest-name assignment; manual review required,E0
+SET_SET_2263,Deide Central Zion,Ward_25,Ekeremor,SETNAME_12142552,Nearest GRID3 settlement-name point in same ward,2746.93898,Nearest-name assignment; manual review required,E0
+SET_SET_1756,Kunou,Ward_34,Ekeremor,SETNAME_12099994,Nearest GRID3 settlement-name point in same ward,2732.785554,Nearest-name assignment; manual review required,E0
+SET_SET_2461,Brimola Gbene I,Ward_23,Ekeremor,SETNAME_12083795,Nearest GRID3 settlement-name point in same ward,2719.804422,Nearest-name assignment; manual review required,E0
+SET_SET_310,Pouta Gbene,Ward_60,Sagbama,SETNAME_12210359,Nearest GRID3 settlement-name point in same ward,2690.496138,Nearest-name assignment; manual review required,E0
+SET_SET_1485,Korodeei Gbene,Ward_93,Sagbama,SETNAME_12142514,Nearest GRID3 settlement-name point in same ward,2690.092174,Nearest-name assignment; manual review required,E0
+SET_SET_1789,Ama Igbo,Ward_25,Ekeremor,SETNAME_12149887,Nearest GRID3 settlement-name point in same ward,2679.078943,Nearest-name assignment; manual review required,E0
+SET_SET_2271,Bilabiri,Ward_25,Ekeremor,SETNAME_12082729,Nearest GRID3 settlement-name point in same ward,2678.904688,Nearest-name assignment; manual review required,E0
+SET_SET_1790,Binni Gbene,Ward_32,Ekeremor,SETNAME_12192638,Nearest GRID3 settlement-name point in same ward,2659.477215,Nearest-name assignment; manual review required,E0
+SET_SET_1794,Bonukuon Gbene Ii,Ward_32,Ekeremor,SETNAME_12137292,Nearest GRID3 settlement-name point in same ward,2641.069588,Nearest-name assignment; manual review required,E0
+SET_SET_2174,Peretoru Gbene,Ward_26,Ekeremor,SETNAME_12188058,Nearest GRID3 settlement-name point in same ward,2596.234752,Nearest-name assignment; manual review required,E0
+SET_SET_1899,Kiriareyegbene I,Ward_31,Ekeremor,SETNAME_12104114,Nearest GRID3 settlement-name point in same ward,2595.026217,Nearest-name assignment; manual review required,E0
+SET_SET_2429,Fefadei Gbene,Ward_25,Ekeremor,SETNAME_12111238,Nearest GRID3 settlement-name point in same ward,2576.091584,Nearest-name assignment; manual review required,E0
+SET_SET_1688,Aleibiri,Ward_29,Ekeremor,SETNAME_12069586,Nearest GRID3 settlement-name point in same ward,2574.240197,Nearest-name assignment; manual review required,E0
+SET_SET_1660,Ebilowei Aleibiri Ii,Ward_32,Ekeremor,SETNAME_12018971,Nearest GRID3 settlement-name point in same ward,2552.452092,Nearest-name assignment; manual review required,E0
+SET_SET_375,Obuware,Ward_62,Sagbama,SETNAME_12154357,Nearest GRID3 settlement-name point in same ward,2528.569924,Nearest-name assignment; manual review required,E0
+SET_SET_1636,Agbaiyama,Ward_25,Ekeremor,SETNAME_12265145,Nearest GRID3 settlement-name point in same ward,2505.47769,Nearest-name assignment; manual review required,E0
+SET_SET_2138,Seikebolu Gbene,Ward_30,Ekeremor,SETNAME_12127274,Nearest GRID3 settlement-name point in same ward,2496.700616,Nearest-name assignment; manual review required,E0
+SET_SET_1665,Karen Ama,Ward_32,Ekeremor,SETNAME_12043811,Nearest GRID3 settlement-name point in same ward,2483.557535,Nearest-name assignment; manual review required,E0
+SET_SET_2205,Selenanabo,Ward_25,Ekeremor,SETNAME_12106314,Nearest GRID3 settlement-name point in same ward,2480.223336,Nearest-name assignment; manual review required,E0
+SET_SET_1917,Olugbene,Ward_25,Ekeremor,SETNAME_12202035,Nearest GRID3 settlement-name point in same ward,2474.04583,Nearest-name assignment; manual review required,E0
+SET_SET_1723,Branyo Gbene,Ward_31,Ekeremor,SETNAME_12026410,Nearest GRID3 settlement-name point in same ward,2471.322207,Nearest-name assignment; manual review required,E0
+SET_SET_1666,Aleibiri,Ward_29,Ekeremor,SETNAME_12069586,Nearest GRID3 settlement-name point in same ward,2452.518217,Nearest-name assignment; manual review required,E0
+SET_SET_35,Igule Okpare Camp,Ward_81,Sagbama,SETNAME_12024590,Nearest GRID3 settlement-name point in same ward,2452.223882,Nearest-name assignment; manual review required,E0
+SET_SET_1751,Ayama Ebene,Ward_96,Sagbama,SETNAME_12133116,Nearest GRID3 settlement-name point in same ward,2438.048007,Nearest-name assignment; manual review required,E0
+SET_SET_2178,Peretoru Gbene,Ward_26,Ekeremor,SETNAME_12188058,Nearest GRID3 settlement-name point in same ward,2434.204619,Nearest-name assignment; manual review required,E0
+SET_SET_1900,Tamogbene,Ward_31,Ekeremor,SETNAME_12145433,Nearest GRID3 settlement-name point in same ward,2432.908005,Nearest-name assignment; manual review required,E0
+SET_SET_2291,Dinefieama Gbene,Ward_25,Ekeremor,SETNAME_12152141,Nearest GRID3 settlement-name point in same ward,2426.017988,Nearest-name assignment; manual review required,E0
+SET_SET_1,Ariware,Ward_86,Sagbama,SETNAME_12118555,Nearest GRID3 settlement-name point in same ward,2417.883843,Nearest-name assignment; manual review required,E0
+SET_SET_1655,Deinnimugha,Ward_5,Ekeremor,SETNAME_12067049,Nearest GRID3 settlement-name point in same ward,2406.109232,Nearest-name assignment; manual review required,E0
+SET_SET_11,Ayanmapou,Ward_86,Sagbama,SETNAME_12083220,Nearest GRID3 settlement-name point in same ward,2365.527033,Nearest-name assignment; manual review required,E0
+SET_SET_1744,Bulou Adagbabiri,Ward_34,Ekeremor,SETNAME_12174401,Nearest GRID3 settlement-name point in same ward,2357.431974,Nearest-name assignment; manual review required,E0
+SET_SET_292,Obuware,Ward_62,Sagbama,SETNAME_12154357,Nearest GRID3 settlement-name point in same ward,2352.798136,Nearest-name assignment; manual review required,E0
+SET_SET_228,Ofubo Camp,Ward_93,Sagbama,SETNAME_12192001,Nearest GRID3 settlement-name point in same ward,2349.985926,Nearest-name assignment; manual review required,E0
+SET_SET_2142,Gbagha Enikpoene,Ward_30,Ekeremor,SETNAME_12090568,Nearest GRID3 settlement-name point in same ward,2347.929638,Nearest-name assignment; manual review required,E0
+SET_SET_298,Agbala Camp Seikeseiye,Ward_93,Sagbama,SETNAME_12108390,Nearest GRID3 settlement-name point in same ward,2345.195466,Nearest-name assignment; manual review required,E0
+SET_SET_216,Saidem Camp Iii,Ward_83,Sagbama,SETNAME_12128078,Nearest GRID3 settlement-name point in same ward,2330.069042,Nearest-name assignment; manual review required,E0
+SET_SET_1637,Agbaiyama,Ward_25,Ekeremor,SETNAME_12265145,Nearest GRID3 settlement-name point in same ward,2326.019716,Nearest-name assignment; manual review required,E0
+SET_SET_2423,Opuadinon Gbene,Ward_25,Ekeremor,SETNAME_12282051,Nearest GRID3 settlement-name point in same ward,2313.99686,Nearest-name assignment; manual review required,E0
+SET_SET_2230,Zizako Gbene,Ward_25,Ekeremor,SETNAME_12066343,Nearest GRID3 settlement-name point in same ward,2312.750843,Nearest-name assignment; manual review required,E0
+SET_SET_481,Aboh Camp,Ward_83,Sagbama,SETNAME_12209696,Nearest GRID3 settlement-name point in same ward,2298.845101,Nearest-name assignment; manual review required,E0
+SET_SET_1089,Korodeei Gbene,Ward_93,Sagbama,SETNAME_12142514,Nearest GRID3 settlement-name point in same ward,2297.823715,Nearest-name assignment; manual review required,E0
+SET_SET_2242,Agbia Gbene I,Ward_30,Ekeremor,SETNAME_12274549,Nearest GRID3 settlement-name point in same ward,2286.011262,Nearest-name assignment; manual review required,E0
+SET_SET_2262,Opuadinon Gbene,Ward_25,Ekeremor,SETNAME_12282051,Nearest GRID3 settlement-name point in same ward,2260.575066,Nearest-name assignment; manual review required,E0
+SET_SET_1676,Tietiegbene,Ward_32,Ekeremor,SETNAME_12269355,Nearest GRID3 settlement-name point in same ward,2257.316808,Nearest-name assignment; manual review required,E0
+SET_SET_1792,Binni Gbene,Ward_32,Ekeremor,SETNAME_12192638,Nearest GRID3 settlement-name point in same ward,2235.34914,Nearest-name assignment; manual review required,E0
+SET_SET_2448,Tekiene Gbene,Ward_27,Ekeremor,SETNAME_12001234,Nearest GRID3 settlement-name point in same ward,2235.029794,Nearest-name assignment; manual review required,E0
+SET_SET_2485,Tamo Ndoro,Ward_30,Ekeremor,SETNAME_12223083,Nearest GRID3 settlement-name point in same ward,2228.976817,Nearest-name assignment; manual review required,E0
+SET_SET_2259,Opuadinon Gbene,Ward_25,Ekeremor,SETNAME_12282051,Nearest GRID3 settlement-name point in same ward,2228.82937,Nearest-name assignment; manual review required,E0
+SET_SET_1893,Serina Gbene,Ward_25,Ekeremor,SETNAME_12123851,Nearest GRID3 settlement-name point in same ward,2216.514695,Nearest-name assignment; manual review required,E0
+SET_SET_1644,Tamo Ndoro,Ward_30,Ekeremor,SETNAME_12223083,Nearest GRID3 settlement-name point in same ward,2212.484196,Nearest-name assignment; manual review required,E0
+SET_SET_1726,Branyo Gbene,Ward_31,Ekeremor,SETNAME_12026410,Nearest GRID3 settlement-name point in same ward,2208.060756,Nearest-name assignment; manual review required,E0
+SET_SET_1701,Atabai Gbene,Ward_27,Ekeremor,SETNAME_12154089,Nearest GRID3 settlement-name point in same ward,2191.421488,Nearest-name assignment; manual review required,E0
+SET_SET_1590,Brimola Gbene I,Ward_23,Ekeremor,SETNAME_12083795,Nearest GRID3 settlement-name point in same ward,2190.749063,Nearest-name assignment; manual review required,E0
+SET_SET_1728,Esamasuode Gbene,Ward_31,Ekeremor,SETNAME_12015969,Nearest GRID3 settlement-name point in same ward,2185.902784,Nearest-name assignment; manual review required,E0
+SET_SET_2500,Ossiama,Ward_97,Sagbama,SETNAME_12242733,Nearest GRID3 settlement-name point in same ward,2181.471705,Nearest-name assignment; manual review required,E0
+SET_SET_1791,Binni Gbene,Ward_32,Ekeremor,SETNAME_12192638,Nearest GRID3 settlement-name point in same ward,2161.6273,Nearest-name assignment; manual review required,E0
+SET_SET_1783,Tumuke Ebigbene,Ward_25,Ekeremor,SETNAME_12220020,Nearest GRID3 settlement-name point in same ward,2133.812114,Nearest-name assignment; manual review required,E0
+SET_SET_1870,Atasisi Gbene Tubu,Ward_25,Ekeremor,SETNAME_12119315,Nearest GRID3 settlement-name point in same ward,2117.582151,Nearest-name assignment; manual review required,E0
+SET_SET_449,Korotimi Sere Gbene,Ward_97,Sagbama,SETNAME_12102710,Nearest GRID3 settlement-name point in same ward,2096.702806,Nearest-name assignment; manual review required,E0
+SET_SET_1740,Yeyegbene,Ward_26,Ekeremor,SETNAME_12217098,Nearest GRID3 settlement-name point in same ward,2092.61148,Nearest-name assignment; manual review required,E0
+SET_SET_1084,Tungbabiri,Ward_93,Sagbama,SETNAME_12254637,Nearest GRID3 settlement-name point in same ward,2088.590149,Nearest-name assignment; manual review required,E0
+SET_SET_1724,Branyo Gbene,Ward_31,Ekeremor,SETNAME_12026410,Nearest GRID3 settlement-name point in same ward,2076.845144,Nearest-name assignment; manual review required,E0
+SET_SET_43,Kemeseigha Gbene,Ward_78,Sagbama,SETNAME_12037246,Nearest GRID3 settlement-name point in same ward,2075.356642,Nearest-name assignment; manual review required,E0
+SET_SET_413,Aban Gbene,Ward_60,Sagbama,SETNAME_12017924,Nearest GRID3 settlement-name point in same ward,2073.079065,Nearest-name assignment; manual review required,E0
+SET_SET_2447,New Jerusalem Zion,Ward_31,Ekeremor,SETNAME_12267335,Nearest GRID3 settlement-name point in same ward,2069.84834,Nearest-name assignment; manual review required,E0
+SET_SET_1700,Oleye Gbene,Ward_27,Ekeremor,SETNAME_12197358,Nearest GRID3 settlement-name point in same ward,2068.972124,Nearest-name assignment; manual review required,E0
+SET_SET_1599,Angelic Zion,Ward_28,Ekeremor,SETNAME_12031425,Nearest GRID3 settlement-name point in same ward,2052.757026,Nearest-name assignment; manual review required,E0
+SET_SET_2231,Zizako Gbene,Ward_25,Ekeremor,SETNAME_12066343,Nearest GRID3 settlement-name point in same ward,2051.47443,Nearest-name assignment; manual review required,E0
+SET_SET_2487,Egbusuware,Ward_104,Ekeremor,SETNAME_12088220,Nearest GRID3 settlement-name point in same ward,2047.156673,Nearest-name assignment; manual review required,E0
+SET_SET_1833,Egbemo Angalabiri,Ward_25,Ekeremor,SETNAME_12028751,Nearest GRID3 settlement-name point in same ward,2041.99545,Nearest-name assignment; manual review required,E0
+SET_SET_1604,Gbaye Gbene,Ward_27,Ekeremor,SETNAME_12133859,Nearest GRID3 settlement-name point in same ward,2020.784804,Nearest-name assignment; manual review required,E0
+SET_SET_1880,New Jerusalem Zion,Ward_31,Ekeremor,SETNAME_12267335,Nearest GRID3 settlement-name point in same ward,2010.139276,Nearest-name assignment; manual review required,E0
+SET_SET_100,Obagbene,Ward_78,Sagbama,SETNAME_12273598,Nearest GRID3 settlement-name point in same ward,1992.473435,Nearest-name assignment; manual review required,E0
+SET_SET_2172,Alesegbene,Ward_25,Ekeremor,SETNAME_12233612,Nearest GRID3 settlement-name point in same ward,1978.360541,Nearest-name assignment; manual review required,E0
+SET_SET_1720,Esamasuode Gbene,Ward_31,Ekeremor,SETNAME_12015969,Nearest GRID3 settlement-name point in same ward,1968.796479,Nearest-name assignment; manual review required,E0
+SET_SET_299,Kala Dono Camp,Ward_93,Sagbama,SETNAME_12131570,Nearest GRID3 settlement-name point in same ward,1967.287042,Nearest-name assignment; manual review required,E0
+SET_SET_227,Ofubo Camp,Ward_93,Sagbama,SETNAME_12192001,Nearest GRID3 settlement-name point in same ward,1962.870102,Nearest-name assignment; manual review required,E0
+SET_SET_1705,Egiren Gbene,Ward_27,Ekeremor,SETNAME_12210521,Nearest GRID3 settlement-name point in same ward,1952.975885,Nearest-name assignment; manual review required,E0
+SET_SET_1679,Egbusuware,Ward_104,Ekeremor,SETNAME_12088220,Nearest GRID3 settlement-name point in same ward,1951.464775,Nearest-name assignment; manual review required,E0
+SET_SET_1830,Awolowo Gbene,Ward_27,Ekeremor,SETNAME_12084639,Nearest GRID3 settlement-name point in same ward,1939.050581,Nearest-name assignment; manual review required,E0
+SET_SET_1822,Mumotugbene,Ward_25,Ekeremor,SETNAME_12085960,Nearest GRID3 settlement-name point in same ward,1929.517376,Nearest-name assignment; manual review required,E0
+SET_SET_776,Ognonuama,Ward_97,Sagbama,SETNAME_12128373,Nearest GRID3 settlement-name point in same ward,1917.302573,Nearest-name assignment; manual review required,E0
+SET_SET_1607,Akpobuloama,Ward_27,Ekeremor,SETNAME_12087389,Nearest GRID3 settlement-name point in same ward,1906.761994,Nearest-name assignment; manual review required,E0
+SET_SET_2177,Peretoru Gbene,Ward_26,Ekeremor,SETNAME_12188058,Nearest GRID3 settlement-name point in same ward,1851.232987,Nearest-name assignment; manual review required,E0
+SET_SET_2451,Branyo Gbene,Ward_31,Ekeremor,SETNAME_12026410,Nearest GRID3 settlement-name point in same ward,1850.129683,Nearest-name assignment; manual review required,E0
+SET_SET_1168,Ekeremor Gbene,Ward_60,Sagbama,SETNAME_12058377,Nearest GRID3 settlement-name point in same ward,1849.84795,Nearest-name assignment; manual review required,E0
+SET_SET_297,Agbala Camp Seikeseiye,Ward_93,Sagbama,SETNAME_12108390,Nearest GRID3 settlement-name point in same ward,1840.211279,Nearest-name assignment; manual review required,E0
+SET_SET_1856,Oniyegbene,Ward_25,Ekeremor,SETNAME_12191111,Nearest GRID3 settlement-name point in same ward,1831.817845,Nearest-name assignment; manual review required,E0
+SET_SET_2175,Peretoru Gbene,Ward_26,Ekeremor,SETNAME_12188058,Nearest GRID3 settlement-name point in same ward,1825.216134,Nearest-name assignment; manual review required,E0
+SET_SET_414,Aban Gbene,Ward_60,Sagbama,SETNAME_12017924,Nearest GRID3 settlement-name point in same ward,1813.449539,Nearest-name assignment; manual review required,E0
+SET_SET_2199,Angalabirigbene,Ward_25,Ekeremor,SETNAME_12243366,Nearest GRID3 settlement-name point in same ward,1812.672266,Nearest-name assignment; manual review required,E0
+SET_SET_2140,Tamo Ndoro,Ward_30,Ekeremor,SETNAME_12223083,Nearest GRID3 settlement-name point in same ward,1804.418189,Nearest-name assignment; manual review required,E0
+SET_SET_200,Saidem Camp Iii,Ward_83,Sagbama,SETNAME_12128078,Nearest GRID3 settlement-name point in same ward,1799.079921,Nearest-name assignment; manual review required,E0
+SET_SET_2455,Branyo Gbene,Ward_31,Ekeremor,SETNAME_12026410,Nearest GRID3 settlement-name point in same ward,1797.966443,Nearest-name assignment; manual review required,E0
+SET_SET_1681,Tietiegbene,Ward_32,Ekeremor,SETNAME_12269355,Nearest GRID3 settlement-name point in same ward,1797.647832,Nearest-name assignment; manual review required,E0
+SET_SET_1869,Atasisi Gbene Tubu,Ward_25,Ekeremor,SETNAME_12119315,Nearest GRID3 settlement-name point in same ward,1794.464536,Nearest-name assignment; manual review required,E0
+SET_SET_1722,Branyo Gbene,Ward_31,Ekeremor,SETNAME_12026410,Nearest GRID3 settlement-name point in same ward,1787.785485,Nearest-name assignment; manual review required,E0
+SET_SET_1729,Dio Gbene,Ward_28,Ekeremor,SETNAME_12022173,Nearest GRID3 settlement-name point in same ward,1784.391983,Nearest-name assignment; manual review required,E0
+SET_SET_2391,Niatagbene,Ward_5,Ekeremor,SETNAME_12196799,Nearest GRID3 settlement-name point in same ward,1781.39189,Nearest-name assignment; manual review required,E0
+SET_SET_1525,Kemeseigha Gbene,Ward_78,Sagbama,SETNAME_12037246,Nearest GRID3 settlement-name point in same ward,1774.061504,Nearest-name assignment; manual review required,E0
+SET_SET_2203,Selenanabo,Ward_25,Ekeremor,SETNAME_12106314,Nearest GRID3 settlement-name point in same ward,1772.081574,Nearest-name assignment; manual review required,E0
+SET_SET_454,Ossiama,Ward_97,Sagbama,SETNAME_12242733,Nearest GRID3 settlement-name point in same ward,1772.080482,Nearest-name assignment; manual review required,E0
+SET_SET_1727,Branyo Gbene,Ward_31,Ekeremor,SETNAME_12026410,Nearest GRID3 settlement-name point in same ward,1765.742659,Nearest-name assignment; manual review required,E0
+SET_SET_2167,Alesegbene,Ward_25,Ekeremor,SETNAME_12233612,Nearest GRID3 settlement-name point in same ward,1761.089721,Nearest-name assignment; manual review required,E0
+SET_SET_10,Ayanmapou,Ward_86,Sagbama,SETNAME_12083220,Nearest GRID3 settlement-name point in same ward,1754.527828,Nearest-name assignment; manual review required,E0
+SET_SET_1879,New Jerusalem Zion,Ward_31,Ekeremor,SETNAME_12267335,Nearest GRID3 settlement-name point in same ward,1735.182953,Nearest-name assignment; manual review required,E0
+SET_SET_2287,Egbeletubo Gbene Ii,Ward_25,Ekeremor,SETNAME_12034372,Nearest GRID3 settlement-name point in same ward,1734.325208,Nearest-name assignment; manual review required,E0
+SET_SET_1725,Branyo Gbene,Ward_31,Ekeremor,SETNAME_12026410,Nearest GRID3 settlement-name point in same ward,1722.219534,Nearest-name assignment; manual review required,E0
+SET_SET_775,Ognonuama,Ward_97,Sagbama,SETNAME_12128373,Nearest GRID3 settlement-name point in same ward,1712.366207,Nearest-name assignment; manual review required,E0
+SET_SET_296,Kentebegbene,Ward_93,Sagbama,SETNAME_11997082,Nearest GRID3 settlement-name point in same ward,1706.65611,Nearest-name assignment; manual review required,E0
+SET_SET_2441,Selekeowei,Ward_25,Ekeremor,SETNAME_12084557,Nearest GRID3 settlement-name point in same ward,1686.09473,Nearest-name assignment; manual review required,E0
+SET_SET_1873,Gold Eregbene,Ward_26,Ekeremor,SETNAME_12145791,Nearest GRID3 settlement-name point in same ward,1675.002272,Nearest-name assignment; manual review required,E0
+SET_SET_1601,Ogugufagbene,Ward_27,Ekeremor,SETNAME_12141266,Nearest GRID3 settlement-name point in same ward,1673.351926,Nearest-name assignment; manual review required,E0
+SET_SET_1894,Torukiri Gbene Ii,Ward_25,Ekeremor,SETNAME_12110188,Nearest GRID3 settlement-name point in same ward,1666.340008,Nearest-name assignment; manual review required,E0
+SET_SET_1843,Dennisgbene,Ward_25,Ekeremor,SETNAME_12128820,Nearest GRID3 settlement-name point in same ward,1663.089289,Nearest-name assignment; manual review required,E0
+SET_SET_1650,Azatitor,Ward_5,Ekeremor,SETNAME_12166876,Nearest GRID3 settlement-name point in same ward,1653.882086,Nearest-name assignment; manual review required,E0
+SET_SET_1827,Yangagbene,Ward_25,Ekeremor,SETNAME_12196889,Nearest GRID3 settlement-name point in same ward,1647.074947,Nearest-name assignment; manual review required,E0
+SET_SET_1617,Ekeremor Town,Ward_28,Ekeremor,SETNAME_12268660,Nearest GRID3 settlement-name point in same ward,1646.890577,Nearest-name assignment; manual review required,E0
+SET_SET_19,Odupou Gbene,Ward_86,Sagbama,SETNAME_12252026,Nearest GRID3 settlement-name point in same ward,1633.667607,Nearest-name assignment; manual review required,E0
+SET_SET_1683,Isampou,Ward_104,Ekeremor,SETNAME_12089790,Nearest GRID3 settlement-name point in same ward,1619.330885,Nearest-name assignment; manual review required,E0
+SET_SET_1874,Yeyegbene,Ward_26,Ekeremor,SETNAME_12217098,Nearest GRID3 settlement-name point in same ward,1615.689501,Nearest-name assignment; manual review required,E0
+SET_SET_1831,Awolowo Gbene,Ward_27,Ekeremor,SETNAME_12084639,Nearest GRID3 settlement-name point in same ward,1605.969825,Nearest-name assignment; manual review required,E0
+SET_SET_2217,Deide Central Zion,Ward_25,Ekeremor,SETNAME_12142552,Nearest GRID3 settlement-name point in same ward,1603.966326,Nearest-name assignment; manual review required,E0
+SET_SET_1658,Ebilowei Aleibiri Ii,Ward_32,Ekeremor,SETNAME_12018971,Nearest GRID3 settlement-name point in same ward,1591.54989,Nearest-name assignment; manual review required,E0
+SET_SET_2202,Evelyngbene,Ward_25,Ekeremor,SETNAME_12111954,Nearest GRID3 settlement-name point in same ward,1590.289464,Nearest-name assignment; manual review required,E0
+SET_SET_2270,Bilabiri,Ward_25,Ekeremor,SETNAME_12082729,Nearest GRID3 settlement-name point in same ward,1588.548003,Nearest-name assignment; manual review required,E0
+SET_SET_79,Yeri Farm Camp,Ward_86,Sagbama,SETNAME_12214844,Nearest GRID3 settlement-name point in same ward,1583.067543,Nearest-name assignment; manual review required,E0
+SET_SET_1651,Garden Of Eden,Ward_5,Ekeremor,SETNAME_12043461,Nearest GRID3 settlement-name point in same ward,1577.939287,Nearest-name assignment; manual review required,E0
+SET_SET_2288,Dinefieama Gbene,Ward_25,Ekeremor,SETNAME_12152141,Nearest GRID3 settlement-name point in same ward,1570.839446,Nearest-name assignment; manual review required,E0
+SET_SET_1890,Yenga Gbene,Ward_25,Ekeremor,SETNAME_12165579,Nearest GRID3 settlement-name point in same ward,1551.087192,Nearest-name assignment; manual review required,E0
+SET_SET_1883,Ben Gbene,Ward_26,Ekeremor,SETNAME_12065991,Nearest GRID3 settlement-name point in same ward,1543.782557,Nearest-name assignment; manual review required,E0
+SET_SET_1594,Ogugufagbene,Ward_27,Ekeremor,SETNAME_12141266,Nearest GRID3 settlement-name point in same ward,1543.54961,Nearest-name assignment; manual review required,E0
+SET_SET_2452,Branyo Gbene,Ward_31,Ekeremor,SETNAME_12026410,Nearest GRID3 settlement-name point in same ward,1532.950971,Nearest-name assignment; manual review required,E0
+SET_SET_1622,Azideyeregbene,Ward_28,Ekeremor,SETNAME_12019753,Nearest GRID3 settlement-name point in same ward,1528.43436,Nearest-name assignment; manual review required,E0
+SET_SET_1737,Simon Gbene,Ward_26,Ekeremor,SETNAME_12281527,Nearest GRID3 settlement-name point in same ward,1520.703033,Nearest-name assignment; manual review required,E0
+SET_SET_1109,Toru Ebeni Ii,Ward_96,Sagbama,SETNAME_12214144,Nearest GRID3 settlement-name point in same ward,1507.053321,Nearest-name assignment; manual review required,E0
+SET_SET_2218,Deide Central Zion,Ward_25,Ekeremor,SETNAME_12142552,Nearest GRID3 settlement-name point in same ward,1504.506031,Nearest-name assignment; manual review required,E0
+SET_SET_1672,Ebiama Zion,Ward_34,Ekeremor,SETNAME_12236618,Nearest GRID3 settlement-name point in same ward,1503.449689,Nearest-name assignment; manual review required,E0
+SET_SET_268,Akpobasaha Camp,Ward_93,Sagbama,SETNAME_12033396,Nearest GRID3 settlement-name point in same ward,1503.001351,Nearest-name assignment; manual review required,E0
+SET_SET_78,Yeri Farm Camp,Ward_86,Sagbama,SETNAME_12214844,Nearest GRID3 settlement-name point in same ward,1499.229891,Nearest-name assignment; manual review required,E0
+SET_SET_94,Suowari Gbene,Ward_78,Sagbama,SETNAME_12200237,Nearest GRID3 settlement-name point in same ward,1496.08219,Nearest-name assignment; manual review required,E0
+SET_SET_1867,Paikegha Gbene,Ward_25,Ekeremor,SETNAME_12108608,Nearest GRID3 settlement-name point in same ward,1489.216628,Nearest-name assignment; manual review required,E0
+SET_SET_2204,Fouriri Egbemo Angalabari,Ward_25,Ekeremor,SETNAME_12029535,Nearest GRID3 settlement-name point in same ward,1479.814444,Nearest-name assignment; manual review required,E0
+SET_SET_1719,Tamogbene,Ward_31,Ekeremor,SETNAME_12145433,Nearest GRID3 settlement-name point in same ward,1475.557542,Nearest-name assignment; manual review required,E0
+SET_SET_1878,Feremo Ama,Ward_31,Ekeremor,SETNAME_12247354,Nearest GRID3 settlement-name point in same ward,1473.317075,Nearest-name assignment; manual review required,E0
+SET_SET_1088,Binatonghan Ama,Ward_93,Sagbama,SETNAME_12101647,Nearest GRID3 settlement-name point in same ward,1472.512734,Nearest-name assignment; manual review required,E0
+SET_SET_2292,Rodeyesi Gbene,Ward_25,Ekeremor,SETNAME_12056641,Nearest GRID3 settlement-name point in same ward,1467.663002,Nearest-name assignment; manual review required,E0
+SET_SET_295,Agbala Camp Seikeseiye,Ward_93,Sagbama,SETNAME_12108390,Nearest GRID3 settlement-name point in same ward,1464.780405,Nearest-name assignment; manual review required,E0
+SET_SET_1603,Diwebou Gbene Iii,Ward_27,Ekeremor,SETNAME_12146203,Nearest GRID3 settlement-name point in same ward,1464.072659,Nearest-name assignment; manual review required,E0
+SET_SET_40,Isielo Camp,Ward_81,Sagbama,SETNAME_12047429,Nearest GRID3 settlement-name point in same ward,1462.392503,Nearest-name assignment; manual review required,E0
+SET_SET_1702,Asia Gbene,Ward_28,Ekeremor,SETNAME_12261650,Nearest GRID3 settlement-name point in same ward,1460.462448,Nearest-name assignment; manual review required,E0
+SET_SET_97,Obagbene,Ward_78,Sagbama,SETNAME_12273598,Nearest GRID3 settlement-name point in same ward,1453.384921,Nearest-name assignment; manual review required,E0
+SET_SET_1851,Ajatitor,Ward_25,Ekeremor,SETNAME_12240921,Nearest GRID3 settlement-name point in same ward,1452.960222,Nearest-name assignment; manual review required,E0
+SET_SET_1865,Paikegha Gbene,Ward_25,Ekeremor,SETNAME_12108608,Nearest GRID3 settlement-name point in same ward,1449.736444,Nearest-name assignment; manual review required,E0
+SET_SET_2240,Okofuba Gbene,Ward_25,Ekeremor,SETNAME_12262815,Nearest GRID3 settlement-name point in same ward,1438.738361,Nearest-name assignment; manual review required,E0
+SET_SET_1699,Osadebe Gbene,Ward_27,Ekeremor,SETNAME_12150808,Nearest GRID3 settlement-name point in same ward,1431.030717,Nearest-name assignment; manual review required,E0
+SET_SET_1619,Branyo Gbene,Ward_31,Ekeremor,SETNAME_12026410,Nearest GRID3 settlement-name point in same ward,1425.259,Nearest-name assignment; manual review required,E0
+SET_SET_1698,Mieyanteide,Ward_27,Ekeremor,SETNAME_12085677,Nearest GRID3 settlement-name point in same ward,1406.97945,Nearest-name assignment; manual review required,E0
+SET_SET_1600,Angelic Zion,Ward_28,Ekeremor,SETNAME_12031425,Nearest GRID3 settlement-name point in same ward,1404.777449,Nearest-name assignment; manual review required,E0
+SET_SET_2198,Rachelgbene,Ward_25,Ekeremor,SETNAME_12184350,Nearest GRID3 settlement-name point in same ward,1395.823513,Nearest-name assignment; manual review required,E0
+SET_SET_1390,Agbala Camp Seikeseiye,Ward_93,Sagbama,SETNAME_12108390,Nearest GRID3 settlement-name point in same ward,1394.686813,Nearest-name assignment; manual review required,E0
+SET_SET_1627,Azideyeregbene,Ward_28,Ekeremor,SETNAME_12019753,Nearest GRID3 settlement-name point in same ward,1381.48724,Nearest-name assignment; manual review required,E0
+SET_SET_1710,Daraghagbene,Ward_28,Ekeremor,SETNAME_12011036,Nearest GRID3 settlement-name point in same ward,1379.883381,Nearest-name assignment; manual review required,E0
+SET_SET_24,Okwudili Camp,Ward_83,Sagbama,SETNAME_12226405,Nearest GRID3 settlement-name point in same ward,1376.762474,Nearest-name assignment; manual review required,E0
+SET_SET_20,Leyegbene,Ward_86,Sagbama,SETNAME_12187292,Nearest GRID3 settlement-name point in same ward,1369.570213,Nearest-name assignment; manual review required,E0
+SET_SET_409,Oruseri Gha Gbene,Ward_64,Sagbama,SETNAME_12279854,Nearest GRID3 settlement-name point in same ward,1365.047267,Nearest-name assignment; manual review required,E0
+SET_SET_303,Oweisingha Gbene,Ward_78,Sagbama,SETNAME_12035248,Nearest GRID3 settlement-name point in same ward,1363.433963,Nearest-name assignment; manual review required,E0
+SET_SET_77,Yeri Farm Camp,Ward_86,Sagbama,SETNAME_12214844,Nearest GRID3 settlement-name point in same ward,1345.135313,Nearest-name assignment; manual review required,E0
+SET_SET_2446,Ebiboloukaemi Zion,Ward_31,Ekeremor,SETNAME_12076469,Nearest GRID3 settlement-name point in same ward,1342.171432,Nearest-name assignment; manual review required,E0
+SET_SET_1686,Karen Ama,Ward_32,Ekeremor,SETNAME_12043811,Nearest GRID3 settlement-name point in same ward,1339.871578,Nearest-name assignment; manual review required,E0
+SET_SET_1152,New Patani,Ward_93,Sagbama,SETNAME_12088969,Nearest GRID3 settlement-name point in same ward,1338.634341,Nearest-name assignment; manual review required,E0
+SET_SET_2158,Ajamabri,Ward_5,Ekeremor,SETNAME_12065684,Nearest GRID3 settlement-name point in same ward,1329.877657,Nearest-name assignment; manual review required,E0
+SET_SET_89,Amgbariam Agbene,Ward_81,Sagbama,SETNAME_12101377,Nearest GRID3 settlement-name point in same ward,1327.286265,Nearest-name assignment; manual review required,E0
+SET_SET_1860,Faithgbene,Ward_25,Ekeremor,SETNAME_12041972,Nearest GRID3 settlement-name point in same ward,1327.022123,Nearest-name assignment; manual review required,E0
+SET_SET_1832,Esamasuode Gbene,Ward_31,Ekeremor,SETNAME_12015969,Nearest GRID3 settlement-name point in same ward,1319.268146,Nearest-name assignment; manual review required,E0
+SET_SET_1677,Aleibiri,Ward_29,Ekeremor,SETNAME_12069586,Nearest GRID3 settlement-name point in same ward,1319.185945,Nearest-name assignment; manual review required,E0
+SET_SET_2392,Niatagbene,Ward_5,Ekeremor,SETNAME_12196799,Nearest GRID3 settlement-name point in same ward,1316.292513,Nearest-name assignment; manual review required,E0
+SET_SET_1652,Deinnimugha,Ward_5,Ekeremor,SETNAME_12067049,Nearest GRID3 settlement-name point in same ward,1315.620052,Nearest-name assignment; manual review required,E0
+SET_SET_76,Yeri Farm Camp,Ward_86,Sagbama,SETNAME_12214844,Nearest GRID3 settlement-name point in same ward,1306.294552,Nearest-name assignment; manual review required,E0
+SET_SET_1605,Ogugufagbene,Ward_27,Ekeremor,SETNAME_12141266,Nearest GRID3 settlement-name point in same ward,1306.215427,Nearest-name assignment; manual review required,E0
+SET_SET_478,Kakanda Gbene,Ward_78,Sagbama,SETNAME_12070633,Nearest GRID3 settlement-name point in same ward,1300.435711,Nearest-name assignment; manual review required,E0
+SET_SET_458,Korotimi Sere Gbene,Ward_97,Sagbama,SETNAME_12102710,Nearest GRID3 settlement-name point in same ward,1293.598182,Nearest-name assignment; manual review required,E0
+SET_SET_442,Ekeremor Gbene,Ward_60,Sagbama,SETNAME_12058377,Nearest GRID3 settlement-name point in same ward,1290.694541,Nearest-name assignment; manual review required,E0
+SET_SET_1625,Ekeremor,Ward_28,Ekeremor,SETNAME_12072900,Nearest GRID3 settlement-name point in same ward,1290.537907,Nearest-name assignment; manual review required,E0
+SET_SET_2241,Azosibewe Gbene,Ward_25,Ekeremor,SETNAME_12229629,Nearest GRID3 settlement-name point in same ward,1274.018383,Nearest-name assignment; manual review required,E0
+SET_SET_1087,Binatonghan Ama,Ward_93,Sagbama,SETNAME_12101647,Nearest GRID3 settlement-name point in same ward,1273.186377,Nearest-name assignment; manual review required,E0
+SET_SET_2293,Rodeyesi Gbene,Ward_25,Ekeremor,SETNAME_12056641,Nearest GRID3 settlement-name point in same ward,1268.515144,Nearest-name assignment; manual review required,E0
+SET_SET_1620,Azideyeregbene,Ward_28,Ekeremor,SETNAME_12019753,Nearest GRID3 settlement-name point in same ward,1266.921006,Nearest-name assignment; manual review required,E0
+SET_SET_1151,Ofoni Camp,Ward_93,Sagbama,SETNAME_12089443,Nearest GRID3 settlement-name point in same ward,1266.327323,Nearest-name assignment; manual review required,E0
+SET_SET_1739,New Jerusalem Zion,Ward_31,Ekeremor,SETNAME_12267335,Nearest GRID3 settlement-name point in same ward,1264.527002,Nearest-name assignment; manual review required,E0
+SET_SET_2269,Bilabiri,Ward_25,Ekeremor,SETNAME_12082729,Nearest GRID3 settlement-name point in same ward,1263.920754,Nearest-name assignment; manual review required,E0
+SET_SET_2439,Awolowo Gbene,Ward_27,Ekeremor,SETNAME_12084639,Nearest GRID3 settlement-name point in same ward,1262.566499,Nearest-name assignment; manual review required,E0
+SET_SET_1839,Osadebe Gbene,Ward_27,Ekeremor,SETNAME_12150808,Nearest GRID3 settlement-name point in same ward,1261.035558,Nearest-name assignment; manual review required,E0
+SET_SET_1703,Atabai Gbene,Ward_27,Ekeremor,SETNAME_12154089,Nearest GRID3 settlement-name point in same ward,1258.537939,Nearest-name assignment; manual review required,E0
+SET_SET_1692,Tekiene Gbene,Ward_27,Ekeremor,SETNAME_12001234,Nearest GRID3 settlement-name point in same ward,1258.37858,Nearest-name assignment; manual review required,E0
+SET_SET_1615,Azideyeregbene,Ward_28,Ekeremor,SETNAME_12019753,Nearest GRID3 settlement-name point in same ward,1241.163955,Nearest-name assignment; manual review required,E0
+SET_SET_1675,Ebiama Zion,Ward_34,Ekeremor,SETNAME_12236618,Nearest GRID3 settlement-name point in same ward,1219.462409,Nearest-name assignment; manual review required,E0
+SET_SET_1654,Deinnimugha,Ward_5,Ekeremor,SETNAME_12067049,Nearest GRID3 settlement-name point in same ward,1216.497848,Nearest-name assignment; manual review required,E0
+SET_SET_2141,Tamo Ndoro,Ward_30,Ekeremor,SETNAME_12223083,Nearest GRID3 settlement-name point in same ward,1214.079051,Nearest-name assignment; manual review required,E0
+SET_SET_1885,Yeyegbene,Ward_26,Ekeremor,SETNAME_12217098,Nearest GRID3 settlement-name point in same ward,1203.743892,Nearest-name assignment; manual review required,E0
+SET_SET_42,Alaba Gbene I,Ward_78,Sagbama,SETNAME_12100788,Nearest GRID3 settlement-name point in same ward,1203.13745,Nearest-name assignment; manual review required,E0
+SET_SET_2209,Fouriri Egbemo Angalabari,Ward_25,Ekeremor,SETNAME_12029535,Nearest GRID3 settlement-name point in same ward,1200.259009,Nearest-name assignment; manual review required,E0
+SET_SET_2219,Deide Central Zion,Ward_25,Ekeremor,SETNAME_12142552,Nearest GRID3 settlement-name point in same ward,1197.002907,Nearest-name assignment; manual review required,E0
+SET_SET_1767,Charlesgbene Ii,Ward_25,Ekeremor,SETNAME_12019450,Nearest GRID3 settlement-name point in same ward,1196.554262,Nearest-name assignment; manual review required,E0
+SET_SET_1593,Ogugufagbene,Ward_27,Ekeremor,SETNAME_12141266,Nearest GRID3 settlement-name point in same ward,1196.221942,Nearest-name assignment; manual review required,E0
+SET_SET_267,Akuhma Camp,Ward_93,Sagbama,SETNAME_12022313,Nearest GRID3 settlement-name point in same ward,1193.392271,Nearest-name assignment; manual review required,E0
+SET_SET_1718,Siayei Gbene,Ward_28,Ekeremor,SETNAME_12129675,Nearest GRID3 settlement-name point in same ward,1190.349527,Nearest-name assignment; manual review required,E0
+SET_SET_1852,Selekeowei,Ward_25,Ekeremor,SETNAME_12084557,Nearest GRID3 settlement-name point in same ward,1183.216208,Nearest-name assignment; manual review required,E0
+SET_SET_1542,Ogboro Dono Camp,Ward_93,Sagbama,SETNAME_12137888,Nearest GRID3 settlement-name point in same ward,1172.786751,Nearest-name assignment; manual review required,E0
+SET_SET_1897,Sandfield I,Ward_31,Ekeremor,SETNAME_12115218,Nearest GRID3 settlement-name point in same ward,1172.664366,Nearest-name assignment; manual review required,E0
+SET_SET_2390,Azatitor,Ward_5,Ekeremor,SETNAME_12166876,Nearest GRID3 settlement-name point in same ward,1166.393984,Nearest-name assignment; manual review required,E0
+SET_SET_91,Sukeme Gbene,Ward_78,Sagbama,SETNAME_12025462,Nearest GRID3 settlement-name point in same ward,1163.472977,Nearest-name assignment; manual review required,E0
+SET_SET_1610,Gbaye Gbene,Ward_27,Ekeremor,SETNAME_12133859,Nearest GRID3 settlement-name point in same ward,1152.523458,Nearest-name assignment; manual review required,E0
+SET_SET_2443,Egbemo Angalabiri,Ward_25,Ekeremor,SETNAME_12028751,Nearest GRID3 settlement-name point in same ward,1151.832976,Nearest-name assignment; manual review required,E0
+SET_SET_1696,Egiren Gbene,Ward_27,Ekeremor,SETNAME_12210521,Nearest GRID3 settlement-name point in same ward,1151.504126,Nearest-name assignment; manual review required,E0
+SET_SET_1704,Atabai Gbene,Ward_27,Ekeremor,SETNAME_12154089,Nearest GRID3 settlement-name point in same ward,1145.47163,Nearest-name assignment; manual review required,E0
+SET_SET_2440,Yangagbene,Ward_25,Ekeremor,SETNAME_12196889,Nearest GRID3 settlement-name point in same ward,1140.890944,Nearest-name assignment; manual review required,E0
+SET_SET_456,Korotimi Sere Gbene,Ward_97,Sagbama,SETNAME_12102710,Nearest GRID3 settlement-name point in same ward,1126.291274,Nearest-name assignment; manual review required,E0
+SET_SET_1859,Faithgbene,Ward_25,Ekeremor,SETNAME_12041972,Nearest GRID3 settlement-name point in same ward,1121.655117,Nearest-name assignment; manual review required,E0
+SET_SET_2275,Benbiri New Year,Ward_25,Ekeremor,SETNAME_12017837,Nearest GRID3 settlement-name point in same ward,1110.915683,Nearest-name assignment; manual review required,E0
+SET_SET_1709,Okpe Gbene Ii,Ward_28,Ekeremor,SETNAME_12155086,Nearest GRID3 settlement-name point in same ward,1104.834653,Nearest-name assignment; manual review required,E0
+SET_SET_1732,Egbedikumo Gbene,Ward_28,Ekeremor,SETNAME_12161162,Nearest GRID3 settlement-name point in same ward,1103.767685,Nearest-name assignment; manual review required,E0
+SET_SET_2435,Yeyegbene,Ward_26,Ekeremor,SETNAME_12217098,Nearest GRID3 settlement-name point in same ward,1103.040734,Nearest-name assignment; manual review required,E0
+SET_SET_2434,Awolowo Gbene,Ward_27,Ekeremor,SETNAME_12084639,Nearest GRID3 settlement-name point in same ward,1095.30861,Nearest-name assignment; manual review required,E0
+SET_SET_274,Ofubo Camp,Ward_93,Sagbama,SETNAME_12192001,Nearest GRID3 settlement-name point in same ward,1080.704305,Nearest-name assignment; manual review required,E0
+SET_SET_325,Opuamgbere Gbene,Ward_60,Sagbama,SETNAME_12225476,Nearest GRID3 settlement-name point in same ward,1079.126507,Nearest-name assignment; manual review required,E0
+SET_SET_457,Korotimi Sere Gbene,Ward_97,Sagbama,SETNAME_12102710,Nearest GRID3 settlement-name point in same ward,1073.854293,Nearest-name assignment; manual review required,E0
+SET_SET_1623,Ekeremor,Ward_28,Ekeremor,SETNAME_12072900,Nearest GRID3 settlement-name point in same ward,1072.991779,Nearest-name assignment; manual review required,E0
+SET_SET_1838,Polipegha Gbene,Ward_27,Ekeremor,SETNAME_12109245,Nearest GRID3 settlement-name point in same ward,1064.07605,Nearest-name assignment; manual review required,E0
+SET_SET_415,Aban Gbene,Ward_60,Sagbama,SETNAME_12017924,Nearest GRID3 settlement-name point in same ward,1056.112616,Nearest-name assignment; manual review required,E0
+SET_SET_2436,Yeyegbene,Ward_26,Ekeremor,SETNAME_12217098,Nearest GRID3 settlement-name point in same ward,1054.68909,Nearest-name assignment; manual review required,E0
+SET_SET_1608,Ogugufagbene,Ward_27,Ekeremor,SETNAME_12141266,Nearest GRID3 settlement-name point in same ward,1052.949301,Nearest-name assignment; manual review required,E0
+SET_SET_270,Akpobasaha Camp,Ward_93,Sagbama,SETNAME_12033396,Nearest GRID3 settlement-name point in same ward,1050.222929,Nearest-name assignment; manual review required,E0
+SET_SET_2375,Agotuton,Ward_25,Ekeremor,SETNAME_12173827,Nearest GRID3 settlement-name point in same ward,1044.640488,Nearest-name assignment; manual review required,E0
+SET_SET_1606,Akpobuloama,Ward_27,Ekeremor,SETNAME_12087389,Nearest GRID3 settlement-name point in same ward,1037.207519,Nearest-name assignment; manual review required,E0
+SET_SET_1828,Ebiboloukaemi Zion,Ward_31,Ekeremor,SETNAME_12076469,Nearest GRID3 settlement-name point in same ward,1035.542743,Nearest-name assignment; manual review required,E0
+SET_SET_2264,Jeremiah Gbene,Ward_25,Ekeremor,SETNAME_12197178,Nearest GRID3 settlement-name point in same ward,1035.007509,Nearest-name assignment; manual review required,E0
+SET_SET_2290,Dinefieama Gbene,Ward_25,Ekeremor,SETNAME_12152141,Nearest GRID3 settlement-name point in same ward,1032.832253,Nearest-name assignment; manual review required,E0
+SET_SET_72,Ekperiware,Ward_86,Sagbama,SETNAME_12119668,Nearest GRID3 settlement-name point in same ward,1026.536668,Nearest-name assignment; manual review required,E0
+SET_SET_314,Tungbo,Ward_93,Sagbama,SETNAME_12044846,Nearest GRID3 settlement-name point in same ward,1025.74797,Nearest-name assignment; manual review required,E0
+SET_SET_1854,Olumotugbene,Ward_25,Ekeremor,SETNAME_12074402,Nearest GRID3 settlement-name point in same ward,1022.619018,Nearest-name assignment; manual review required,E0
+SET_SET_2276,Rodeyesi Gbene,Ward_25,Ekeremor,SETNAME_12056641,Nearest GRID3 settlement-name point in same ward,1016.122599,Nearest-name assignment; manual review required,E0
+SET_SET_401,Opuamgbere Gbene,Ward_60,Sagbama,SETNAME_12225476,Nearest GRID3 settlement-name point in same ward,1013.284107,Nearest-name assignment; manual review required,E0
+SET_SET_2197,Rachelgbene,Ward_25,Ekeremor,SETNAME_12184350,Nearest GRID3 settlement-name point in same ward,1012.401249,Nearest-name assignment; manual review required,E0
+SET_SET_321,Obulubou Gbene,Ward_96,Sagbama,SETNAME_12013576,Nearest GRID3 settlement-name point in same ward,1006.633926,Nearest-name assignment; manual review required,E0
+SET_SET_1626,Angelic Zion,Ward_28,Ekeremor,SETNAME_12031425,Nearest GRID3 settlement-name point in same ward,1005.30969,Nearest-name assignment; manual review required,E0
+SET_SET_1609,Ogugufagbene,Ward_27,Ekeremor,SETNAME_12141266,Nearest GRID3 settlement-name point in same ward,987.3411284,Nearest-name assignment; manual review required,E0
+SET_SET_53,Saidem Camp Iii,Ward_83,Sagbama,SETNAME_12128078,Nearest GRID3 settlement-name point in same ward,986.4317602,Nearest-name assignment; manual review required,E0
+SET_SET_1816,Authoritygbene I,Ward_25,Ekeremor,SETNAME_12082018,Nearest GRID3 settlement-name point in same ward,980.8539572,Nearest-name assignment; manual review required,E0
+SET_SET_313,Tungbo,Ward_93,Sagbama,SETNAME_12044846,Nearest GRID3 settlement-name point in same ward,962.5939722,Nearest-name assignment; manual review required,E0
+SET_SET_404,Goldogbo Gbene,Ward_57,Sagbama,SETNAME_12246260,Nearest GRID3 settlement-name point in same ward,961.3812719,Nearest-name assignment; manual review required,E0
+SET_SET_1882,Simon Gbene,Ward_26,Ekeremor,SETNAME_12281527,Nearest GRID3 settlement-name point in same ward,960.9799175,Nearest-name assignment; manual review required,E0
+SET_SET_2458,English Gbene,Ward_27,Ekeremor,SETNAME_12164309,Nearest GRID3 settlement-name point in same ward,955.569423,Nearest-name assignment; manual review required,E0
+SET_SET_1738,New Jerusalem Zion,Ward_31,Ekeremor,SETNAME_12267335,Nearest GRID3 settlement-name point in same ward,950.264684,Nearest-name assignment; manual review required,E0
+SET_SET_1175,Ojrus Gbene,Ward_57,Sagbama,SETNAME_12119655,Nearest GRID3 settlement-name point in same ward,949.601816,Nearest-name assignment; manual review required,E0
+SET_SET_1154,Amagbe Camp,Ward_93,Sagbama,SETNAME_12121513,Nearest GRID3 settlement-name point in same ward,947.7665346,Nearest-name assignment; manual review required,E0
+SET_SET_1104,Toru Ebeni Ii,Ward_96,Sagbama,SETNAME_12214144,Nearest GRID3 settlement-name point in same ward,947.1131774,Nearest-name assignment; manual review required,E0
+SET_SET_1149,New Patani,Ward_93,Sagbama,SETNAME_12088969,Nearest GRID3 settlement-name point in same ward,941.8798657,Nearest-name assignment; manual review required,E0
+SET_SET_1697,Egiren Gbene,Ward_27,Ekeremor,SETNAME_12210521,Nearest GRID3 settlement-name point in same ward,941.681994,Nearest-name assignment; manual review required,E0
+SET_SET_2131,Glory Zion,Ward_30,Ekeremor,SETNAME_12042363,Nearest GRID3 settlement-name point in same ward,935.4034006,Nearest-name assignment; manual review required,E0
+SET_SET_1730,Dio Gbene,Ward_28,Ekeremor,SETNAME_12022173,Nearest GRID3 settlement-name point in same ward,935.1431037,Nearest-name assignment; manual review required,E0
+SET_SET_1784,Tumuke Ebigbene,Ward_25,Ekeremor,SETNAME_12220020,Nearest GRID3 settlement-name point in same ward,934.9428373,Nearest-name assignment; manual review required,E0
+SET_SET_1648,Thompsongbene,Ward_5,Ekeremor,SETNAME_12227377,Nearest GRID3 settlement-name point in same ward,929.2317069,Nearest-name assignment; manual review required,E0
+SET_SET_2294,Rodeyesi Gbene,Ward_25,Ekeremor,SETNAME_12056641,Nearest GRID3 settlement-name point in same ward,923.5601381,Nearest-name assignment; manual review required,E0
+SET_SET_2268,Agotuton,Ward_25,Ekeremor,SETNAME_12173827,Nearest GRID3 settlement-name point in same ward,918.4904928,Nearest-name assignment; manual review required,E0
+SET_SET_482,Oboh Camp,Ward_83,Sagbama,SETNAME_12089302,Nearest GRID3 settlement-name point in same ward,917.6589219,Nearest-name assignment; manual review required,E0
+SET_SET_1086,Binatonghan Ama,Ward_93,Sagbama,SETNAME_12101647,Nearest GRID3 settlement-name point in same ward,913.2740072,Nearest-name assignment; manual review required,E0
+SET_SET_84,Amgbariam Agbene,Ward_81,Sagbama,SETNAME_12101377,Nearest GRID3 settlement-name point in same ward,908.2769514,Nearest-name assignment; manual review required,E0
+SET_SET_2388,Gagbaere Gbene,Ward_25,Ekeremor,SETNAME_12271757,Nearest GRID3 settlement-name point in same ward,907.3960769,Nearest-name assignment; manual review required,E0
+SET_SET_1866,Paikegha Gbene,Ward_25,Ekeremor,SETNAME_12108608,Nearest GRID3 settlement-name point in same ward,904.3499948,Nearest-name assignment; manual review required,E0
+SET_SET_1876,Nor Gbene Ii,Ward_26,Ekeremor,SETNAME_12287137,Nearest GRID3 settlement-name point in same ward,902.8986792,Nearest-name assignment; manual review required,E0
+SET_SET_2220,Deide Central Zion,Ward_25,Ekeremor,SETNAME_12142552,Nearest GRID3 settlement-name point in same ward,902.3142915,Nearest-name assignment; manual review required,E0
+SET_SET_476,Angonemi Gbene,Ward_78,Sagbama,SETNAME_12123578,Nearest GRID3 settlement-name point in same ward,901.330137,Nearest-name assignment; manual review required,E0
+SET_SET_1592,Brimola Gbene I,Ward_23,Ekeremor,SETNAME_12083795,Nearest GRID3 settlement-name point in same ward,899.0624947,Nearest-name assignment; manual review required,E0
+SET_SET_2256,Polobiri Gbene,Ward_25,Ekeremor,SETNAME_12102124,Nearest GRID3 settlement-name point in same ward,886.8484903,Nearest-name assignment; manual review required,E0
+SET_SET_1624,Odisi Gbene,Ward_28,Ekeremor,SETNAME_12105341,Nearest GRID3 settlement-name point in same ward,882.0567935,Nearest-name assignment; manual review required,E0
+SET_SET_1884,New Jerusalem Zion,Ward_31,Ekeremor,SETNAME_12267335,Nearest GRID3 settlement-name point in same ward,881.1228494,Nearest-name assignment; manual review required,E0
+SET_SET_2152,Lagos Gbene,Ward_5,Ekeremor,SETNAME_12067478,Nearest GRID3 settlement-name point in same ward,879.8786406,Nearest-name assignment; manual review required,E0
+SET_SET_1881,Yeyegbene,Ward_26,Ekeremor,SETNAME_12217098,Nearest GRID3 settlement-name point in same ward,875.2048478,Nearest-name assignment; manual review required,E0
+SET_SET_2454,Etonye Gbene,Ward_28,Ekeremor,SETNAME_12091668,Nearest GRID3 settlement-name point in same ward,856.9791429,Nearest-name assignment; manual review required,E0
+SET_SET_96,Asandabowari,Ward_78,Sagbama,SETNAME_12039250,Nearest GRID3 settlement-name point in same ward,854.2704658,Nearest-name assignment; manual review required,E0
+SET_SET_1616,Ekeremor Town,Ward_28,Ekeremor,SETNAME_12268660,Nearest GRID3 settlement-name point in same ward,851.7503356,Nearest-name assignment; manual review required,E0
+SET_SET_273,Ofubo Camp,Ward_93,Sagbama,SETNAME_12192001,Nearest GRID3 settlement-name point in same ward,849.9453899,Nearest-name assignment; manual review required,E0
+SET_SET_1844,Dennisgbene,Ward_25,Ekeremor,SETNAME_12128820,Nearest GRID3 settlement-name point in same ward,832.5657713,Nearest-name assignment; manual review required,E0
+SET_SET_1678,Ayei Gbene,Ward_32,Ekeremor,SETNAME_12228175,Nearest GRID3 settlement-name point in same ward,829.7517849,Nearest-name assignment; manual review required,E0
+SET_SET_1673,Ebiama Zion,Ward_34,Ekeremor,SETNAME_12236618,Nearest GRID3 settlement-name point in same ward,827.1214516,Nearest-name assignment; manual review required,E0
+SET_SET_1707,Branyo Gbene,Ward_31,Ekeremor,SETNAME_12026410,Nearest GRID3 settlement-name point in same ward,818.7361554,Nearest-name assignment; manual review required,E0
+SET_SET_1174,Akele Gbene,Ward_57,Sagbama,SETNAME_12152173,Nearest GRID3 settlement-name point in same ward,811.922135,Nearest-name assignment; manual review required,E0
+SET_SET_98,Sampou Ama,Ward_80,Sagbama,SETNAME_12019327,Nearest GRID3 settlement-name point in same ward,810.6216108,Nearest-name assignment; manual review required,E0
+SET_SET_1680,Egbusuware,Ward_104,Ekeremor,SETNAME_12088220,Nearest GRID3 settlement-name point in same ward,806.8594553,Nearest-name assignment; manual review required,E0
+SET_SET_1664,Karen Ama,Ward_32,Ekeremor,SETNAME_12043811,Nearest GRID3 settlement-name point in same ward,790.3687957,Nearest-name assignment; manual review required,E0
+SET_SET_28,Iwuvo Camp,Ward_83,Sagbama,SETNAME_12233056,Nearest GRID3 settlement-name point in same ward,789.5453213,Nearest-name assignment; manual review required,E0
+SET_SET_32,Anam Camp Vii,Ward_83,Sagbama,SETNAME_12147327,Nearest GRID3 settlement-name point in same ward,782.3113921,Nearest-name assignment; manual review required,E0
+SET_SET_1847,Stanleygbene,Ward_25,Ekeremor,SETNAME_12110312,Nearest GRID3 settlement-name point in same ward,776.9339505,Nearest-name assignment; manual review required,E0
+SET_SET_691,Fourbiri Quarter,Ward_64,Sagbama,SETNAME_12199239,Nearest GRID3 settlement-name point in same ward,768.0833938,Nearest-name assignment; manual review required,E0
+SET_SET_1172,Ogbein Gbene,Ward_64,Sagbama,SETNAME_12165180,Nearest GRID3 settlement-name point in same ward,766.2490361,Nearest-name assignment; manual review required,E0
+SET_SET_1895,Kiriareyegbene I,Ward_31,Ekeremor,SETNAME_12104114,Nearest GRID3 settlement-name point in same ward,765.4164973,Nearest-name assignment; manual review required,E0
+SET_SET_684,Ekiye Camp,Ward_93,Sagbama,SETNAME_12278238,Nearest GRID3 settlement-name point in same ward,762.7681178,Nearest-name assignment; manual review required,E0
+SET_SET_2459,Angelic Zion,Ward_28,Ekeremor,SETNAME_12031425,Nearest GRID3 settlement-name point in same ward,753.3643423,Nearest-name assignment; manual review required,E0
+SET_SET_376,Amadugbene,Ward_93,Sagbama,SETNAME_12026227,Nearest GRID3 settlement-name point in same ward,752.3087197,Nearest-name assignment; manual review required,E0
+SET_SET_2449,Asia Gbene,Ward_28,Ekeremor,SETNAME_12261650,Nearest GRID3 settlement-name point in same ward,748.6463483,Nearest-name assignment; manual review required,E0
+SET_SET_1717,Egbaliboro Gbene,Ward_28,Ekeremor,SETNAME_12053406,Nearest GRID3 settlement-name point in same ward,735.4601667,Nearest-name assignment; manual review required,E0
+SET_SET_412,Oruseri Gha Gbene,Ward_64,Sagbama,SETNAME_12279854,Nearest GRID3 settlement-name point in same ward,730.7883234,Nearest-name assignment; manual review required,E0
+SET_SET_2154,Mamiwotagbene,Ward_5,Ekeremor,SETNAME_12031462,Nearest GRID3 settlement-name point in same ward,730.6541017,Nearest-name assignment; manual review required,E0
+SET_SET_301,Oweisingha Gbene,Ward_78,Sagbama,SETNAME_12035248,Nearest GRID3 settlement-name point in same ward,730.5295061,Nearest-name assignment; manual review required,E0
+SET_SET_264,New Patani,Ward_93,Sagbama,SETNAME_12088969,Nearest GRID3 settlement-name point in same ward,725.1676584,Nearest-name assignment; manual review required,E0
+SET_SET_2144,Pashanti Gbene V,Ward_5,Ekeremor,SETNAME_12091359,Nearest GRID3 settlement-name point in same ward,725.1264205,Nearest-name assignment; manual review required,E0
+SET_SET_2164,Bouperegha Gbene,Ward_25,Ekeremor,SETNAME_12220689,Nearest GRID3 settlement-name point in same ward,723.866062,Nearest-name assignment; manual review required,E0
+SET_SET_294,Kala Dono Camp,Ward_93,Sagbama,SETNAME_12131570,Nearest GRID3 settlement-name point in same ward,720.0461827,Nearest-name assignment; manual review required,E0
+SET_SET_1653,Deinnimugha,Ward_5,Ekeremor,SETNAME_12067049,Nearest GRID3 settlement-name point in same ward,719.7940131,Nearest-name assignment; manual review required,E0
+SET_SET_1708,Amakere Gbene,Ward_28,Ekeremor,SETNAME_12140191,Nearest GRID3 settlement-name point in same ward,712.1279277,Nearest-name assignment; manual review required,E0
+SET_SET_1721,Esamasuode Gbene,Ward_31,Ekeremor,SETNAME_12015969,Nearest GRID3 settlement-name point in same ward,705.1918105,Nearest-name assignment; manual review required,E0
+SET_SET_1167,Aya Arukara Gbene,Ward_57,Sagbama,SETNAME_12069255,Nearest GRID3 settlement-name point in same ward,702.7224143,Nearest-name assignment; manual review required,E0
+SET_SET_271,Akpobasaha Camp,Ward_93,Sagbama,SETNAME_12033396,Nearest GRID3 settlement-name point in same ward,697.9709315,Nearest-name assignment; manual review required,E0
+SET_SET_21,Ayanmapou,Ward_86,Sagbama,SETNAME_12083220,Nearest GRID3 settlement-name point in same ward,695.8047616,Nearest-name assignment; manual review required,E0
+SET_SET_2479,Aleibiri,Ward_29,Ekeremor,SETNAME_12069586,Nearest GRID3 settlement-name point in same ward,691.2633888,Nearest-name assignment; manual review required,E0
+SET_SET_2483,Holy Centre Zion,Ward_31,Ekeremor,SETNAME_12143841,Nearest GRID3 settlement-name point in same ward,681.2652961,Nearest-name assignment; manual review required,E0
+SET_SET_2196,Perebokekeme Gbene,Ward_25,Ekeremor,SETNAME_12055769,Nearest GRID3 settlement-name point in same ward,674.8221921,Nearest-name assignment; manual review required,E0
+SET_SET_2163,Dugs Gbene,Ward_25,Ekeremor,SETNAME_12225528,Nearest GRID3 settlement-name point in same ward,664.9273218,Nearest-name assignment; manual review required,E0
+SET_SET_455,Ossiama,Ward_97,Sagbama,SETNAME_12242733,Nearest GRID3 settlement-name point in same ward,658.1360226,Nearest-name assignment; manual review required,E0
+SET_SET_464,Odorubo,Ward_65,Sagbama,SETNAME_12160388,Nearest GRID3 settlement-name point in same ward,656.5244549,Nearest-name assignment; manual review required,E0
+SET_SET_1776,Edimide Gbene Ii,Ward_32,Ekeremor,SETNAME_12250829,Nearest GRID3 settlement-name point in same ward,653.0592033,Nearest-name assignment; manual review required,E0
+SET_SET_1663,Karen Ama,Ward_32,Ekeremor,SETNAME_12043811,Nearest GRID3 settlement-name point in same ward,651.0719978,Nearest-name assignment; manual review required,E0
+SET_SET_1813,Tobamagbene,Ward_25,Ekeremor,SETNAME_12136903,Nearest GRID3 settlement-name point in same ward,648.1995297,Nearest-name assignment; manual review required,E0
+SET_SET_2460,Angelic Zion,Ward_28,Ekeremor,SETNAME_12031425,Nearest GRID3 settlement-name point in same ward,643.4750642,Nearest-name assignment; manual review required,E0
+SET_SET_33,Onumiri Camp,Ward_81,Sagbama,SETNAME_12060576,Nearest GRID3 settlement-name point in same ward,640.4540623,Nearest-name assignment; manual review required,E0
+SET_SET_265,Akpobasaha Camp,Ward_93,Sagbama,SETNAME_12033396,Nearest GRID3 settlement-name point in same ward,638.2016078,Nearest-name assignment; manual review required,E0
+SET_SET_95,Sukeme Gbene,Ward_78,Sagbama,SETNAME_12025462,Nearest GRID3 settlement-name point in same ward,634.5340282,Nearest-name assignment; manual review required,E0
+SET_SET_411,Oruseri Gha Gbene,Ward_64,Sagbama,SETNAME_12279854,Nearest GRID3 settlement-name point in same ward,633.2474046,Nearest-name assignment; manual review required,E0
+SET_SET_2273,Benbiri New Year,Ward_25,Ekeremor,SETNAME_12017837,Nearest GRID3 settlement-name point in same ward,627.343804,Nearest-name assignment; manual review required,E0
+SET_SET_479,Enianaigbene,Ward_78,Sagbama,SETNAME_12070418,Nearest GRID3 settlement-name point in same ward,622.7008201,Nearest-name assignment; manual review required,E0
+SET_SET_63,Saidem Camp Iii,Ward_83,Sagbama,SETNAME_12128078,Nearest GRID3 settlement-name point in same ward,621.9842286,Nearest-name assignment; manual review required,E0
+SET_SET_1085,Binatonghan Ama,Ward_93,Sagbama,SETNAME_12101647,Nearest GRID3 settlement-name point in same ward,621.2823687,Nearest-name assignment; manual review required,E0
+SET_SET_1817,Ayibamienghe,Ward_25,Ekeremor,SETNAME_12111726,Nearest GRID3 settlement-name point in same ward,619.8152746,Nearest-name assignment; manual review required,E0
+SET_SET_473,Angonemi Gbene,Ward_78,Sagbama,SETNAME_12123578,Nearest GRID3 settlement-name point in same ward,619.3437932,Nearest-name assignment; manual review required,E0
+SET_SET_1735,Beinmo Ama,Ward_31,Ekeremor,SETNAME_12247045,Nearest GRID3 settlement-name point in same ward,614.8651388,Nearest-name assignment; manual review required,E0
+SET_SET_2374,Alaedi Gbene,Ward_25,Ekeremor,SETNAME_12237266,Nearest GRID3 settlement-name point in same ward,612.6383123,Nearest-name assignment; manual review required,E0
+SET_SET_1108,Olotu Gbene,Ward_96,Sagbama,SETNAME_12146996,Nearest GRID3 settlement-name point in same ward,611.5158436,Nearest-name assignment; manual review required,E0
+SET_SET_2157,Orobiri,Ward_5,Ekeremor,SETNAME_12166072,Nearest GRID3 settlement-name point in same ward,608.7360547,Nearest-name assignment; manual review required,E0
+SET_SET_1785,Tumuke Ebigbene,Ward_25,Ekeremor,SETNAME_12220020,Nearest GRID3 settlement-name point in same ward,604.9932247,Nearest-name assignment; manual review required,E0
+SET_SET_2150,Lagos Gbene,Ward_5,Ekeremor,SETNAME_12067478,Nearest GRID3 settlement-name point in same ward,604.9110416,Nearest-name assignment; manual review required,E0
+SET_SET_1670,Ebilowei Aleibiri Ii,Ward_32,Ekeremor,SETNAME_12018971,Nearest GRID3 settlement-name point in same ward,603.4977294,Nearest-name assignment; manual review required,E0
+SET_SET_1731,Atimi Gbene,Ward_28,Ekeremor,SETNAME_12218836,Nearest GRID3 settlement-name point in same ward,601.112113,Nearest-name assignment; manual review required,E0
+SET_SET_1082,Ayama Adagbabiri,Ward_62,Sagbama,SETNAME_12225665,Nearest GRID3 settlement-name point in same ward,598.1493749,Nearest-name assignment; manual review required,E0
+SET_SET_2267,Guorbo Gbene,Ward_25,Ekeremor,SETNAME_12177248,Nearest GRID3 settlement-name point in same ward,593.2378858,Nearest-name assignment; manual review required,E0
+SET_SET_1896,Kiriareyegbene I,Ward_31,Ekeremor,SETNAME_12104114,Nearest GRID3 settlement-name point in same ward,589.5427455,Nearest-name assignment; manual review required,E0
+SET_SET_1714,Gbirinki Gbene,Ward_28,Ekeremor,SETNAME_12011604,Nearest GRID3 settlement-name point in same ward,581.9991281,Nearest-name assignment; manual review required,E0
+SET_SET_1611,Angelic Zion,Ward_28,Ekeremor,SETNAME_12031425,Nearest GRID3 settlement-name point in same ward,579.4597875,Nearest-name assignment; manual review required,E0
+SET_SET_402,Ogboru Gbene,Ward_57,Sagbama,SETNAME_12127359,Nearest GRID3 settlement-name point in same ward,576.7926453,Nearest-name assignment; manual review required,E0
+SET_SET_1153,New Patani,Ward_93,Sagbama,SETNAME_12088969,Nearest GRID3 settlement-name point in same ward,575.2625169,Nearest-name assignment; manual review required,E0
+SET_SET_2488,Perekiri Zion,Ward_104,Ekeremor,SETNAME_12120184,Nearest GRID3 settlement-name point in same ward,564.0907788,Nearest-name assignment; manual review required,E0
+SET_SET_378,Aladorgbene,Ward_93,Sagbama,SETNAME_12195083,Nearest GRID3 settlement-name point in same ward,563.4790474,Nearest-name assignment; manual review required,E0
+SET_SET_293,Ogboro Dono Camp,Ward_93,Sagbama,SETNAME_12137888,Nearest GRID3 settlement-name point in same ward,563.0165671,Nearest-name assignment; manual review required,E0
+SET_SET_1081,Indiamazi,Ward_62,Sagbama,SETNAME_12158074,Nearest GRID3 settlement-name point in same ward,554.542242,Nearest-name assignment; manual review required,E0
+SET_SET_99,Sampou Ama,Ward_80,Sagbama,SETNAME_12019327,Nearest GRID3 settlement-name point in same ward,553.2092106,Nearest-name assignment; manual review required,E0
+SET_SET_2274,Ebomoye Gbene,Ward_25,Ekeremor,SETNAME_12204612,Nearest GRID3 settlement-name point in same ward,550.9991031,Nearest-name assignment; manual review required,E0
+SET_SET_1176,Ogbein Gbene,Ward_64,Sagbama,SETNAME_12165180,Nearest GRID3 settlement-name point in same ward,547.7311475,Nearest-name assignment; manual review required,E0
+SET_SET_318,Olukaware Quarter,Ward_64,Sagbama,SETNAME_12264168,Nearest GRID3 settlement-name point in same ward,544.7342938,Nearest-name assignment; manual review required,E0
+SET_SET_1840,Osadebe Gbene,Ward_27,Ekeremor,SETNAME_12150808,Nearest GRID3 settlement-name point in same ward,543.3532338,Nearest-name assignment; manual review required,E0
+SET_SET_1160,Korodeei Gbene,Ward_93,Sagbama,SETNAME_12142514,Nearest GRID3 settlement-name point in same ward,542.0057076,Nearest-name assignment; manual review required,E0
+SET_SET_2151,Lagos Gbene,Ward_5,Ekeremor,SETNAME_12067478,Nearest GRID3 settlement-name point in same ward,528.3147116,Nearest-name assignment; manual review required,E0
+SET_SET_1598,Diwebou Gbene Iii,Ward_27,Ekeremor,SETNAME_12146203,Nearest GRID3 settlement-name point in same ward,522.1536014,Nearest-name assignment; manual review required,E0
+SET_SET_319,Okumbiri,Ward_96,Sagbama,SETNAME_12068331,Nearest GRID3 settlement-name point in same ward,518.0966876,Nearest-name assignment; manual review required,E0
+SET_SET_408,Maraji Gbene,Ward_57,Sagbama,SETNAME_12172930,Nearest GRID3 settlement-name point in same ward,516.9866898,Nearest-name assignment; manual review required,E0
+SET_SET_1662,Ayei Gbene,Ward_32,Ekeremor,SETNAME_12228175,Nearest GRID3 settlement-name point in same ward,513.1884509,Nearest-name assignment; manual review required,E0
+SET_SET_377,Aladorgbene,Ward_93,Sagbama,SETNAME_12195083,Nearest GRID3 settlement-name point in same ward,507.1129121,Nearest-name assignment; manual review required,E0
+SET_SET_25,Ozobene Camp,Ward_83,Sagbama,SETNAME_12255989,Nearest GRID3 settlement-name point in same ward,505.7942018,Nearest-name assignment; manual review required,E0
+SET_SET_1173,Akele Gbene,Ward_57,Sagbama,SETNAME_12152173,Nearest GRID3 settlement-name point in same ward,504.6752845,Nearest-name assignment; manual review required,E0
+SET_SET_1691,English Gbene,Ward_27,Ekeremor,SETNAME_12164309,Nearest GRID3 settlement-name point in same ward,492.9648733,Nearest-name assignment; manual review required,E0
+SET_SET_2481,Monako Ama,Ward_26,Ekeremor,SETNAME_12066385,Nearest GRID3 settlement-name point in same ward,488.7431561,Nearest-name assignment; manual review required,E0
+SET_SET_1156,New Patani,Ward_93,Sagbama,SETNAME_12088969,Nearest GRID3 settlement-name point in same ward,480.3436875,Nearest-name assignment; manual review required,E0
+SET_SET_1649,Amazor,Ward_5,Ekeremor,SETNAME_12281775,Nearest GRID3 settlement-name point in same ward,480.1220328,Nearest-name assignment; manual review required,E0
+SET_SET_2207,Olugbene,Ward_25,Ekeremor,SETNAME_12202035,Nearest GRID3 settlement-name point in same ward,474.3484129,Nearest-name assignment; manual review required,E0
+SET_SET_1875,Enagha Gbene,Ward_26,Ekeremor,SETNAME_12150068,Nearest GRID3 settlement-name point in same ward,470.5970063,Nearest-name assignment; manual review required,E0
+SET_SET_692,Fourbiri Quarter,Ward_64,Sagbama,SETNAME_12199239,Nearest GRID3 settlement-name point in same ward,467.4354887,Nearest-name assignment; manual review required,E0
+SET_SET_73,Yeri Farm Camp,Ward_86,Sagbama,SETNAME_12214844,Nearest GRID3 settlement-name point in same ward,467.1562709,Nearest-name assignment; manual review required,E0
+SET_SET_70,Iwhiritobi Camp,Ward_83,Sagbama,SETNAME_12245896,Nearest GRID3 settlement-name point in same ward,464.6410712,Nearest-name assignment; manual review required,E0
+SET_SET_62,Saidem Camp Iii,Ward_83,Sagbama,SETNAME_12128078,Nearest GRID3 settlement-name point in same ward,463.9280436,Nearest-name assignment; manual review required,E0
+SET_SET_1690,Atabai Gbene,Ward_27,Ekeremor,SETNAME_12154089,Nearest GRID3 settlement-name point in same ward,462.5292482,Nearest-name assignment; manual review required,E0
+SET_SET_2225,Alice Gbene,Ward_25,Ekeremor,SETNAME_12230146,Nearest GRID3 settlement-name point in same ward,457.3940672,Nearest-name assignment; manual review required,E0
+SET_SET_2191,Perebokekeme Gbene,Ward_25,Ekeremor,SETNAME_12055769,Nearest GRID3 settlement-name point in same ward,455.5170811,Nearest-name assignment; manual review required,E0
+SET_SET_1765,Fun Gbene,Ward_32,Ekeremor,SETNAME_12094215,Nearest GRID3 settlement-name point in same ward,453.846232,Nearest-name assignment; manual review required,E0
+SET_SET_1850,Monday O Gbene,Ward_25,Ekeremor,SETNAME_12059063,Nearest GRID3 settlement-name point in same ward,450.0089158,Nearest-name assignment; manual review required,E0
+SET_SET_1159,Tungbo,Ward_93,Sagbama,SETNAME_12044846,Nearest GRID3 settlement-name point in same ward,443.4475822,Nearest-name assignment; manual review required,E0
+SET_SET_1821,Abrahamgbene,Ward_25,Ekeremor,SETNAME_12094331,Nearest GRID3 settlement-name point in same ward,438.7148423,Nearest-name assignment; manual review required,E0
+SET_SET_403,Goldogbo Gbene,Ward_57,Sagbama,SETNAME_12246260,Nearest GRID3 settlement-name point in same ward,432.0202992,Nearest-name assignment; manual review required,E0
+SET_SET_1842,Selekeowei,Ward_25,Ekeremor,SETNAME_12084557,Nearest GRID3 settlement-name point in same ward,431.5581723,Nearest-name assignment; manual review required,E0
+SET_SET_2145,Pashanti Gbene V,Ward_5,Ekeremor,SETNAME_12091359,Nearest GRID3 settlement-name point in same ward,429.0739157,Nearest-name assignment; manual review required,E0
+SET_SET_1712,Hitele Gbene,Ward_28,Ekeremor,SETNAME_12186726,Nearest GRID3 settlement-name point in same ward,428.2380991,Nearest-name assignment; manual review required,E0
+SET_SET_1591,Brimola Gbene I,Ward_23,Ekeremor,SETNAME_12083795,Nearest GRID3 settlement-name point in same ward,422.5728534,Nearest-name assignment; manual review required,E0
+SET_SET_1786,Tumuke Ebigbene,Ward_25,Ekeremor,SETNAME_12220020,Nearest GRID3 settlement-name point in same ward,419.7125987,Nearest-name assignment; manual review required,E0
+SET_SET_85,Ekorekore Gbene Iv,Ward_78,Sagbama,SETNAME_12153864,Nearest GRID3 settlement-name point in same ward,407.957611,Nearest-name assignment; manual review required,E0
+SET_SET_1837,Tiyola Gbene,Ward_27,Ekeremor,SETNAME_12026439,Nearest GRID3 settlement-name point in same ward,405.5509248,Nearest-name assignment; manual review required,E0
+SET_SET_1628,Peretoru Gbene,Ward_26,Ekeremor,SETNAME_12188058,Nearest GRID3 settlement-name point in same ward,403.8484858,Nearest-name assignment; manual review required,E0
+SET_SET_349,Amos Gbene,Ward_57,Sagbama,SETNAME_12103325,Nearest GRID3 settlement-name point in same ward,399.1279469,Nearest-name assignment; manual review required,E0
+SET_SET_1773,Clement Gbene,Ward_32,Ekeremor,SETNAME_12011201,Nearest GRID3 settlement-name point in same ward,392.075723,Nearest-name assignment; manual review required,E0
+SET_SET_1161,Ayamaowei Gbene,Ward_93,Sagbama,SETNAME_12006753,Nearest GRID3 settlement-name point in same ward,389.9628898,Nearest-name assignment; manual review required,E0
+SET_SET_88,Buseni Camp,Ward_81,Sagbama,SETNAME_12173752,Nearest GRID3 settlement-name point in same ward,380.5444302,Nearest-name assignment; manual review required,E0
+SET_SET_690,Fourbiri Quarter,Ward_64,Sagbama,SETNAME_12199239,Nearest GRID3 settlement-name point in same ward,373.7949977,Nearest-name assignment; manual review required,E0
+SET_SET_1155,New Patani,Ward_93,Sagbama,SETNAME_12088969,Nearest GRID3 settlement-name point in same ward,366.4486186,Nearest-name assignment; manual review required,E0
+SET_SET_51,Saidem Camp Ii,Ward_83,Sagbama,SETNAME_12240196,Nearest GRID3 settlement-name point in same ward,365.2794583,Nearest-name assignment; manual review required,E0
+SET_SET_1668,Ebilowei Aleibiri Ii,Ward_32,Ekeremor,SETNAME_12018971,Nearest GRID3 settlement-name point in same ward,362.6270361,Nearest-name assignment; manual review required,E0
+SET_SET_2285,Amana Gbene,Ward_25,Ekeremor,SETNAME_12285643,Nearest GRID3 settlement-name point in same ward,361.8649282,Nearest-name assignment; manual review required,E0
+SET_SET_272,Ofubo Camp,Ward_93,Sagbama,SETNAME_12192001,Nearest GRID3 settlement-name point in same ward,354.1906993,Nearest-name assignment; manual review required,E0
+SET_SET_1614,Bethel City,Ward_28,Ekeremor,SETNAME_12091775,Nearest GRID3 settlement-name point in same ward,353.0345956,Nearest-name assignment; manual review required,E0
+SET_SET_685,Ofoni Camp,Ward_93,Sagbama,SETNAME_12089443,Nearest GRID3 settlement-name point in same ward,348.2033519,Nearest-name assignment; manual review required,E0
+SET_SET_1713,Kiriaraye Gbene,Ward_28,Ekeremor,SETNAME_12223831,Nearest GRID3 settlement-name point in same ward,343.2574318,Nearest-name assignment; manual review required,E0
+SET_SET_1835,Eniyekebai Gbene,Ward_27,Ekeremor,SETNAME_12021256,Nearest GRID3 settlement-name point in same ward,338.4916729,Nearest-name assignment; manual review required,E0
+SET_SET_49,Oyinkepreye Gbene,Ward_81,Sagbama,SETNAME_12246575,Nearest GRID3 settlement-name point in same ward,336.0930547,Nearest-name assignment; manual review required,E0
+SET_SET_2438,Mbasougha Gbene Ii,Ward_25,Ekeremor,SETNAME_12207033,Nearest GRID3 settlement-name point in same ward,335.3930549,Nearest-name assignment; manual review required,E0
+SET_SET_1612,Angelic Zion,Ward_28,Ekeremor,SETNAME_12031425,Nearest GRID3 settlement-name point in same ward,314.0948889,Nearest-name assignment; manual review required,E0
+SET_SET_1829,Ebiboloukaemi Zion,Ward_31,Ekeremor,SETNAME_12076469,Nearest GRID3 settlement-name point in same ward,313.4105972,Nearest-name assignment; manual review required,E0
+SET_SET_2437,Ajatitor,Ward_25,Ekeremor,SETNAME_12240921,Nearest GRID3 settlement-name point in same ward,311.8397275,Nearest-name assignment; manual review required,E0
+SET_SET_23,Garbomd Camp,Ward_83,Sagbama,SETNAME_12164662,Nearest GRID3 settlement-name point in same ward,310.0513055,Nearest-name assignment; manual review required,E0
+SET_SET_1669,Ebilowei Aleibiri Ii,Ward_32,Ekeremor,SETNAME_12018971,Nearest GRID3 settlement-name point in same ward,307.85352,Nearest-name assignment; manual review required,E0
+SET_SET_2239,Tekenana Gbene,Ward_25,Ekeremor,SETNAME_12097468,Nearest GRID3 settlement-name point in same ward,297.5001277,Nearest-name assignment; manual review required,E0
+SET_SET_350,Apeis Gbene,Ward_57,Sagbama,SETNAME_12225627,Nearest GRID3 settlement-name point in same ward,292.3404693,Nearest-name assignment; manual review required,E0
+SET_SET_1762,Pabor Gbene,Ward_27,Ekeremor,SETNAME_12029832,Nearest GRID3 settlement-name point in same ward,291.7793312,Nearest-name assignment; manual review required,E0
+SET_SET_1841,Osadebe Gbene,Ward_27,Ekeremor,SETNAME_12150808,Nearest GRID3 settlement-name point in same ward,291.2146258,Nearest-name assignment; manual review required,E0
+SET_SET_2477,Eniyekedibain Ama,Ward_26,Ekeremor,SETNAME_12043393,Nearest GRID3 settlement-name point in same ward,284.9209845,Nearest-name assignment; manual review required,E0
+SET_SET_2482,Holy Centre Zion,Ward_31,Ekeremor,SETNAME_12143841,Nearest GRID3 settlement-name point in same ward,284.6828821,Nearest-name assignment; manual review required,E0
+SET_SET_480,Okosi Camp,Ward_81,Sagbama,SETNAME_12034324,Nearest GRID3 settlement-name point in same ward,282.1991543,Nearest-name assignment; manual review required,E0
+SET_SET_41,Aduku I,Ward_78,Sagbama,SETNAME_12241806,Nearest GRID3 settlement-name point in same ward,279.2104767,Nearest-name assignment; manual review required,E0
+SET_SET_1716,Kiriaraye Gbene,Ward_28,Ekeremor,SETNAME_12223831,Nearest GRID3 settlement-name point in same ward,270.4326131,Nearest-name assignment; manual review required,E0
+SET_SET_80,Kalam Agbene,Ward_86,Sagbama,SETNAME_12182692,Nearest GRID3 settlement-name point in same ward,266.1104582,Nearest-name assignment; manual review required,E0
+SET_SET_2169,Alesegbene,Ward_25,Ekeremor,SETNAME_12233612,Nearest GRID3 settlement-name point in same ward,265.6482403,Nearest-name assignment; manual review required,E0
+SET_SET_1695,Egiren Gbene,Ward_27,Ekeremor,SETNAME_12210521,Nearest GRID3 settlement-name point in same ward,262.9939517,Nearest-name assignment; manual review required,E0
+SET_SET_374,Aladorgbene,Ward_93,Sagbama,SETNAME_12195083,Nearest GRID3 settlement-name point in same ward,261.1880623,Nearest-name assignment; manual review required,E0
+SET_SET_2233,Ezekiel Gbene,Ward_25,Ekeremor,SETNAME_12044252,Nearest GRID3 settlement-name point in same ward,253.983099,Nearest-name assignment; manual review required,E0
+SET_SET_2221,Deide Central Zion,Ward_25,Ekeremor,SETNAME_12142552,Nearest GRID3 settlement-name point in same ward,253.905876,Nearest-name assignment; manual review required,E0
+SET_SET_74,Yeri Farm Camp,Ward_86,Sagbama,SETNAME_12214844,Nearest GRID3 settlement-name point in same ward,250.1657771,Nearest-name assignment; manual review required,E0
+SET_SET_2156,Azamabiri,Ward_5,Ekeremor,SETNAME_12234111,Nearest GRID3 settlement-name point in same ward,231.3513676,Nearest-name assignment; manual review required,E0
+SET_SET_688,Aya Arukara Gbene,Ward_57,Sagbama,SETNAME_12069255,Nearest GRID3 settlement-name point in same ward,230.6954598,Nearest-name assignment; manual review required,E0
+SET_SET_2465,Perekiri Ama,Ward_28,Ekeremor,SETNAME_12032435,Nearest GRID3 settlement-name point in same ward,226.0569292,Nearest-name assignment; manual review required,E0
+SET_SET_1102,Akeddei,Ward_96,Sagbama,SETNAME_12243915,Nearest GRID3 settlement-name point in same ward,214.6704255,Nearest-name assignment; manual review required,E0
+SET_SET_2226,Alice Gbene,Ward_25,Ekeremor,SETNAME_12230146,Nearest GRID3 settlement-name point in same ward,208.2789367,Nearest-name assignment; manual review required,E0
+SET_SET_1770,Famous Gbene Ii,Ward_32,Ekeremor,SETNAME_12277162,Nearest GRID3 settlement-name point in same ward,202.4071538,Nearest-name assignment; manual review required,E0
+SET_SET_2168,Alesegbene,Ward_25,Ekeremor,SETNAME_12233612,Nearest GRID3 settlement-name point in same ward,198.997931,Nearest-name assignment; manual review required,E0
+SET_SET_2261,Jeremiah Gbene,Ward_25,Ekeremor,SETNAME_12197178,Nearest GRID3 settlement-name point in same ward,188.4148693,Nearest-name assignment; manual review required,E0
+SET_SET_14,Ayanmapou,Ward_86,Sagbama,SETNAME_12083220,Nearest GRID3 settlement-name point in same ward,184.3442765,Nearest-name assignment; manual review required,E0
+SET_SET_65,Erifador Gbene Ii,Ward_86,Sagbama,SETNAME_12087815,Nearest GRID3 settlement-name point in same ward,182.5656818,Nearest-name assignment; manual review required,E0
+SET_SET_69,Kalam Agbene,Ward_86,Sagbama,SETNAME_12182692,Nearest GRID3 settlement-name point in same ward,179.4306357,Nearest-name assignment; manual review required,E0
+SET_SET_1736,Yeyegbene,Ward_26,Ekeremor,SETNAME_12217098,Nearest GRID3 settlement-name point in same ward,170.8688903,Nearest-name assignment; manual review required,E0
+SET_SET_1734,Holy Centre Zion,Ward_31,Ekeremor,SETNAME_12143841,Nearest GRID3 settlement-name point in same ward,169.7835639,Nearest-name assignment; manual review required,E0
+SET_SET_2166,Saimozi Gbene,Ward_25,Ekeremor,SETNAME_12194555,Nearest GRID3 settlement-name point in same ward,168.4145257,Nearest-name assignment; manual review required,E0
+SET_SET_1774,Binni Gbene,Ward_32,Ekeremor,SETNAME_12192638,Nearest GRID3 settlement-name point in same ward,161.5957881,Nearest-name assignment; manual review required,E0
+SET_SET_2457,Founzu Gbene,Ward_27,Ekeremor,SETNAME_12090659,Nearest GRID3 settlement-name point in same ward,155.4374669,Nearest-name assignment; manual review required,E0
+SET_SET_447,Orutu Gbene,Ward_64,Sagbama,SETNAME_12229397,Nearest GRID3 settlement-name point in same ward,152.8984467,Nearest-name assignment; manual review required,E0
+SET_SET_45,Angonemi Gbene,Ward_78,Sagbama,SETNAME_12123578,Nearest GRID3 settlement-name point in same ward,150.3028103,Nearest-name assignment; manual review required,E0
+SET_SET_1164,Kalaboye Gbene,Ward_57,Sagbama,SETNAME_12021398,Nearest GRID3 settlement-name point in same ward,147.1911093,Nearest-name assignment; manual review required,E0
+SET_SET_2260,Jeremiah Gbene,Ward_25,Ekeremor,SETNAME_12197178,Nearest GRID3 settlement-name point in same ward,146.5257779,Nearest-name assignment; manual review required,E0
+SET_SET_36,Isielo Camp,Ward_81,Sagbama,SETNAME_12047429,Nearest GRID3 settlement-name point in same ward,137.5042898,Nearest-name assignment; manual review required,E0
+SET_SET_2373,James Gbene,Ward_25,Ekeremor,SETNAME_12190485,Nearest GRID3 settlement-name point in same ward,135.6563758,Nearest-name assignment; manual review required,E0
+SET_SET_2238,Tekenana Gbene,Ward_25,Ekeremor,SETNAME_12097468,Nearest GRID3 settlement-name point in same ward,130.2263395,Nearest-name assignment; manual review required,E0
+SET_SET_2190,Egbronni Gbene,Ward_25,Ekeremor,SETNAME_12252363,Nearest GRID3 settlement-name point in same ward,127.2807373,Nearest-name assignment; manual review required,E0
+SET_SET_2194,Oldboy Gbene,Ward_25,Ekeremor,SETNAME_12158504,Nearest GRID3 settlement-name point in same ward,127.1750495,Nearest-name assignment; manual review required,E0
+SET_SET_44,Angonemi Gbene,Ward_78,Sagbama,SETNAME_12123578,Nearest GRID3 settlement-name point in same ward,119.7813714,Nearest-name assignment; manual review required,E0
+SET_SET_2193,Olubin Gbene,Ward_25,Ekeremor,SETNAME_12114769,Nearest GRID3 settlement-name point in same ward,119.1051069,Nearest-name assignment; manual review required,E0
+SET_SET_1674,Ebiama Zion,Ward_34,Ekeremor,SETNAME_12236618,Nearest GRID3 settlement-name point in same ward,118.6170182,Nearest-name assignment; manual review required,E0
+SET_SET_406,Suama Gbene,Ward_64,Sagbama,SETNAME_12034222,Nearest GRID3 settlement-name point in same ward,118.3732702,Nearest-name assignment; manual review required,E0
+SET_SET_2386,Augusto Obe,Ward_25,Ekeremor,SETNAME_12274189,Nearest GRID3 settlement-name point in same ward,114.6066162,Nearest-name assignment; manual review required,E0
+SET_SET_2153,Mamiwotagbene,Ward_5,Ekeremor,SETNAME_12031462,Nearest GRID3 settlement-name point in same ward,103.7608643,Nearest-name assignment; manual review required,E0
+SET_SET_1169,Amos Gbene,Ward_57,Sagbama,SETNAME_12103325,Nearest GRID3 settlement-name point in same ward,100.5450092,Nearest-name assignment; manual review required,E0
+SET_SET_1772,Berenboupou Gbene,Ward_32,Ekeremor,SETNAME_12164956,Nearest GRID3 settlement-name point in same ward,100.194919,Nearest-name assignment; manual review required,E0
+SET_SET_2222,Deide Central Zion,Ward_25,Ekeremor,SETNAME_12142552,Nearest GRID3 settlement-name point in same ward,100.0837559,Nearest-name assignment; manual review required,E0
+SET_SET_687,Aya Arukara Gbene,Ward_57,Sagbama,SETNAME_12069255,Nearest GRID3 settlement-name point in same ward,92.33819748,Nearest-name assignment; manual review required,E0
+SET_SET_2134,Gbagha Enikpoene,Ward_30,Ekeremor,SETNAME_12090568,Nearest GRID3 settlement-name point in same ward,82.67044536,Nearest-name assignment; manual review required,E0
+SET_SET_410,Ekankumo Gbene,Ward_64,Sagbama,SETNAME_12267593,Nearest GRID3 settlement-name point in same ward,81.43654466,Nearest-name assignment; manual review required,E0
+SET_SET_86,Ekorekore Gbene Iv,Ward_78,Sagbama,SETNAME_12153864,Nearest GRID3 settlement-name point in same ward,79.68956298,Nearest-name assignment; manual review required,E0
+SET_SET_39,Ukoliko Camp,Ward_81,Sagbama,SETNAME_12039204,Nearest GRID3 settlement-name point in same ward,76.98529001,Nearest-name assignment; manual review required,E0
+SET_SET_1861,Inkiyansele,Ward_25,Ekeremor,SETNAME_12253114,Nearest GRID3 settlement-name point in same ward,69.36116687,Nearest-name assignment; manual review required,E0
+SET_SET_31,Shoemaker Camp,Ward_83,Sagbama,SETNAME_11997529,Nearest GRID3 settlement-name point in same ward,66.54152532,Nearest-name assignment; manual review required,E0
+SET_SET_2232,Victor Ikere Gbene,Ward_25,Ekeremor,SETNAME_12129957,Nearest GRID3 settlement-name point in same ward,65.86456711,Nearest-name assignment; manual review required,E0
+SET_SET_683,Akuhma Camp,Ward_93,Sagbama,SETNAME_12022313,Nearest GRID3 settlement-name point in same ward,61.03154787,Nearest-name assignment; manual review required,E0
+SET_SET_2195,Bebetobudiadwei,Ward_25,Ekeremor,SETNAME_12041247,Nearest GRID3 settlement-name point in same ward,57.63244049,Nearest-name assignment; manual review required,E0
+SET_SET_1836,Toronae Gbene,Ward_27,Ekeremor,SETNAME_12195035,Nearest GRID3 settlement-name point in same ward,54.64938717,Nearest-name assignment; manual review required,E0
+SET_SET_15,Olomu Ama,Ward_86,Sagbama,SETNAME_12140001,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_16,Teibokoro Gbene,Ward_86,Sagbama,SETNAME_12150083,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_17,Leipougbene I,Ward_86,Sagbama,SETNAME_12254335,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_18,Biugbene,Ward_86,Sagbama,SETNAME_12103348,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_22,Garbomd Camp,Ward_83,Sagbama,SETNAME_12164662,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_26,Ozobene Camp,Ward_83,Sagbama,SETNAME_12255989,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_27,Ewhovo Camp,Ward_83,Sagbama,SETNAME_12260612,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_29,Anam Camp Vii,Ward_83,Sagbama,SETNAME_12147327,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_30,Abarika Camp,Ward_83,Sagbama,SETNAME_12171498,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_34,Onumiri Camp,Ward_81,Sagbama,SETNAME_12060576,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_37,Ogbokuma Camp Ii,Ward_83,Sagbama,SETNAME_12008389,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_38,Igule Okpare Camp,Ward_81,Sagbama,SETNAME_12024590,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_46,Enianaigbene,Ward_78,Sagbama,SETNAME_12070418,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_47,Akemi Camp,Ward_81,Sagbama,SETNAME_12120910,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_48,Kia Camp,Ward_81,Sagbama,SETNAME_12053218,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_52,Saidem Camp Ii,Ward_83,Sagbama,SETNAME_12240196,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_61,Saidem Camp I,Ward_83,Sagbama,SETNAME_12081342,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_64,Saidem Camp Iii,Ward_83,Sagbama,SETNAME_12128078,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_66,Iwhiritobi Camp,Ward_83,Sagbama,SETNAME_12245896,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_67,John Yeri Camp,Ward_86,Sagbama,SETNAME_12249936,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_68,Ekperiware,Ward_86,Sagbama,SETNAME_12119668,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_75,Kpodo Gbene,Ward_86,Sagbama,SETNAME_12162343,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_81,Kalam Agbene,Ward_86,Sagbama,SETNAME_12182692,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_82,Ekorekore Gbene Iii,Ward_81,Sagbama,SETNAME_12094055,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_83,Akpariamabulu Ama Gbene,Ward_81,Sagbama,SETNAME_12026484,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_87,Oroupadoh Gbene,Ward_78,Sagbama,SETNAME_12138257,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_92,Sukeme Gbene,Ward_78,Sagbama,SETNAME_12025462,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_93,Agbere,Ward_78,Sagbama,SETNAME_12065566,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_230,Tubolayefa Gbene,Ward_78,Sagbama,SETNAME_11999928,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_266,Ofubo Camp,Ward_93,Sagbama,SETNAME_12192001,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_269,New Patani,Ward_93,Sagbama,SETNAME_12088969,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_289,Agbala Camp Seikeseiye,Ward_93,Sagbama,SETNAME_12108390,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_290,Kala Dono Camp,Ward_93,Sagbama,SETNAME_12131570,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_300,Amakiri Gbene,Ward_86,Sagbama,SETNAME_12225765,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_302,Ogba Gbene,Ward_78,Sagbama,SETNAME_12212495,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_306,Pouta Gbene,Ward_60,Sagbama,SETNAME_12210359,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_320,Okumbiri,Ward_96,Sagbama,SETNAME_12068331,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_323,Dagana Gbene,Ward_60,Sagbama,SETNAME_12160535,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_389,Egrenfa Gbene,Ward_96,Sagbama,SETNAME_12129431,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_391,Zimmy Gbene,Ward_60,Sagbama,SETNAME_12057155,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_405,Okabou Gbene,Ward_60,Sagbama,SETNAME_12187141,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_407,Agoroso Gbene,Ward_57,Sagbama,SETNAME_12062989,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_463,Dala Gbene,Ward_97,Sagbama,SETNAME_12020621,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_472,Lawrence Camp,Ward_83,Sagbama,SETNAME_12173427,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_474,Anam Camp Vi,Ward_83,Sagbama,SETNAME_12009969,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_475,Okwudili Camp,Ward_83,Sagbama,SETNAME_12226405,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_477,Buseni Camp,Ward_81,Sagbama,SETNAME_12173752,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_483,Uto Camp,Ward_83,Sagbama,SETNAME_12226255,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_686,Accre Ere Gbene,Ward_57,Sagbama,SETNAME_12145284,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_689,Adelebiri,Ward_57,Sagbama,SETNAME_12079770,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1083,Ayamaowei Gbene,Ward_93,Sagbama,SETNAME_12006753,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1101,Akeddei,Ward_96,Sagbama,SETNAME_12243915,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1150,Adagbabiri,Ward_93,Sagbama,SETNAME_12073546,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1157,Akpobasaha Camp,Ward_93,Sagbama,SETNAME_12033396,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1163,Angalabiri,Ward_57,Sagbama,SETNAME_12249731,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1165,Abada Ama,Ward_64,Sagbama,SETNAME_12211781,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1166,Akele Gbene,Ward_57,Sagbama,SETNAME_12152173,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1171,Olukaware Quarter,Ward_64,Sagbama,SETNAME_12264168,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1353,Abubakar Bonny Gbene,Ward_78,Sagbama,SETNAME_12047873,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1389,Oweinamazi,Ward_93,Sagbama,SETNAME_12033386,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1391,Ogboro Dono Camp,Ward_93,Sagbama,SETNAME_12137888,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1595,Ogugufagbene,Ward_27,Ekeremor,SETNAME_12141266,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1596,Freshgbene,Ward_104,Ekeremor,SETNAME_12172114,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1597,Diwebou Gbene Ii,Ward_27,Ekeremor,SETNAME_12233400,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1602,Amalka Zion,Ward_27,Ekeremor,SETNAME_12124368,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1613,Bethel City,Ward_28,Ekeremor,SETNAME_12091775,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1618,Ekeremor,Ward_28,Ekeremor,SETNAME_12072900,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1621,Azideyeregbene,Ward_28,Ekeremor,SETNAME_12019753,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1629,Tunde Gbene,Ward_26,Ekeremor,SETNAME_12084227,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1633,Agbaiyama,Ward_25,Ekeremor,SETNAME_12265145,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1634,Tonor,Ward_25,Ekeremor,SETNAME_12201116,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1645,Niatagbene,Ward_5,Ekeremor,SETNAME_12196799,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1646,Okekirigbene,Ward_5,Ekeremor,SETNAME_12060578,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1647,Azatitor,Ward_5,Ekeremor,SETNAME_12166876,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1656,Yowegbene,Ward_5,Ekeremor,SETNAME_12121232,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1657,Amazor,Ward_5,Ekeremor,SETNAME_12281775,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1659,Karen Ama,Ward_32,Ekeremor,SETNAME_12043811,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1661,Ayei Gbene,Ward_32,Ekeremor,SETNAME_12228175,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1667,Ebilowei Aleibiri Ii,Ward_32,Ekeremor,SETNAME_12018971,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1682,Egbusuware,Ward_104,Ekeremor,SETNAME_12088220,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1689,Tietiegbene,Ward_32,Ekeremor,SETNAME_12269355,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1693,Ebitimiware Gbene,Ward_27,Ekeremor,SETNAME_12035126,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1694,Oleye Gbene,Ward_27,Ekeremor,SETNAME_12197358,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1706,Atimi Gbene,Ward_28,Ekeremor,SETNAME_12218836,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1711,Asene Gbene,Ward_28,Ekeremor,SETNAME_12148366,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1715,Egbedikumo Gbene,Ward_28,Ekeremor,SETNAME_12161162,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1733,Eniyekedibain Ama,Ward_26,Ekeremor,SETNAME_12043393,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1748,Bulou Adagbabiri,Ward_34,Ekeremor,SETNAME_12174401,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1755,Kunou,Ward_34,Ekeremor,SETNAME_12099994,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1758,Ayama Ebene,Ward_96,Sagbama,SETNAME_12133116,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1759,Tumuke Ebigbene,Ward_25,Ekeremor,SETNAME_12220020,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1760,Ogila Gbene,Ward_27,Ekeremor,SETNAME_12024881,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1761,Pabor Gbene,Ward_27,Ekeremor,SETNAME_12029832,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1763,Enibiabor Gbene,Ward_32,Ekeremor,SETNAME_12030690,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1764,Agbein Gbene,Ward_32,Ekeremor,SETNAME_12047632,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1766,Touboturu Gbene,Ward_32,Ekeremor,SETNAME_12251299,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1768,Koromotoru,Ward_32,Ekeremor,SETNAME_12082607,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1769,Tigergbene,Ward_32,Ekeremor,SETNAME_12109196,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1771,Edimide Gbene I,Ward_32,Ekeremor,SETNAME_12284869,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1775,Binni Gbene,Ward_32,Ekeremor,SETNAME_12192638,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1777,Bonukuon Gbene Ii,Ward_32,Ekeremor,SETNAME_12137292,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1778,Ogbosunware,Ward_32,Ekeremor,SETNAME_12256227,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1779,Ayibamienghe,Ward_25,Ekeremor,SETNAME_12111726,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1780,Bebedoukumo,Ward_25,Ekeremor,SETNAME_12279009,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1781,Mondaygbene,Ward_25,Ekeremor,SETNAME_12271466,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1782,Ezekielgbene,Ward_25,Ekeremor,SETNAME_12082707,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1787,Samuelgbene,Ward_25,Ekeremor,SETNAME_12289018,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1788,Charlesgbene,Ward_25,Ekeremor,SETNAME_12121628,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1796,Ognonuama,Ward_97,Sagbama,SETNAME_12128373,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1806,Amiama,Ward_97,Sagbama,SETNAME_12254374,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1809,Isoni,Ward_97,Sagbama,SETNAME_12107732,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1811,Tamaraukuro,Ward_25,Ekeremor,SETNAME_12232851,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1814,Tobamagbene,Ward_25,Ekeremor,SETNAME_12136903,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1815,Authoritygbene I,Ward_25,Ekeremor,SETNAME_12082018,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1820,Abrahamgbene,Ward_25,Ekeremor,SETNAME_12094331,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1845,Yangagbene,Ward_25,Ekeremor,SETNAME_12196889,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1846,Delima Gbene,Ward_25,Ekeremor,SETNAME_12195258,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1848,Selekeowei,Ward_25,Ekeremor,SETNAME_12084557,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1849,Ekie Eregbene,Ward_25,Ekeremor,SETNAME_12092244,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1853,Alarugbene,Ward_25,Ekeremor,SETNAME_12056867,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1857,Nasunagbene,Ward_25,Ekeremor,SETNAME_12229931,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1858,Oniyegbene,Ward_25,Ekeremor,SETNAME_12191111,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1862,Oriogbene,Ward_25,Ekeremor,SETNAME_12284455,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1868,Atasisi Gbene Tubu,Ward_25,Ekeremor,SETNAME_12119315,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1871,Zene Oweigbene,Ward_26,Ekeremor,SETNAME_12051691,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1872,Ebuabirigbene,Ward_31,Ekeremor,SETNAME_12207921,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1877,Nor Gbene Ii,Ward_26,Ekeremor,SETNAME_12287137,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1886,Ayaghagbene,Ward_31,Ekeremor,SETNAME_12030825,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1887,Torukiri Gbene Ii,Ward_25,Ekeremor,SETNAME_12110188,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1888,Kusu,Ward_26,Ekeremor,SETNAME_12192737,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1889,Fouriri Egbemo Angalabari,Ward_25,Ekeremor,SETNAME_12029535,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1891,Ogipigbene,Ward_31,Ekeremor,SETNAME_12004491,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1892,Sandfield Ii,Ward_31,Ekeremor,SETNAME_12142497,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_1898,Gold Eregbene,Ward_26,Ekeremor,SETNAME_12145791,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2130,Turo Gbene,Ward_30,Ekeremor,SETNAME_12195282,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2132,Toru Ndoro,Ward_30,Ekeremor,SETNAME_12238934,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2136,Seikebolu Gbene,Ward_30,Ekeremor,SETNAME_12127274,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2143,Orobiri,Ward_5,Ekeremor,SETNAME_12166072,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2146,Lagos Gbene,Ward_5,Ekeremor,SETNAME_12067478,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2147,Pashanti Gbene Iii,Ward_5,Ekeremor,SETNAME_12091336,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2148,Pashanti Gbene Ii,Ward_5,Ekeremor,SETNAME_12220753,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2149,Pashanti Gbene I,Ward_5,Ekeremor,SETNAME_12251652,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2155,Azamabiri,Ward_5,Ekeremor,SETNAME_12234111,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2159,Zomokiri Adei,Ward_5,Ekeremor,SETNAME_12279304,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2160,Ajamabri,Ward_5,Ekeremor,SETNAME_12065684,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2161,Orkama Gbene,Ward_25,Ekeremor,SETNAME_12201104,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2165,Saimozi Gbene,Ward_25,Ekeremor,SETNAME_12194555,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2170,Alesegbene,Ward_25,Ekeremor,SETNAME_12233612,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2171,Bouperegha Gbene,Ward_25,Ekeremor,SETNAME_12220689,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2188,Fewerejughe,Ward_25,Ekeremor,SETNAME_12236143,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2192,Ibo Gbene I,Ward_25,Ekeremor,SETNAME_12198217,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2200,Ondikumogbene,Ward_25,Ekeremor,SETNAME_12181178,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2201,Evelyngbene,Ward_25,Ekeremor,SETNAME_12111954,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2206,Olugbene,Ward_25,Ekeremor,SETNAME_12202035,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2208,Kporogbene,Ward_25,Ekeremor,SETNAME_12251500,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2224,Tebeseigha,Ward_25,Ekeremor,SETNAME_12189929,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2227,Alice Gbene,Ward_25,Ekeremor,SETNAME_12230146,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2228,Jonahgbene,Ward_25,Ekeremor,SETNAME_12059672,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2229,Kemeasuodei Gbene,Ward_25,Ekeremor,SETNAME_12069794,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2234,Bozim Isaac Gbene,Ward_25,Ekeremor,SETNAME_12198972,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2235,Dolfamune Gbene,Ward_25,Ekeremor,SETNAME_12175054,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2236,Erekebina Gbene,Ward_25,Ekeremor,SETNAME_12165590,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2237,Ojojo Gbene,Ward_25,Ekeremor,SETNAME_12035104,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2243,Agbia Gbene I,Ward_30,Ekeremor,SETNAME_12274549,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2248,Opuadinon Gbene,Ward_25,Ekeremor,SETNAME_12282051,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2249,Romeo Gbene,Ward_25,Ekeremor,SETNAME_12008083,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2255,Polobiri Gbene,Ward_25,Ekeremor,SETNAME_12102124,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2257,Ebomoye Gbene,Ward_25,Ekeremor,SETNAME_12204612,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2258,Olumafa Gbene,Ward_25,Ekeremor,SETNAME_12037823,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2265,Bilabiri,Ward_25,Ekeremor,SETNAME_12082729,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2266,Finna Gbene,Ward_25,Ekeremor,SETNAME_12193532,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2272,Ebigba Gbene,Ward_25,Ekeremor,SETNAME_12113782,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2277,Tomugbeghe Gbene,Ward_25,Ekeremor,SETNAME_12169098,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2278,Enugu Gbene,Ward_25,Ekeremor,SETNAME_12269186,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2282,Egbeletubo Gbene Ii,Ward_25,Ekeremor,SETNAME_12034372,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2289,Dinefieama Gbene,Ward_25,Ekeremor,SETNAME_12152141,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2295,Rodeyesi Gbene,Ward_25,Ekeremor,SETNAME_12056641,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2372,Ngodeiowei Ama,Ward_25,Ekeremor,SETNAME_12172456,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2376,Agotuton,Ward_25,Ekeremor,SETNAME_12173827,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2377,Alaedi Gbene,Ward_25,Ekeremor,SETNAME_12237266,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2378,Ebidei Gbene,Ward_25,Ekeremor,SETNAME_12024322,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2379,Engine Gbene,Ward_25,Ekeremor,SETNAME_12045843,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2383,Salvation Zion Ama,Ward_25,Ekeremor,SETNAME_12267695,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2384,Esau Gbene,Ward_25,Ekeremor,SETNAME_12041794,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2385,Afurai Gbene,Ward_25,Ekeremor,SETNAME_12162672,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2387,Bisan Gbene,Ward_25,Ekeremor,SETNAME_12230331,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2425,Fefadei Gbene,Ward_25,Ekeremor,SETNAME_12111238,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2430,Tamogbene,Ward_31,Ekeremor,SETNAME_12145433,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2432,Azagbene,Ward_25,Ekeremor,SETNAME_12087238,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2433,Esamasuode Gbene,Ward_31,Ekeremor,SETNAME_12015969,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2442,Isaacgbene,Ward_25,Ekeremor,SETNAME_12040993,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2444,Egbemo Angalabiri,Ward_25,Ekeremor,SETNAME_12028751,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2445,New Jerusalem Zion,Ward_31,Ekeremor,SETNAME_12267335,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2450,Etonye Gbene,Ward_28,Ekeremor,SETNAME_12091668,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2453,Yanga Gbene,Ward_28,Ekeremor,SETNAME_12015946,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2456,Egukeme Gbene I,Ward_27,Ekeremor,SETNAME_12283737,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2464,Perekiri Ama,Ward_28,Ekeremor,SETNAME_12032435,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2475,Monako Ama,Ward_26,Ekeremor,SETNAME_12066385,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2476,Beinmo Ama,Ward_31,Ekeremor,SETNAME_12247045,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2478,Atabai Gbene,Ward_27,Ekeremor,SETNAME_12154089,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2480,Isampou,Ward_104,Ekeremor,SETNAME_12089790,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2484,Aleibiri,Ward_29,Ekeremor,SETNAME_12069586,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2490,Opugbiri Gbene I,Ward_28,Ekeremor,SETNAME_12241080,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_2492,Odorubo,Ward_65,Sagbama,SETNAME_12160388,GRID3 name point inside settlement polygon,0,Direct spatial name match,E1
+SET_SET_3,Unnamed GRID3 settlement SET_SET_3,Ward_86,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_6,Unnamed GRID3 settlement SET_SET_6,Ward_86,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_9,Unnamed GRID3 settlement SET_SET_9,Ward_86,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_50,Unnamed GRID3 settlement SET_SET_50,Ward_80,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_54,Unnamed GRID3 settlement SET_SET_54,Ward_80,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_59,Unnamed GRID3 settlement SET_SET_59,Ward_80,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_60,Unnamed GRID3 settlement SET_SET_60,Ward_80,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_201,Unnamed GRID3 settlement SET_SET_201,Ward_80,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_203,Unnamed GRID3 settlement SET_SET_203,Ward_80,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_204,Unnamed GRID3 settlement SET_SET_204,Ward_80,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_205,Unnamed GRID3 settlement SET_SET_205,Ward_80,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_206,Unnamed GRID3 settlement SET_SET_206,Ward_80,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_207,Unnamed GRID3 settlement SET_SET_207,Ward_80,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_214,Unnamed GRID3 settlement SET_SET_214,Ward_86,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_304,Unnamed GRID3 settlement SET_SET_304,Ward_60,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_348,Unnamed GRID3 settlement SET_SET_348,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_351,Unnamed GRID3 settlement SET_SET_351,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_352,Unnamed GRID3 settlement SET_SET_352,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_353,Unnamed GRID3 settlement SET_SET_353,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_354,Unnamed GRID3 settlement SET_SET_354,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_355,Unnamed GRID3 settlement SET_SET_355,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_356,Unnamed GRID3 settlement SET_SET_356,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_357,Unnamed GRID3 settlement SET_SET_357,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_358,Unnamed GRID3 settlement SET_SET_358,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_359,Unnamed GRID3 settlement SET_SET_359,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_360,Unnamed GRID3 settlement SET_SET_360,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_419,Unnamed GRID3 settlement SET_SET_419,Ward_78,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_420,Unnamed GRID3 settlement SET_SET_420,Ward_78,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_426,Unnamed GRID3 settlement SET_SET_426,Ward_78,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_465,Unnamed GRID3 settlement SET_SET_465,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1560,Unnamed GRID3 settlement SET_SET_1560,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1561,Unnamed GRID3 settlement SET_SET_1561,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1562,Unnamed GRID3 settlement SET_SET_1562,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1563,Unnamed GRID3 settlement SET_SET_1563,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1564,Unnamed GRID3 settlement SET_SET_1564,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1565,Unnamed GRID3 settlement SET_SET_1565,Ward_34,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1566,Unnamed GRID3 settlement SET_SET_1566,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1569,Unnamed GRID3 settlement SET_SET_1569,Ward_34,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1570,Unnamed GRID3 settlement SET_SET_1570,Ward_34,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1571,Unnamed GRID3 settlement SET_SET_1571,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1572,Unnamed GRID3 settlement SET_SET_1572,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1573,Unnamed GRID3 settlement SET_SET_1573,Ward_34,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1574,Unnamed GRID3 settlement SET_SET_1574,Ward_34,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1575,Unnamed GRID3 settlement SET_SET_1575,Ward_34,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1576,Unnamed GRID3 settlement SET_SET_1576,Ward_34,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1577,Unnamed GRID3 settlement SET_SET_1577,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1578,Unnamed GRID3 settlement SET_SET_1578,Ward_65,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1581,Unnamed GRID3 settlement SET_SET_1581,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1582,Unnamed GRID3 settlement SET_SET_1582,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1584,Unnamed GRID3 settlement SET_SET_1584,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1585,Unnamed GRID3 settlement SET_SET_1585,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1586,Unnamed GRID3 settlement SET_SET_1586,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1587,Unnamed GRID3 settlement SET_SET_1587,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1588,Unnamed GRID3 settlement SET_SET_1588,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1632,Unnamed GRID3 settlement SET_SET_1632,Ward_30,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1638,Unnamed GRID3 settlement SET_SET_1638,Ward_25,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1639,Unnamed GRID3 settlement SET_SET_1639,Ward_25,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1640,Unnamed GRID3 settlement SET_SET_1640,Ward_25,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1643,Unnamed GRID3 settlement SET_SET_1643,Ward_25,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1741,Unnamed GRID3 settlement SET_SET_1741,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1742,Unnamed GRID3 settlement SET_SET_1742,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1750,Unnamed GRID3 settlement SET_SET_1750,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_1754,Unnamed GRID3 settlement SET_SET_1754,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2244,Unnamed GRID3 settlement SET_SET_2244,Ward_26,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2245,Unnamed GRID3 settlement SET_SET_2245,Ward_26,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2247,Unnamed GRID3 settlement SET_SET_2247,Ward_26,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2462,Unnamed GRID3 settlement SET_SET_2462,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2463,Unnamed GRID3 settlement SET_SET_2463,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2468,Unnamed GRID3 settlement SET_SET_2468,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2469,Unnamed GRID3 settlement SET_SET_2469,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2470,Unnamed GRID3 settlement SET_SET_2470,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2471,Unnamed GRID3 settlement SET_SET_2471,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2474,Unnamed GRID3 settlement SET_SET_2474,Ward_25,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2491,Unnamed GRID3 settlement SET_SET_2491,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2494,Unnamed GRID3 settlement SET_SET_2494,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2495,Unnamed GRID3 settlement SET_SET_2495,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2496,Unnamed GRID3 settlement SET_SET_2496,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2499,Unnamed GRID3 settlement SET_SET_2499,Ward_23,Ekeremor,NA,NA,NA,Settlement name unresolved,E0
+SET_SET_2501,Unnamed GRID3 settlement SET_SET_2501,Ward_96,Sagbama,NA,NA,NA,Settlement name unresolved,E0

@@ -1,0 +1,12 @@
+dataset,record_count,validation_status
+LGA boundaries,2,Population validation pending
+Ward boundaries,26,Population validation pending
+Settlement polygons,857,Community verification pending
+Settlement-name points,749,Settlement-name verification pending
+Health facilities,90,Facility audit pending
+Primary facilities,83,Facility audit pending
+Secondary facilities,7,Facility audit pending
+Tertiary facilities,0,Facility audit pending
+Candidate catchments,6,Route and catchment validation pending
+Settlement population summaries,857,Government and survey comparison pending
+Facility readiness records,90,Current readiness audit pending

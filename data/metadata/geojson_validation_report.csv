@@ -1,0 +1,14 @@
+file,valid_feature_collection,feature_count,file_size_mb,error
+D:/Projects/Canada/Data/JSON/data/reference/lga_boundaries.geojson,TRUE,2,0.019,NA
+D:/Projects/Canada/Data/JSON/data/reference/ward_boundaries.geojson,TRUE,26,0.048,NA
+D:/Projects/Canada/Data/JSON/data/reference/settlements.geojson,TRUE,857,5.025,NA
+D:/Projects/Canada/Data/JSON/data/reference/settlement_name_points.geojson,TRUE,749,0.404,NA
+D:/Projects/Canada/Data/JSON/data/reference/health_facilities.geojson,TRUE,90,0.097,NA
+D:/Projects/Canada/Data/JSON/data/reference/facility_catchments.geojson,TRUE,6,0.024,NA
+D:/Projects/Canada/Data/JSON/data/outputs/settlement_summary.geojson,TRUE,857,4.925,NA
+D:/Projects/Canada/Data/JSON/data/outputs/facility_readiness_summary.geojson,TRUE,90,0.079,NA
+D:/Projects/Canada/Data/JSON/data/outputs/accessibility_summary.geojson,TRUE,0,0,NA
+D:/Projects/Canada/Data/JSON/data/outputs/service_continuity_summary.geojson,TRUE,0,0,NA
+D:/Projects/Canada/Data/JSON/data/outputs/hotspot_scores.geojson,TRUE,0,0,NA
+D:/Projects/Canada/Data/JSON/data/outputs/validation_points.geojson,TRUE,0,0,NA
+D:/Projects/Canada/Data/JSON/data/outputs/action_locations.geojson,TRUE,0,0,NA

@@ -1,0 +1,27 @@
+ward_id,ward_name,lga_name,assigned_secondary_facility_id,assigned_secondary_facility_name,assignment_distance_m,assignment_scope,worldpop_total_2025,worldpop_u5_2025,worldpop_female_15_49_2025
+WARD_4,Ward_5,Ekeremor,HF_3859,Amatu General Hospital,12110.22611300588,Nearest Secondary facility within the same LGA,14291,1595,3626
+WARD_22,Ward_23,Ekeremor,HF_3550,Aleibiri Cottage Hospital,9561.943911267437,Nearest Secondary facility within the same LGA,9892,1117,2494
+WARD_24,Ward_25,Ekeremor,HF_3866,Ayama Cottage Hospital,9661.216417718098,Nearest Secondary facility within the same LGA,39066,4361,9913
+WARD_25,Ward_26,Ekeremor,HF_3866,Ayama Cottage Hospital,6736.211917410129,Nearest Secondary facility within the same LGA,13110,1464,3326
+WARD_26,Ward_27,Ekeremor,HF_3550,Aleibiri Cottage Hospital,7131.799912432598,Nearest Secondary facility within the same LGA,8315,928,2110
+WARD_27,Ward_28,Ekeremor,HF_3866,Ayama Cottage Hospital,9114.649361444248,Nearest Secondary facility within the same LGA,16389,1831,4158
+WARD_28,Ward_29,Ekeremor,HF_3550,Aleibiri Cottage Hospital,1653.7204045331182,Nearest Secondary facility within the same LGA,8783,981,2229
+WARD_29,Ward_30,Ekeremor,HF_3859,Amatu General Hospital,17154.64449904882,Nearest Secondary facility within the same LGA,8309,928,2108
+WARD_30,Ward_31,Ekeremor,HF_3866,Ayama Cottage Hospital,1844.3449050596007,Nearest Secondary facility within the same LGA,11253,1262,2848
+WARD_31,Ward_32,Ekeremor,HF_3550,Aleibiri Cottage Hospital,9921.731916129911,Nearest Secondary facility within the same LGA,4591,513,1165
+WARD_33,Ward_34,Ekeremor,HF_3550,Aleibiri Cottage Hospital,13337.965118857628,Nearest Secondary facility within the same LGA,4505,503,1143
+WARD_103,Ward_104,Ekeremor,HF_3550,Aleibiri Cottage Hospital,3480.148728897969,Nearest Secondary facility within the same LGA,7285,813,1849
+WARD_56,Ward_57,Sagbama,HF_32843,Ebedebiri Cottage Hospital,5928.442085468241,Nearest Secondary facility within the same LGA,19246,2149,4884
+WARD_59,Ward_60,Sagbama,HF_32843,Ebedebiri Cottage Hospital,11588.91274812638,Nearest Secondary facility within the same LGA,11983,1338,3041
+WARD_61,Ward_62,Sagbama,HF_31778,Sagbama General Hospital,928.1118535233218,Nearest Secondary facility within the same LGA,30224,3374,7669
+WARD_63,Ward_64,Sagbama,HF_32843,Ebedebiri Cottage Hospital,2176.6450566529766,Nearest Secondary facility within the same LGA,13169,1478,3318
+WARD_64,Ward_65,Sagbama,HF_32843,Ebedebiri Cottage Hospital,10537.08142085659,Nearest Secondary facility within the same LGA,7300,815,1852
+WARD_77,Ward_78,Sagbama,HF_23309,Agbere Cottage Hospital,4852.642450498225,Nearest Secondary facility within the same LGA,14354,1603,3640
+WARD_79,Ward_80,Sagbama,HF_23309,Agbere Cottage Hospital,5791.492823782505,Nearest Secondary facility within the same LGA,12364,1380,3137
+WARD_80,Ward_81,Sagbama,HF_23309,Agbere Cottage Hospital,4997.667341244543,Nearest Secondary facility within the same LGA,5552,633,1361
+WARD_82,Ward_83,Sagbama,HF_23309,Agbere Cottage Hospital,8726.150550713746,Nearest Secondary facility within the same LGA,8451,945,2138
+WARD_85,Ward_86,Sagbama,HF_23309,Agbere Cottage Hospital,16665.113409330377,Nearest Secondary facility within the same LGA,6519,728,1654
+WARD_90,Ward_91,Sagbama,HF_32843,Ebedebiri Cottage Hospital,10351.846418830013,Nearest Secondary facility within the same LGA,5555,620,1410
+WARD_92,Ward_93,Sagbama,HF_31778,Sagbama General Hospital,3313.8735572778005,Nearest Secondary facility within the same LGA,28178,3150,7138
+WARD_95,Ward_96,Sagbama,HF_32843,Ebedebiri Cottage Hospital,16664.6763313744,Nearest Secondary facility within the same LGA,16302,1820,4137
+WARD_96,Ward_97,Sagbama,HF_32843,Ebedebiri Cottage Hospital,30174.832961174954,Nearest Secondary facility within the same LGA,4254,475,1080
