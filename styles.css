@@ -278,3 +278,85 @@ footer p { margin: .2rem 0; }
     grid-template-columns: 1fr;
   }
 }
+/* =========================================================
+   EVIDENCE PROGRESSION: E0 TO E5
+   ========================================================= */
+
+.evidence-progression {
+  padding: 1rem 1.15rem 1.15rem;
+  border-top: 1px solid var(--line);
+  background: #fbfdfd;
+}
+
+.evidence-progression-title {
+  margin: 0 0 0.7rem;
+  font-size: 0.78rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.evidence-steps {
+  display: flex;
+  align-items: stretch;
+  gap: 0.35rem;
+  flex-wrap: wrap;
+}
+
+.evidence-step {
+  flex: 1 1 105px;
+  min-width: 100px;
+  padding: 0.65rem 0.45rem;
+  border: 1px solid rgba(20, 55, 65, 0.12);
+  border-radius: 11px;
+  text-align: center;
+}
+
+.evidence-step strong {
+  display: block;
+  font-size: 1rem;
+  line-height: 1.1;
+}
+
+.evidence-step span {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.68rem;
+  line-height: 1.25;
+  font-weight: 750;
+}
+
+.evidence-arrow {
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+  font-weight: 900;
+}
+
+.evidence-progression-note {
+  margin: 0.8rem 0 0;
+  padding: 0.65rem 0.75rem;
+  border-left: 4px solid var(--brand);
+  border-radius: 0 8px 8px 0;
+  background: var(--teal-soft);
+  color: var(--ink);
+  font-size: 0.75rem;
+  line-height: 1.45;
+}
+
+@media (max-width: 760px) {
+  .evidence-arrow {
+    display: none;
+  }
+
+  .evidence-step {
+    flex-basis: 30%;
+  }
+}
+
+@media (max-width: 480px) {
+  .evidence-step {
+    flex-basis: 45%;
+  }
+}
